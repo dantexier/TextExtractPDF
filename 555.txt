@@ -1,0 +1,710 @@
+PAGE 1
+International Studies Quarterly (2018) 62, 182–194 
+Apples and Dragon Fruits: The Determinants of Aid and Other 
+Forms of State Financing from China to Africa 
+RESEARCH NOTE 
+A X E L D R E H E R 
+Heidelberg University 
+A N D R E A S F U C H S Heidelberg University 
+B R A D PA R K S 
+College of William and Mary 
+A U S T I N M. S T R A N G E 
+Harvard University 
+AND 
+M I C H A E L J. T I E R N E Y 
+College of William and Mary 
+Chinese “aid” is a lightning rod for criticism. Policy-makers, journalists, and public intellectuals claim that Beijing uses its largesse to cement alliances with political leaders, secure access to natural resources, and create exclusive commercial oppor- tunities for Chinese ﬁrms—all at the expense of citizens living in developing countries. We argue that much of the controversy about Chinese “aid” stems from a failure to distinguish between China’s Ofﬁcial Development Assistance (ODA) and more commercially oriented sources and types of state ﬁnancing. Using a new database on China’s ofﬁcial ﬁnancing commitments to Africa from 2000 to 2013, we ﬁnd that the allocation of Chinese ODA is driven primarily by foreign policy considerations, while economic interests better explain the distribution of less concessional ﬂows. These results highlight the need for better measures of an increasingly diverse set of non-Western ﬁnancial activities. 
+Axel Dreher is a professor of International and Development Politics at Hei- delberg University. He is the Editor of the Review of International Organizations, President of the European Public Choice Society (EPCS), and chairman of the developmental economics section of the German Economic Association. 
+Andreas Fuchs is a senior researcher at Heidelberg University’s Research Cen- ter for Distributional Conﬂict and Globalization. His research focuses on the in- ternational political economy of aid, trade, and ﬁnance. 
+Brad Parks is the Executive Director of AidData at the College of William and Mary. He leads a team of thirty-ﬁve research faculty and development profession- als who study the distribution and impact of international development ﬁnance. You can follow their work on Twitter at @AidData. 
+Austin M. Strange is a PhD candidate in Harvard University’s Department of Government. For more on his work, see austinstrange.org or follow him on Twitter at @austinmstrange. 
+Michael Tierney is the George C. and Mary C. Hylton Professor of Govern- ment and International Relations at the College of William and Mary. He co- founded AidData and currently directs the Institute for the Theory and Practice of International Relations. 
+the Annual Meeting of 
+Authors’ note: We thank Jean-Marc Blanchard, Xinyuan Dai, Josepa Miquel- Florensa, Gina Reinhardt, Marina Rudyak, Justin Sandefur, the seminar and con- ference participants at the East Asian Institute at the National University of Singapore (February 2014), the American Politi- cal Science Association in Washington, DC (August 2014), the “South-South Development Cooperation: Chances and Challenges for the International Aid Architecture” Workshop at Heidelberg University, Germany (September 2014), the International Economic Policy Research Seminar and AFRASO Lecture at Goethe University Frankfurt, Germany (January 2015), the “Approaches and Implementation of Asian and European Ofﬁcial Development Assistance (ODA)” International Conference at Catholic Louvain University in Louvain- La-Neuve, Belgium (February 2015), the CSAE “Economic Development in 
+Western policy-makers and pundits often claim that non- Western donors are less altruistic and “development ori- ented” than their Western counterparts (Alden 2005; Tull 2006; Lum, Fischer, Gomez-Granger, and Leland 2009; Halper 2010).1 They charge that non-Western donors, es- pecially China, use their largesse to curry political favor with developing countries, secure unfair commercial advan- tages for their domestic ﬁrms, and support corrupt and 
+Africa” Conference at Oxford University, UK (March 2015), the Chinese Over- seas Finance Conference at Johns Hopkins University’s School of Advanced International Studies in Washington, DC (April 2015), the Association of Chinese Political Stud- ies Annual Meeting at Peking University, China (June 2015), and the School of International Relations and Public Affairs at Fudan University, Shanghai, China (May 2016) for helpful comments on earlier versions of this paper. Finally, for their excellent research assistance, we thank Zach Baxter, Tiffanie Choi, Graeme Cranston-Ceubas, Catherine Crowley, Harsh Desai, Ze Fu, Melanie Gilbert, Eliza- beth Goldemen, Torey Beth Jackson, Jiaorui Jiang, Dylan Kolhoff, Daniel Lantz, Grace Perkins, Faith Savaiano, Samuel Siewers, Rebecca Thorpe, Hanyang Xu, Darice Xue, Yue Zhang, and Junrong Zhu. Replication materials are available at http://aiddata.org/replication-datasets. 
+1 During a 2012 trip to Africa, then US Secretary of State Hillary Clinton made a thinly veiled criticism of Chinese development ﬁnance by arguing for “a model of sustainable partnership that adds value, rather than extracts it” and noted that, unlike other countries, “America will stand up for democracy and universal hu- man rights even when it might be easier to look the other way and keep the re- sources ﬂowing” (French 2014). Three years later, during his own trip to Africa, US President Barack Obama hastened to mention that China has “been able to funnel an awful lot of money into Africa, basically in exchange for raw materials that are being extracted from Africa” (BBC 2015). 
+Dreher, Axel et al. (2018) Apples and Dragon Fruits: The Determinants of Aid and Other Forms of State Financing from China to Africa. International Studies Quarterly, doi: 10.1093/isq/sqx052 © The Author (2018). Published by Oxford University Press on behalf of the International Studies Association. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com 
+l 
+D o w n o a d e d 
+  f r o m h 
+  
+t t 
+p s : / / 
+i 
+a c a d e m c . o u p . c o m 
+l 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ i s q a r t i c e 6 2 1 1 8 2 4 8 4 1 6 3 5 b y   g u e s t   
+  
+  
+o n 0 7   J u n e 2 0 2 1 
+  
+  
+  
+  
+PAGE 2
+A X E L D R E H E R E T A L. 
+183 
+authoritarian regimes that are rich in natural resources (Naím 2007). Yet the few studies that subject these claims to empirical scrutiny arrive at more conditional conclu- sions. They suggest that non-Western donors are probably no more self-interested than their Western counterparts.2 Why then does the “rogue donor” narrative persist? Is it even possible to systematically compare the international devel- opment spending patterns and motives of Western and non- Western states? 
+Our answer to the latter question is yes. We argue that an absence of granular data, as well as inadequate attention to different types of ofﬁcial ﬁnancing, encourage commenta- tors to make strong claims that rest upon weak evidentiary foundations. This skews debates about “new” and “emerg- ing” donors in unproductive ways, particularly in the con- text of Chinese “aid” to Africa.3 In this research note, we use a new dataset on Chinese government ﬁnancing to more accurately describe China’s spending behavior and clarify its intentions. We ﬁnd important differences between Chi- nese “aid” and other types of ofﬁcial ﬁnancial ﬂows from China. By disaggregating Chinese state ﬁnancing into its constituent parts and separately analyzing these ﬂows, we help correct misperceptions about Chinese behavior and motives. 
+Of course, the problems of scarcity and mismanagement of development ﬁnance data extend well beyond the case of China. While the member states of the Development Assis- tance Committee (DAC) of the Organization for Economic Cooperation and Development (OECD) largely comply with a basic set of voluntary reporting norms, many so-called “emerging” or “non-traditional” donors—including Brazil, India, Iran, Qatar, Venezuela, and China—have opted out of the Western-led regime that tracks development ﬁnance activities. Consequently, there is a growing chasm between the de facto suppliers of development ﬁnance and the in- ternational reporting regime designed to track their activi- ties (see Xu and Carey 2014; Muchapondwa, Nielson, Parks, Strange, and Tierney 2016). The methods that we employ in this note to collect and classify data on Chinese develop- ment ﬁnance can also be used to identify the activities of other non-Western sources of development ﬁnance.4 
+To help standardize empirical research on non-Western development ﬁnanciers and enable comparisons with West- ern donors and creditors, we employ OECD-DAC standards that distinguish ofﬁcial development assistance (ODA) from other ofﬁcial ﬂows (OOF). ODA includes transactions that (a) are provided by ofﬁcial agencies to developing coun- tries and to multilateral institutions; (b) primarily aim to promote economic development and welfare; and (c) are concessional in nature—that is, they have a grant element of at least 25 percent. OOF are also funded by govern- ment agencies but do not qualify as ODA because they are not primarily intended for development in the recipi- ent country or they are not sufﬁciently concessional. Many non-DAC suppliers of development ﬁnance do not comply 
+2 See studies on Arab donors (Neumayer 2003a, 2004), China (Hendrix and Noland 2014, chapter 5; Bader 2015a; Dreher and Fuchs 2015), Turkey (Kavaklı 2013), and a larger set of non–Development Assistance Committee (DAC) donors (Dreher, Nunnenkamp, and Thiele 2011). See also Fuchs and Vad- lamannati (2013) on India for an exception. 
+3 Evidentiary challenges are not the only reason that certain donors are ma- ligned in the public sphere. As Hirono and Suzuki (2014) suggest, many studies of Chinese and other non-Western aid may be guided by motives other than the pursuit of scientiﬁc knowledge. 
+4 For example, the Tracking Underreported Financial Flows methodology that we employ here has also been adapted to track the international development ﬁ- nance activities of Qatar and Saudi Arabia (Strange, Parks, Perla, and Desai 2015). 
+with these reporting norms. As such, the absence of com- mon deﬁnitions and consistent measurements across DAC and non-DAC donors has led many analysts to draw “ap- ples to oranges” comparisons—or, perhaps more appropri- ately in the case of China, “apples to dragon fruits” compar- isons (Bräutigam 2009; Strange, Dreher, Fuchs, Parks, and Tierney 2017). As Strange et al. (2017) show, mismeasure- ment of Chinese state ﬁnancing leads researchers to arrive at wildly different estimates of “Chinese foreign aid,” which makes it difﬁcult for researchers and policy-makers alike to draw meaningful inferences about the nature and scope of Beijing’s development program.5 We address this problem by categorizing Chinese state ﬁnancing ﬂows according to existing OECD-DAC deﬁnitions and standards. 
+In doing so, we demonstrate that Chinese ODA and OOF are means to different ends. We hypothesize that since ODA ﬂows are by deﬁnition highly concessional, states will use them to buy policy concessions abroad. On the other hand, since less concessional forms of ofﬁcial support are pro- vided on closer-to-market-terms, we expect that these ﬂows will be allocated to advance the economic interests of their suppliers. In order to distinguish between Chinese-ﬁnanced ODA ﬂows and more market-based forms of state ﬁnancing for overseas activities (OOF), we developed an open-source data collection technique—a Tracking Underreported Fi- nancial Flows (TUFF) methodology—to assemble a ﬁrst- of-its-kind, project-level dataset on the known universe of China’s ofﬁcial ﬁnancing activities in Africa from 2000 to 2013 (Strange et al. 2017). Our results from panel regres- sions support the notion that China uses ODA ﬂows (and grants) mainly to promote its foreign policy goals, while less concessional forms of ofﬁcial ﬁnancing (and loans) follow China’s economic interests. On balance, it appears that both China and Western donors use these different types of ﬁ- nancing to achieve similar objectives, although China pro- vides far less ODA and far more OOF than its Western coun- terparts. We conclude that China is neither a rogue donor nor a role model; its international development program is more complex and multifaceted than popular debates sug- gest. 
+In what follows, we hypothesize that different types of state ﬁnancing should advance different objectives. We then introduce the data and empirical strategy used to test our hypotheses. After describing our results, the ﬁnal section ex- plores the broader implications of our ﬁndings. 
+Beyond “Aid”: Flow-Type Hypotheses on the Allocation 
+of Chinese Development Finance 
+Scholars largely agree that both donor interests and recipi- ent needs shape the cross-country allocation of aid (for ex- ample, Morgenthau 1962; McKinley and Little 1979; Alesina and Dollar 2000; Neumayer 2003b; Kuziemko and Werker 2006; Hoefﬂer and Outram 2011). By contrast, the litera- ture on market-oriented ofﬁcial ﬁnancial ﬂows and private commercial ﬂows shows that market size, political stability, rule-based governance, borrower repayment capacity, and expected returns inﬂuence lender and investor decisions (Alesina and Dollar 2000; Jensen 2003; Evrensel 2004). 
+5 Supplementary File A contains a table with ﬁfteen different published esti- mates of the amount of Chinese development ﬁnance that has been allocated to Africa. These estimates range from less than half a million dollars per year to just under $18 billion per year. 
+l 
+D o w n o a d e d 
+  f r o m h 
+  
+t t 
+p s : / / 
+i 
+a c a d e m c . o u p . c o m 
+l 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ i s q a r t i c e 6 2 1 1 8 2 4 8 4 1 6 3 5 b y   g u e s t   
+  
+  
+o n 0 7   J u n e 2 0 2 1 
+  
+  
+  
+PAGE 3
+184 
+Apples and Dragon Fruits 
+The Role of Foreign Policy Interests 
+Numerous quantitative studies support the conclusion that the political interests of Western donors signiﬁcantly in- ﬂuence their foreign aid allocation decisions (Schraeder, Hook, and Taylor 1998; Kuziemko and Werker 2006; Vreeland and Dreher 2014). Western powers use aid to reward allies, punish enemies, build coalitions, and inﬂu- ence public opinion in recipient countries (Morgenthau 1962; Bueno de Mesquita and Smith 2007; Berman, Shapiro, and Felter 2011). And theory suggests few reasons why one would expect non-Western donors to behave much differently. Indeed, recent quantitative research ﬁnds that China uses aid to attract political support at high-level diplo- matic events, inﬂuence the voting behavior of recipient gov- ernments in various international fora, and secure diplo- matic recognition for the People’s Republic of China at the expense of Taiwan (Dreher and Fuchs 2015). 
+We hypothesize that a state’s ability to “buy” policy conces- sions from another state will increase with the concessional- ity of its offer. Put another way, for any given ﬁnancial com- mitment, the larger the grant element, the more the recip- ient government will value the transfer and thus the larger the “favor” a donor can expect in return.6 Hence, ODA ﬂows (and grants) will generally be employed to achieve foreign policy goals. These broad theoretical expectations are rein- forced by the fact that line ministries in charge of Chinese foreign and security policy play a direct role in the alloca- tion of concessional ﬁnance. China does not have an in- dependent foreign aid agency; other agencies such as the Ministry of Commerce (MOFCOM) and the Ministry of For- eign Affairs handle its aid activities. Therefore, those govern- mental actors tasked with securing diplomatic recognition, basing rights, and assembling coalitions within international organizations play a direct role in the allocation of ODA ﬂows. By contrast, and as we will discuss at greater length below, China’s so-called policy banks (for example, China Exim Bank and the China Development Bank) are tasked with generating ﬁnancial returns on their loans, and those actors also happen to play a more central role in the alloca- tion decisions of OOF (Sun 2014, 26–31).7 Hence, for both theoretical and organizational reasons, we predict that: H1: China’s foreign policy interests guide its allocation of ODA ﬂows (and grants), but play a less prominent role in China’s al- location of OOF (and loans). 
+The Role of Economic Interests 
+Whereas we expect foreign policy interests to more heav- ily inﬂuence the cross-country allocation of ODA ﬂows, less concessional forms of ofﬁcial ﬁnancing should be more closely tied to the economic interests of creditor countries (Moravcsik 1989). Sovereign lending provides an opportu- nity for capital-rich governments to earn signiﬁcant eco- nomic returns by transacting with capital-poor countries. Further, statistical research demonstrates that sovereign creditors are sensitive to the creditworthiness of their bor- rowers (Evrensel 2004). The most obvious explanation for why sovereign creditors pay close attention to the loan 
+6 Dreher, Nunnenkamp, and Thiele (2008) explain why grants are commonly used to obtain political favors; in their analysis, the favors are votes in the UN General Assembly. For an alternative theory on aid as exchange, see Bueno de Mesquita and Smith (2007). 
+7 The ﬁnding of Johnston, Morgan, and Wang (2015) that exports to China are not affected by the recognition of the government in Taipei underlines the notion that commercial ﬂows are less likely to be affected by foreign policy issues. 
+repayment capacity of their borrowers is that they seek repayment—with interest (Eichengreen 1989). 
+Trade ﬁnance is another important type of less conces- sional ofﬁcial ﬁnancing (OOF) that merits attention. Ofﬁ- cial trade ﬁnance instruments, such as export seller’s cred- its and export buyer’s credits, are explicitly designed to ad- vance national economic objectives (Moravcsik 1989). They help ﬁrms from exporting countries to do business in over- seas markets and ﬁrms from importing countries to buy goods and services from ﬁrms in exporting countries. Non- Western sources of ofﬁcial trade ﬁnance serve the same pur- poses; therefore, they too are likely guided by national eco- nomic interests (Kobayashi 2008). 
+We suggest several reasons why China’s economic inter- ests might play a central role in its allocation of OOF. As the world’s single largest exporter of capital, Beijing is vulner- able to risky economic conditions in the countries receiv- ing its capital ﬂows. As such, China has a compelling in- terest to invest its foreign exchange reserves in economic sectors and commercial activities that will deliver strong re- turns, and qualitative research suggests that China Exim Bank and the China Development Bank (two of the largest sources of Chinese OOF) prioritize “bankable” projects and screen loans based on commercial criteria (Bräutigam 2009; Corkin 2011; Yu 2013; Sun 2014).8 China has also adopted a “going global” strategy to promote national exports and stimulate business for Chinese ﬁrms overseas (Bräutigam 2011a), and ofﬁcial ﬁnancing purportedly facilitates the im- plementation of this strategy by helping Chinese ﬁrms to gain a foothold in new markets where they can export goods and services and secure future contracts (Chen and Orr 2009).9 Finally, China has a strong interest in securing access to the natural resources that it lacks at home but requires in order to sustain domestic economic growth and stability (Kobayashi 2008).10 All of these considerations point in the same direction: less concessional and thus more commercial forms of Chinese ofﬁcial ﬁnancing should follow Chinese economic interests. 
+8 Corkin (2011, 72) reports that “the base rate [of a China Exim Bank loan] is London Interbank Offered Rate (Libor), with an additional percentage added according to the country’s sovereign credit rating (if it exists), the political situa- tion, and its economic and ﬁnancial stability.” During one of our own interviews with ofﬁcials from China’s Ministry of Commerce, we were told that “China Exim Bank is mostly motivated by proﬁt” (Authors’ interview, August 2015). Jansson (2013, 157) echoes this point, noting that while China Exim Bank and China De- velopment Bank “actively support the overseas expansion of the Chinese SOEs [state-owned enterprises], their principal concern is the perceived proﬁtability of the project in question. They need to be conﬁdent that their investment will be repaid.” 
+9 Chinese government loans are “tied” in the sense that borrowers must pur- chase Chinese goods and services (Huang 2015). This subsidy from Beijing helps Chinese enterprises to compete for market share with foreign ﬁrms. According to one study, 85 percent of Chinese ﬁrms that performed work for foreign gov- ernment loan projects between 1995 and 2010 ended up carrying out follow-up projects or new projects in the same countries (Huang 2015). 
+10 Many researchers suggest that China’s desire for resource security may be a key driver of Chinese aid and other ﬁnancial ﬂows to developing countries (for example, Mohan and Power 2008; Berthélemy 2011). For example, a 2009 Con- gressional Research Service study concludes that “China’s foreign aid is driven primarily by the need for natural resources” (Lum et al. 2009, 5), and Foster, But- terﬁeld, Chen, and Pushak (2008, 64) conclude that “most Chinese government- funded projects in Sub-Saharan Africa are ultimately aimed at securing a ﬂow of Sub-Saharan Africa’s natural resources for export to China.” The Chinese govern- ment rejects the claim that its aid program is designed to secure access to other countries’ natural resources (State Council 2011). However, as we discuss below, part of this discrepancy might reﬂect disagreements over what is being counted (ODA or OOF). Both Hendrix and Noland (2014, chapter 5) and Dreher and Fuchs (2015) employ quantitative tests showing that China does not target ODA based on natural resource endowments. 
+l 
+D o w n o a d e d 
+  f r o m h 
+  
+t t 
+p s : / / 
+i 
+a c a d e m c . o u p . c o m 
+l 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ i s q a r t i c e 6 2 1 1 8 2 4 8 4 1 6 3 5 b y   g u e s t   
+  
+  
+o n 0 7   J u n e 2 0 2 1 
+  
+  
+  
+PAGE 4
+A X E L D R E H E R E T A L. 
+185 
+H2: China’s economic interests guide its allocation of OOF (and loans), but economic interests are less important in the allocation of ODA ﬂows (and grants). 
+The Role of Governance and Institutions 
+China claims to follow a policy of noninterference in the domestic affairs of sovereign governments, which implies that aid allocation decisions are made without considering the political institutions of recipient countries. Many West- ern observers consider this approach a convenient ratio- nale for economic engagement with undemocratic, corrupt governments (Kurlantzick 2007, xii), thus prompting the claim that Chinese aid props up rogue regimes and delays much-needed governance reforms.11 These claims ﬁnd mixed support among the few quantitative studies that exist (Bermeo 2011; Kersting and Kilby 2014; Dreher and Fuchs 2015; Bader 2015a,b).12 
+As with political and commercial interests, we expect to observe different allocation patterns across more and less concessional forms of ofﬁcial ﬁnancing based on institu- tional quality in recipient (borrower) countries. Since OOF is provided on terms that more closely resemble market conditions, the Chinese government and Chinese ﬁrms in- volved in state-sponsored OOF projects presumably have an interest in making sure that loans will actually be paid back and that investments yield attractive returns. Thus, we ex- pect that less concessional forms of Chinese ofﬁcial ﬁnance will favor recipient countries with higher levels of institu- tional quality—a factor that strongly inﬂuences repayment rates (Reinhart and Rogoff 2004; Faria and Mauro 2009). On the other hand, consistent with its own ofﬁcial rhetoric but contrary to the popular “rogue aid” hypothesis, we expect China to disregard the quality of institutions in re- cipient states when allocating ODA. H3: Countries with higher institutional quality will receive more loans and other less concessional forms of state ﬁnancing from China, while Chinese grants and ODA ﬂows will be provided in- dependently of recipient institutional quality. 
+Data 
+China’s Ofﬁcial Finance to Africa 
+China does not systematically publish project-level data or even aggregated bilateral ﬂow data on its ofﬁcial ﬁnanc- ing activities abroad. We thus rely on AidData’s Chinese Ofﬁcial Finance to Africa dataset (version 1.2) introduced by Strange et al. (2017), which includes 2,647 projects in ﬁfty recipient countries in Africa over the 2000–13 period.13 Given the nature of our hypotheses, we are primarily inter- ested in variation over the cross-section (between recipient countries) rather than over time. 
+11 Collier (2007, 86) argues that “[governance] in the bottom billion is al- ready unusually bad, and the Chinese are making it worse, for they are none too sensitive when it comes to matters of governance.” Bräutigam (2009, 21) takes is- sue with this proposition, arguing instead that “China’s aid does not seem to be particularly toxic” and “the Chinese do not seem to make governance worse.” 
+12 Doubts that China favors autocracies extend beyond the aid literature. See, 
+for example, de Soysa and Midford (2012) for evidence on arms transfers. 
+13 In our analysis, we rely on a subsample of this dataset. We exclude projects coded as “Ofﬁcial Investment” or “Military Aid (without development intent).” We exclude pledges. We exclude projects to any group of countries where no break- down on the national destination is available. We exclude South Sudan, which became an independent state in 2011. Finally, we exclude 2013 data from our analysis as the numbers for recent years may be lower as a result of limited accu- mulated media information compared to previous years (Strange et al. 2017). 
+We cannot measure Chinese ODA in the strict, OECD- deﬁned sense of the term as information on the conces- sionality and development intent of projects is incomplete. Therefore, we rely on a second-best deﬁnition of Chinese “ODA-like” ﬂows, which consists of all grants, technical as- sistance and scholarships, loans with large grant elements, and debt relief, under the condition that these projects are provided with development intent. Alternatively, “OOF-like” ﬂows include loans and export credits that have little or no grant element or that are not primarily intended to improve economic development or welfare in the recipient coun- try, as well as grants that are not intended for development purposes;14 11.5 percent of these projects remain unveriﬁed pledges and are thus excluded from the econometric anal- ysis below.15 We analyze the remaining 2,043 projects that have at least reached commitment status. In doing so, we seek to achieve comparability with ofﬁcial ﬁnance commit- ments as deﬁned by the OECD-DAC. 
+Our dependent variable is the (logged) ﬁnancial value of projects committed to a recipient country in a given year (in constant 2009 US$).16 We start with the full range of China’s ofﬁcial ﬁnance activities, and then compare the distinctive determinants of ODA-like and OOF-like ﬂows. Finally, we disaggregate China’s ofﬁcial ﬁnance by ﬂow type into grants and loans. 
+Figure 1 highlights important features of our data on Chi- nese ofﬁcial ﬁnancing to Africa. The ﬁrst column shows that grants constitute only about a tenth of total Chinese ofﬁ- cial ﬁnancing to Africa in ﬁnancial terms, while loans rep- resent 86 percent of total dollars committed. The distribu- tion of ODA-like and OOF-like ﬁnancial ﬂows mirrors this pattern. Disaggregating projects by sector also reveals in- teresting variation: while the social sector includes a large number of projects, indicating an active Chinese presence in education, health, and government infrastructure, the corresponding ﬁnancial value of these projects is signiﬁ- cantly smaller than for projects in transport and energy infrastructure. 
+14 For details on the data collection and coding scheme, see Strange et al. (2015) and Muchapondwa et al. (2016). In Table B.1 in Supplementary File B, we show what our data add over ofﬁcial data for one of the few countries for which such data exist (Malawi). Table B.2 provides a table of various coding examples to illustrate nuances speciﬁcally with regard to coding ﬂow class. The original source material used to generate these categorizations is not always detailed enough to determine whether a given project qualiﬁes as ODA. As such, we have developed a third residual category (called “Vague Ofﬁcial Finance”) for projects that have in- sufﬁcient information to make an ODA-like or OOF-like determination. We have done this transparently so that our work can be replicated and so that other ana- lysts can make their own decisions about whether to recode the residual cases or what to include/exclude in any statistical tests. In this paper, we treat the “vague” ﬂows as OOF-like projects. Typically, these records are loans that lack sufﬁcient details (interest rates, grace periods, or maturity dates) to enable ODA or OOF classiﬁcation, or insufﬁcient information to code the intent of the project (as de- velopmental, commercial, or representational). That being said, the observable attributes of “vague” projects are more similar to OOF projects than ODA projects (e.g., sector, project size, funding institution). 
+15 Pledges are deﬁned as verbal, informal agreements while commitments are 
+deﬁned as formal, written, binding contracts (Strange et al. 2017). 
+16 This measure comes with the caveat that 41 percent of the projects lack information on their ﬁnancial value. However, this is less problematic than it might appear since the likelihood that the ﬁnancial value of a project is reported varies substantially across ﬂow types (Muchapondwa et al. 2016). While the dataset only covers 9 percent of the relatively cheap projects in the category “Scholar- ships/Training in the Donor Country,” fully 91 percent of the more expensive loan projects have a reported ﬁnancial value. We also test the robustness of our ﬁndings by using the total number of projects committed to a particular recipient country. 
+l 
+D o w n o a d e d 
+  f r o m h 
+  
+t t 
+p s : / / 
+i 
+a c a d e m c . o u p . c o m 
+l 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ i s q a r t i c e 6 2 1 1 8 2 4 8 4 1 6 3 5 b y   g u e s t   
+  
+  
+o n 0 7   J u n e 2 0 2 1 
+  
+  
+  
+PAGE 5
+186 
+Apples and Dragon Fruits 
+Figure 1. Financial value of Chinese development projects by ﬂow type, ﬂow class, and sector (in billions of constant 2009 US$, 2000–12) 
+Explanatory Variables 
+To determine whether China uses speciﬁc types of ofﬁcial ﬁnance to pursue its foreign policy objectives (Hypothesis 1), we analyze the voting behavior of recipient countries in the United Nations General Assembly (UNGA). Indicators of UNGA voting similarity are frequently used in the aid allo- cation literature and beyond to measure political alignment between states (Alesina and Dollar 2000; Kilby 2009, 2011; Vreeland and Dreher 2014).17 In our baseline model, we use the share of observations in which China and the recipient government show the same voting behavior. More speciﬁ- cally, we use raw data from Strezhnev and Voeten (2012), reﬁned as described in Kilby (2009), to compute a voting similarity measure that ranges between 0 and 1.18 These data likely include a substantial number of low-salience votes in terms of Chinese foreign policy. Therefore, while we prefer to include all observations instead of arbitrarily restricting the vote set, we test robustness in several ways.19 We ﬁrst in- clude only those votes that the US Department of State con- siders important (so-called “key votes”). We do so because, as Wu, Fu, and Pan (2016, 4) explain, there is “good reason to believe that China will lobby extensively in [the] UNGA on certain issues it deem[s] important.” Votes that the United States considers politically important are likely also signif- icant to other great powers, including China. Second, we focus on votes where China and the United States disagree, 
+17 Foot (2014, 1085) provides an extended explanation on “why the UN is a key venue for China to demonstrate its ‘responsible Great Power’ status.” Even if China did not care about UNGA voting per se, its voting reﬂects, on average, its political alliances, and is thus a valuable proxy for strategic motives in the al- location of foreign aid (Strüver 2016). This argument ﬁnds empirical support in Voeten (2000, 213), who shows that China’s voting in the UNGA can be at “least partly explained by their degree of opposition to U.S. hegemony.” China is no outlier in this respect either, as less powerful countries, such as India, also tend to cooperate more frequently with those who vote similarly in the UNGA. Fuchs and Vadlamannati (2013) and Davis, Fuchs and Johnson (Forthcoming) provide both qualitative and quantitative evidence that India’s aid and trade follow UNGA voting patterns. 
+18 Abstention and absence are counted as half-agreements with a yes or no 
+vote. 
+19 Our approach follows Dreher and Fuchs (2015) and Cheung et al. (2014). 
+as it is in these cases that aid may be most useful—and con- sequential. Third, we follow Flores-Macías and Kreps (2013) and Dreher and Yu (2016) and focus exclusively on human rights voting in the UNGA.20 
+As a ﬁnal proxy for short-term geostrategic interests, we employ temporary membership on the United Nations Se- curity Council (Kuziemko and Werker 2006; Dreher, Sturm, and Vreeland 2009). Vreeland and Dreher (2014) show that temporary members of the UNSC receive substantial in- creases in aid from Western donors in exactly those two years when they are present on the Council. Vreeland and Dreher (2014) argue that these increases in aid apply only to those members that vote in line with the United States and other Western powers on the Council. Therefore, by the same logic, one would expect China to reduce its ODA (and grants) to temporary members of the UNSC in order to punish countries for aligning with the Western powers. 
+To test the role of a country’s stance on the One-China policy, we employ several different measures. We ﬁrst con- struct a binary indicator variable that takes a value of 1 if a recipient country maintains diplomatic relations with the government in Taiwan rather than (mainland) China (data from Rich 2009, own update).21 Cheung, de Haan, Qian, and Yu (2014) provide evidence that diplomatic recognition of Taiwan drives countries away from China (on contracted engineering projects). We also employ two additional binary variables: one that measures the presence or absence of an embassy of the recipient country in Beijing, and another that measures the presence or absence of a Chinese embassy 
+20 China’s Counselor to its United Nations delegation acknowledges that while China has a “consistent position of opposing country speciﬁc resolutions on hu- man rights…the Chinese delegation has always held that countries should seek to resolve their differences in the ﬁeld of human rights” (Foreign Ministry 2009 as cited in Flores-Macías and Kreps 2013, 358). Flores-Macías and Kreps (2013) suggest that convergence in UNGA voting on human rights implies movement toward China’s preferred position rather than mutual convergence. 
+21 This measure, while blunt, has been employed frequently in other recent studies on aid allocation and Chinese foreign policy (for example, Kersting and Kilby 2014; Dreher and Fuchs 2015; Johnston et al. 2015). Therefore, we also include it as a second measure of geopolitical alignment. 
+l 
+D o w n o a d e d 
+  f r o m h 
+  
+t t 
+p s : / / 
+i 
+a c a d e m c . o u p . c o m 
+l 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ i s q a r t i c e 6 2 1 1 8 2 4 8 4 1 6 3 5 b y   g u e s t   
+  
+  
+o n 0 7   J u n e 2 0 2 1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+PAGE 6
+A X E L D R E H E R E T A L. 
+187 
+the 
+inﬂuence 
+in the recipient country (data from Rhamey, Cline, Bodung, Henshaw, James, Kang, Sedziak, Tandon, and Volgy 2013). We employ three distinct measures to determine whether commercial motivations cross-national distribution of Chinese ofﬁcial ﬁnance (Hypothesis 2). As a proxy for China’s trade interests, we include the logged value of China’s existing trade with a particular country (in constant 2009 US$).22 Similarly, to account for China’s potential interest in securing access to natural resources, we include a binary variable that is 1 if a country produced oil in 1999 (i.e., the year immediately prior to our sample period). This measure follows the reasoning in Easterly and Levine (2003), who discuss the beneﬁts of using a measure that is exogenous to aid (data from the British Geological Survey 2016). Finally, we use a country’s debt-to-GDP ratio to account for creditworthiness (Abbas, Belhocine, ElGanainy, and Horton 2010). If the probability of repayment is a factor that inﬂuences the allocation of ofﬁcial ﬁnance, then one would expect to observe a rela- tionship between the receipt of Chinese state ﬁnancing and the ratio of debt-to-GDP. 
+To test the potential effects of recipient institutional qual- ity (Hypothesis 3), we employ the polity2 variable from the Polity IV Project (Marshall, Gurr, and Jaggers 2013).23 This variable is a 21-point index, where the highest value corre- sponds to a fully institutionalized democracy. We expect this variable to be unrelated to Chinese ODA-like ﬂows to Africa based on Beijing’s principle of noninterference in internal affairs and previous quantitative results (Dreher and Fuchs 2015). We also use the Control of Corruption index from the Worldwide Governance Indicators project, which ranges from –2.5 to 2.5, with higher values representing better gov- ernance (Kaufmann, Kraay, and Mastruzzi 2004). 
+We add several control variables to the model that may inﬂuence the allocation of Chinese ofﬁcial ﬁnancing. To capture the level of need in recipient countries, we use measures of logged average per capita income and logged population size (taken from the World Bank 2016). Apart from need, both of these variables might provide an in- dication of the “price” that China would need to pay in order to purchase foreign policy compliance from the re- cipients of its largesse. The foreign policy support of poorer and smaller nations should be cheaper to buy than that of richer and larger countries. As an additional control vari- able, we include the logged total number of people affected by disasters in the recipient country (EM-DAT 2014). We ex- pect Chinese ODA ﬂows in general—and humanitarian as- sistance in particular—to increase with the number of dis- aster victims. We also add a binary indicator that takes a value of 1 if English is the ofﬁcial language (Mayer and Zignago 2011). We do so because AidData’s Chinese Of- ﬁcial Finance to Africa dataset (version 1.2) draws dispro- portionately upon Chinese- and English-language sources, and the dataset may underrepresent China’s development ﬁnance activities in states where other languages are more prominent in media outlets, business relations, and politics. Finally, we control for potential geo-strategic competition among donors by using the residuals of an ordinary least squares (OLS) regression of logged net ofﬁcial ﬁnance re- ceived from all DAC donors (in constant 2009 US$) on all 
+22 Data were obtained from the United Nations Comtrade database 
+(http://wits.worldbank.org/wits/, accessed May 2, 2014). 
+23 Svensson (1999), Kosack (2003), and Montinola (2010) provide evidence that democracies put aid resources to better use than nondemocracies. However, others disagree. See Doucouliagos (Forthcoming) for a recent survey. 
+other explanatory variables (see Dreher, Nunnenkamp, Öh- ler, and Weisser 2012 for a similar approach). 
+For most of the time-varying explanatory variables, we lag by one year to mitigate endogeneity concerns. How- ever, when measuring the total number of people affected by natural disasters, we do not lag the variable as disasters are largely exogenous to aid and disaster relief is disbursed quickly. The binary oil indicator refers to the year 1999, prior to the start of our time series. In Supplementary File C, Table C.1 provides an overview on all variables used, their deﬁnitions and sources, and Table C.2 provides the corre- sponding descriptive statistics. 
+Econometric Analysis 
+We estimate the following regression equation: aidit = β0 + β1 pol it icalit−1 + β2economicit−1 
++ β3inst it ut ionalit−1 + β4cont rolit−1 + τt + εit , 
+where aidit measures China’s development ﬁnance to coun- try i in year t ; pol it icalit−1 is a vector of the three foreign policy variables introduced above (H1); economicit−1 cap- tures the three economic variables (H2); inst it ut ionalit−1 stands for the two institutional quality variables (H3); cont rolit−1 denotes the set of ﬁve control variables; τt stands for year-ﬁxed effects; and εit 
+is a stochastic error term. 
+We ﬁrst run pooled OLS regressions to exploit variation across recipient countries. To test robustness, we add coun- try ﬁxed effects to the regression equation identiﬁed above. However, while we report results from these ﬁxed effects regressions for comparison, we do not expect our explana- tory variables to hold much power in explaining year-to-year changes in aid; rather, we stress the importance of retain- ing the between-recipient country variation for testing the observable implications of our theory. 
+Results 
+Table 1 shows our main results. Column 1 seeks to explain the cross-country allocation of total Chinese ofﬁcial ﬁnanc- ing. As Table 1 shows, few variables are signiﬁcant at con- ventional levels, arguably because the model pools the dif- ferential determinants of ODA and OOF, resulting in ef- fects that are insigniﬁcant, on average. The exceptions are Taiwan recognition and temporary membership in the UNSC. Speciﬁcally, we ﬁnd that countries that do not rec- ognize Taiwan receive 2,763 percent more Chinese ofﬁcial ﬁnance per year, on average. This huge effect is not sur- prising given that diplomatic recognition of Taiwan typically makes countries ineligible for receipt of Chinese aid (see also Kersting and Kilby 2014).24 As expected, at the 10 per- cent level of signiﬁcance, countries that do not serve on the UNSC receive 794 percent more in aid compared to temporary members. Given that temporary membership has been shown to attract surges in aid from Western donors (Vreeland and Dreher 2014), we expect China to punish the recipients of Western aid with reductions in its own aid due to their provision of foreign policy favors to the West. Alter- natively, one might think that China perceives recipients of 
+24 At the same time, there are exceptions. In our dataset, for example, China supported a bridge construction in Senegal in 2004, that is, before the West African country ceased diplomatic relations with Taiwan. See also the historic ex- amples listed in Dreher and Fuchs (2015). When we replace this variable with a binary variable indicating the existence of a Chinese embassy in the recipient country or of an embassy of the recipient country in Beijing, results are similar. See Tables D.1a and D.1b in Supplementary File D. 
+l 
+D o w n o a d e d 
+  f r o m h 
+  
+t t 
+p s : / / 
+i 
+a c a d e m c . o u p . c o m 
+l 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ i s q a r t i c e 6 2 1 1 8 2 4 8 4 1 6 3 5 b y   g u e s t   
+  
+  
+o n 0 7   J u n e 2 0 2 1 
+  
+  
+  
+PAGE 7
+188 
+Apples and Dragon Fruits 
+Table 1. Allocation of China’s development ﬁnance (ﬁnancial value, 2000–12, OLS) 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+Total OF (log amount) 
+ODA (log amount) 
+OOF/vague (log amount) 
+Grants (log amount) 
+Loans (log amount) 
+UN voting with China 
+UNSC member 
+Taiwan recognition 
+Trade with China (log) 
+Oil dummy 
+Debt/GDP 
+Polity 
+Control of Corruption 
+GDP per capita (log) 
+Population (log) 
+Affected from disasters (log) 
+English language 
+DAC OF (log, residuals) 
+Country ﬁxed effects Year ﬁxed effects R-squared Number of countries Number of observations 
+4.068 (0.235) –2.553* (0.067) –9.797*** (0.000) 0.612 (0.128) 2.109 (0.219) –0.004 (0.542) 0.084 (0.408) –1.142 (0.215) –2.385*** (0.007) –0.621 (0.258) 0.029 (0.669) 3.866*** (0.001) 0.535*** (0.005) 
+No Yes 0.28 50 644 
+4.958 (0.123) –3.000*** (0.007) –8.836*** (0.000) 0.603 (0.120) –0.417 (0.810) –0.004 (0.572) 0.077 (0.427) –0.261 (0.757) –1.876** (0.029) –0.319 (0.535) 0.013 (0.842) 3.927*** (0.001) 0.465** (0.045) 
+No Yes 0.27 50 644 
+4.371 (0.139) –0.810 (0.540) –3.912*** (0.000) 0.688** (0.014) 3.610*** (0.007) –0.017*** (0.000) 0.028 (0.690) –2.375*** (0.008) –2.318*** (0.001) –0.597 (0.153) 0.023 (0.728) 3.076*** (0.000) 0.285** (0.048) 
+No Yes 0.20 50 644 
+8.643*** (0.004) –3.919*** (0.000) –7.302*** (0.000) 0.293 (0.371) 1.044 (0.423) 0.003 (0.612) 0.101 (0.231) –1.282 (0.133) –1.773** (0.014) –0.191 (0.693) 0.048 (0.451) 3.416*** (0.002) 0.388** (0.047) 
+No Yes 0.27 50 644 
+4.332 (0.210) –0.971 (0.469) –4.956*** (0.000) 0.606 (0.141) 2.598 (0.152) –0.018*** (0.010) 0.023 (0.815) –1.331 (0.195) –1.667 (0.132) –0.583 (0.379) –0.015 (0.857) 3.544*** (0.000) 0.316** (0.043) 
+No Yes 0.17 50 644 
+Notes: p values in parentheses; * (**, ***) signiﬁcant at the 10 (5, 1) percent level. OF: Ofﬁcial Finance; ODA: Ofﬁcial Development Assistance; OOF: Other Ofﬁcial Flows 
+large amounts of Western aid as less needy—or requests for aid decline—so that it provides less aid. Note, however, that we control for those parts of Western aid not driven by the covariates in our model, which rules out this explanation. We thus interpret our results as evidence of geostrategic mo- tivations for aid provision. We further test this idea by in- teracting temporary membership in the UNSC with UNGA voting with China and ﬁnd a strong and signiﬁcant negative effect of this interaction (see Table D.2 in Supplementary File D). We ﬁnd that only countries that have befriended China, as measured by their voting in the UNGA, get pun- ished for being friendlier with the West, as indicated by their UNSC membership (see also Figure D.1 in Supplementary File D). 
+Thus, before unpacking the black box of Chinese ofﬁ- cial ﬁnancing into different types of ﬁnancial ﬂows, it is im- portant to note that our aggregate results on the drivers of “Chinese aid” are generally consistent with conventional wis- dom that foreign policy interests guide Beijing’s “aid” ﬂows. Our results are not consistent with the idea that Chinese aid favors corrupt or authoritarian regimes or Chinese com- mercial interests. However, this picture changes when we focus on the number of Chinese aid projects rather than aid amounts as the dependent variable: the total number of projects increases with more trade with China and more cor- ruption at the 5 percent level of signiﬁcance (see Table D.3 in Supplementary File D). Speciﬁcally, increasing logged 
+trade with China by one standard deviation increases the annual number of Chinese development projects by 0.83; a one-point increase on the Control of Corruption index (on the –2.5 to +2.5 scale) reduces the number of develop- ment projects from China by almost one. When these results are considered in conjunction with our results for Chinese ODA and grants (presented below), it becomes easier to un- derstand how the conventional wisdom about Chinese “aid” has taken hold. 
+We now turn to a set of hypotheses that sheds light on the question of whether and to what extent these aggregate results are driven by more or less concessional ﬂows of of- ﬁcial ﬁnancing. Columns 2 and 3 of Table 1 split ofﬁcial ﬁ- nancing into commitments of ODA-like and OOF-like ﬂows; columns 4 and 5 compare grant commitments to loan com- mitments. The results broadly corroborate our hypotheses, but to varying degrees. First, with respect to foreign policy interests (H1), there is a statistically signiﬁcant relationship between the receipt of highly concessional ﬂows—measured in terms of the aggregate ﬁnancial value of grants—and vot- ing in line with China in the UN General Assembly.25 An in- crease in voting similarity by 0.1 increases grant funding by 
+25 Our results on UNGA voting are robust to focusing on “key votes” only, and to using those votes where China and the United States disagree (see Tables D.4–D.5 in Supplementary File D). They are more mixed when focusing on votes over human rights, where results for grants, but not OOF, are in line with our hypothesis (Table D.6). 
+l 
+D o w n o a d e d 
+  f r o m h 
+  
+t t 
+p s : / / 
+i 
+a c a d e m c . o u p . c o m 
+l 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ i s q a r t i c e 6 2 1 1 8 2 4 8 4 1 6 3 5 b y   g u e s t   
+  
+  
+o n 0 7   J u n e 2 0 2 1 
+  
+  
+  
+  
+  
+PAGE 8
+A X E L D R E H E R E T A L. 
+189 
+51 percent. We also ﬁnd substantial and signiﬁcant reduc- tions in Chinese ODA and grants to temporary members of the UNSC (by 95 percent and 98 percent, respectively), in- dicating that geostrategic competition with Western donors is relevant for ODA and grants but not for OOF and loans. When we compare the coefﬁcients across models, we ﬁnd that the effect of UNSC membership is quantitatively larger for grants than loans (but ﬁnd no signiﬁcant difference be- tween ODA and OOF). 
+Additionally, we ﬁnd almost universal support across mod- els for the notion that China provides less ofﬁcial ﬁnancing to African states that recognize Taiwan.26 The coefﬁcient on the Taiwan recognition dummy is negative and statistically signiﬁcant at the 1 percent level for all measures of Chi- nese ODA-like and OOF-like ﬂows. In line with our expecta- tions, the respective coefﬁcients are much larger for ODA- like ﬂows and grants than for OOF-like ﬂows and loans, with the coefﬁcients for ODA and OOF being signiﬁcantly dif- ferent from each other at the 1 percent level.27 Taken to- gether, the results provide strong support for the hypothesis that ODA-like ﬂows and grants are guided more by foreign policy interests than other types of ofﬁcial ﬁnancing.28 
+Second, we ﬁnd support for our hypothesis that less con- cessional forms of ofﬁcial ﬁnance are inﬂuenced to a larger degree by economic considerations (H2). Commitments of OOF-like ﬁnancing are signiﬁcantly and positively corre- lated with trade, while this is not true for ODA-like ﬂows.29 Similarly, oil-producing countries receive more OOF, but not more ODA. Quantitatively, a 1 percent increase in trade with China increases OOF by 0.7 percent.30 Oil producers receive 3,597 percent more OOF than non–oil producers. We ﬁnd further support for Hypothesis 2 when measuring economic interests according to a recipient country’s cred- itworthiness. The negative and statistically signiﬁcant coef- ﬁcient of indebtedness on OOF-like ﬂows and loans sug- gests that China prefers to allocate less concessional types of ofﬁcial ﬁnancing to more creditworthy states.31 Quantita- tively, an increase in the debt-to-GDP ratio by one percent- age point reduces OOF funding by 1.7 percent and loans by 1.8 percent. Also, as expected, no such signiﬁcant re- 
+26 None of the African “Taiwan recognizers” in the 2000–11 period—Burkina Faso, the Gambia, São Tomé and Príncipe, and Swaziland—received ofﬁcial ﬁ- nancing from China during that period. African states that have shifted their po- sitions vis-à-vis the One-China policy have witnessed major changes in inﬂows of ofﬁcial ﬁnance from China. For example, Chad received no Chinese ofﬁcial ﬁ- nance from 2000 to 2005 and only received its ﬁrst inﬂows after China and Chad re-established diplomatic relations on August 5, 2006. 
+27 We run our models as seemingly unrelated regressions and use a Wald test to test for statistically signiﬁcant differences. Our results are similar if we replace the Taiwan recognition dummy with a binary variable indicating the existence of a Chinese embassy in the recipient country or of an embassy of the recipient country in Beijing (see again Tables D.1a and D.1b in Supplementary File D). 
+28 We also ﬁnd that, while short-term political alliances—proxied by voting be- havior in the UNGA and temporary membership on the UNSC—only affect highly concessional Chinese ﬂows, recipient country respect for the “One-China policy” is much more important for securing concessional resources than for attracting Chinese OOF and loans. 
+29 We tested whether exports from China (recipient imports) are driving the relationship between Chinese OOF-like commitments and commercial interests, but found no evidence for this. It seems instead that the trade ﬁnding is primarily driven by Chinese imports (results available on request). 
+30 We do not observe the same differential results across grants and loans; in fact, we ﬁnd the opposite pattern, and our results are not robust when we use a dependent variable that measures total project numbers, as opposed to dollars (see again Table D.3 in Supplementary File D). 
+31 This ﬁnding is consistent with Huang’s (2015, 17) claim that “recipient countries’ political stability and good credit standing are emphasized” in the allo- cation of Chinese government loans. 
+lationship exists for ODA-like ﬂows or grants.32 The coef- ﬁcients on debt-to-GDP and oil presence are signiﬁcantly different between ODA and OOF at conventional levels; those for trade, however, are not. Taken together, these re- sults demonstrate that Chinese economic motivations play a larger role in the allocation of OOF-like ﬂows but less so—if at all—for ODA-like ﬂows, in line with Hypothesis 2. 
+Third, we ﬁnd no evidence that China’s ODA to Africa is tied to domestic political institutions in recipient (bor- rower) countries. The coefﬁcients on both the Polity vari- able and Control of Corruption do not reach statistical sig- niﬁcance at conventional levels in the ODA regression. The same ﬁnding applies to the allocation of Chinese grants.33 This outcome provides partial evidence in support of Hy- pothesis 3 and is consistent with China’s principle of nonin- terference in the internal affairs of partner countries. With respect to the allocation of Chinese OOF-like ﬂows, the pic- ture is more nuanced. While we also ﬁnd that OOF-like ﬂows are allocated independent of the level of democracy in re- cipient countries, the highly signiﬁcant negative coefﬁcient on Control of Corruption indicates that these less conces- sional ﬂows are more likely to go to countries with higher levels of corruption. This difference between the coefﬁcient on Chinese ODA and Chinese OOF is statistically signiﬁcant. One potential explanation for this ﬁnding is that corruption “greases the wheels” of commerce (for example, Dutt and Traca 2010, 843), facilitating more proﬁt-oriented ﬁnancial transactions between China and African partner countries. Another plausible interpretation is that China is better posi- tioned than Western countries to transact with poorly gov- erned countries because China employs ﬁnancial modali- ties, such as commodity-backed loans, that reduce the risks of ﬁnancial misappropriation, loan repayment delinquency, and default. Such modalities help to mitigate the commit- ment problems faced by countries with weak institutions (Yarbrough and Yarbrough 2014). Chinese loans are typi- cally used to pay Chinese contractors for work performed in counterpart countries, thereby enabling Beijing to re- tain more ﬁduciary oversight and indirectly impose restraint on its borrowers (Bräutigam 2011b). A ﬁnal possibility is that the relatively short time period of our study (2000–12) masks changes in Chinese resource allocation practices over time. In her analysis of investments in the energy sector, Moreira (2013) suggests that Chinese state-backed oil com- panies have learned to mitigate political risk after suffering losses due to political instability, corruption, and expropri- ation. She also suggests that the year 2009 may have repre- sented a turning point in China’s political risk management efforts, which if true might have resource allocation impli- cations. However, since our time series ends in 2012, this is a possibility that future research can explore. 
+In any case, this ﬁnding is inconsistent with our expec- tation that more Chinese OOF would ﬂow to less corrupt settings. Thus, while we only ﬁnd partial evidence consistent with Hypothesis 3, our ﬁndings refute the popular claim that Chinese “aid” is focused on countries with poor governance; instead, it is OOF that ﬂows to poorly governed countries. 
+32 This ﬁnding is also consistent with our own interview evidence. One ofﬁcial from the Foreign Aid Department of the Chinese Ministry of Commerce asserted that “economic concerns are not considered at all” in the allocation of Chinese grants and interest-free loans (Authors’ interview, August 2015). 
+33 These results for democracy are overall robust to a number of tests that we perform in Supplementary File D. In some regressions, ODA and grants do increase with democracy, however (for example, Table D.1a). While few of our regressions support such a pattern, this clearly hints at the absence of a negative relation between concessional ﬁnancing and democracy, as would be indicated by the “rogue aid” hypothesis. 
+l 
+D o w n o a d e d 
+  f r o m h 
+  
+t t 
+p s : / / 
+i 
+a c a d e m c . o u p . c o m 
+l 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ i s q a r t i c e 6 2 1 1 8 2 4 8 4 1 6 3 5 b y   g u e s t   
+  
+  
+o n 0 7   J u n e 2 0 2 1 
+  
+  
+  
+PAGE 9
+190 
+Apples and Dragon Fruits 
+These ﬁndings help explain why policy-makers, journalists, and public intellectuals perceive Chinese “aid” as ﬂowing to more corrupt countries. In fact, it is not aid (ODA) that ﬂows to such countries but rather OOF, which is not aid as deﬁned by international standards or by AidData’s TUFF- based coding scheme. 
+Turning to our control variables, we ﬁnd that Chinese ODA to Africa is strongly oriented toward poorer countries. Beijing either responds to humanitarian and socioeconomic needs when making ODA allocation decisions, or it believes that the governments of poor countries are easier to in- ﬂuence with aid. However, unlike the allocation behavior of Western donors, we do not ﬁnd that more populous re- cipient countries receive systematically more Chinese ofﬁ- cial ﬁnancing.34 Additionally, all regressions show a positive and statistically signiﬁcant coefﬁcient on the dummy vari- able for English-speaking countries, which is consistent with our expectation that AidData’s open-source data collection methodology (TUFF) is more likely to reveal Chinese of- ﬁcial ﬁnancing in English-speaking countries than in non- English-speaking ones.35 While we do not observe a signiﬁ- cant relationship with the number of disaster victims, there is some evidence that Chinese ODA and OOF increase with the size of Western development assistance. Given that we have netted out the inﬂuence of the control variables on these Western ﬂows, we interpret this latter result as evi- dence of competition between China and the West. 
+To increase our conﬁdence in the main results, we con- duct a number of additional analyses. First, we include country ﬁxed effects for comparison (see Table D.7 in Sup- plementary File D). Importantly, while the inclusion of country ﬁxed effects leads to fewer signiﬁcant ﬁndings, our core conclusions still hold. We again ﬁnd that Chinese ODA and grant commitments are reduced if countries recognize Taiwan or are temporary members of the UNSC. Also, Chi- nese grants remain signiﬁcantly correlated with UNGA vot- ing alignment vis-à-vis China. In line with expectations, none of the foreign policy variables are signiﬁcant in the OOF and loan regressions. These results provide further evidence in favor of our ﬁrst hypothesis: highly concessional ﬂows follow foreign policy goals. Further, Chinese loan commit- ments appear to decrease as more individuals in a recipi- ent country are impacted by natural disasters. This ﬁnding suggests that these less concessional and more commercially oriented ﬂows are likely sensitive to risks that could impinge upon proﬁtability.36 Finally, and consistent with our main results and with Hypothesis 3, we ﬁnd that Chinese ODA is provided without respect to institutional quality in recipient countries. Taken together, these results are generally in line with our hypotheses, but as expected they are substantially weaker when compared to our results in Table 1. 
+Second, we compare our results to ﬁnancial ﬂows from the DAC countries (data from OECD 2016).37 Table D.8 in Supplementary File D shows results where we replicate 
+34 We also ﬁnd some evidence that more populous countries receive fewer Chinese projects, which is consistent with ﬁndings by Dreher and Fuchs (2015) using different data sources. 
+35 The relative ease of communication between Chinese ofﬁcials, aid workers, and their African counterparts in English-speaking environments might produce the same result. 
+36 This is in line with evidence in Gassebner, Keck, and Teh (2010) of a trade- 
+Table 1 with DAC data but replace (a) our measure of UN voting with China with a measure of average voting alignment with the ﬁve major DAC donors (the so-called G-5) on hu- man rights;38 (b) our measure of trade with China with a mea- sure of (logged) trade with all DAC donor countries; and (c) remove our measure of Taiwan recognition for obvious reasons. The results show that countries voting in line with the G-5 receive more ofﬁcial ﬁnance from the DAC, on av- erage (column 1). We ﬁnd analogous results for ODA (col- umn 2), but not for OOF (column 3). DAC OOF increases with trade, while more concessional ﬂows are not affected by commercial motives. Overall, DAC ﬂows follow similar patterns as ﬂows from China when it comes to donors’ for- eign policy and commercial interests. However, less corrupt countries receive more ODA from DAC countries, which is in line with the stated policies of many Western donors to reward countries with good institutions. This ﬁnding is not surprising since it is a long-standing result in the political economy literature, but as discussed above, this result stands in stark contrast to the results we see for Chinese OOF and Chinese loans. 
+Third, we make use of a number of alternative variables to test Hypothesis 1 (see results in Tables D.9–D.11 in Supple- mentary File D). We (a) replace our measure of UN voting alignment with China with a measure of voting alignment with the United States; (b) add a categorical variable that takes a value of 2 if a country expressed strong support for China following its 2008 crackdown on unrest in Tibetan areas, 1 in the case of moderate support, and 0 otherwise (Kastner 2016); and (c) add a binary “right wing govern- ment” indicator that takes a value of 1 if the recipient gov- ernment is coded as conservative, Christian democratic, or right wing, and 0 otherwise (data from Beck, Clarke, Groff, Keefer, and Walsh 2001). Our ﬁndings broadly comport with expectations. We observe a signiﬁcant negative association between voting alignment with the United States and the provision of Chinese grants but not Chinese loans. Inter- estingly, we also ﬁnd that larger amounts of Chinese OOF and more Chinese lending goes to countries with right wing governments, which arguably provide more market-friendly environments, on average (Eden, Kraay, and Qian 2012). However, we do not ﬁnd a link between Chinese ﬂows and a country’s stance toward the Tibetan unrest, but this re- sult may reﬂect data limitations as we are only observing other governments’ positions on a single issue in a single year (2008). 
+Finally, an exploration of 
+the sectoral allocation of Chinese ofﬁcial ﬂows aligns with our broader argument that different ﬂows are means to different strategic ends (see Supplementary File E for details). For instance, we ﬁnd that only Chinese aid to social sectors, such as the construction of hospitals, schools, and government buildings, increases with higher voting alignment with China in the UN General Assembly. In contrast, Chinese ﬁnancing for projects in eco- nomic and production sectors decreases as recipient debt increases. 
+Conclusions 
+Despite a burgeoning literature on Chinese economic state- craft (see Drezner 2009; Fordham and Kleinberg 2011; 
+deteriorating effect of natural disasters. 
+37 Since bilateral data on OOF commitments from OECD-DAC donors are unavailable, we use data on OOF disbursements in these comparative tests. While not itself an “apples to apples” comparison, previous research indicates that the bulk of ODA commitments are disbursed within two years in the 2002–10 period (Hudson 2013), and we have no reason to assume a different pattern for OOF. 
+Again, for reasons of data availability, we cannot compare grants and loans in a meaningful way and thus exclude these regressions from Table D.8. 
+38 We focus on human rights as these are of particular importance to the G5, in line with the recent literature (for example, Dreher and Yu 2016). When we replace voting on human rights resolutions with votes on all resolutions, the coef- ﬁcient is not signiﬁcant at conventional levels in any regression. 
+l 
+D o w n o a d e d 
+  f r o m h 
+  
+t t 
+p s : / / 
+i 
+a c a d e m c . o u p . c o m 
+l 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ i s q a r t i c e 6 2 1 1 8 2 4 8 4 1 6 3 5 b y   g u e s t   
+  
+  
+o n 0 7   J u n e 2 0 2 1 
+  
+  
+  
+PAGE 10
+A X E L D R E H E R E T A L. 
+191 
+Flores-Macías and Kreps 2013; Fuchs and Klann 2013; Liao and McDowell 2015; Kastner 2016; Norris 2016), data scarcity and conceptual confusion continue to hinder sys- tematic empirical analysis of the nature, distribution, and ef- fects of ofﬁcial development ﬁnance from China and other non-Western sources. This note addresses these problems by decomposing Chinese “aid” into different categories. We hy- pothesized that foreign policy goals largely drive Chinese ODA, while economic considerations guide Chinese OOF. We also hypothesized that China allocates its ODA indepen- dently of the regime type and institutional quality of recipi- ent countries. 
+To test these predictions, we examined relationships be- tween Chinese development ﬁnance committed to African countries from 2000 to 2012 and a range of political and economic variables. Our results suggest that highly conces- sional ﬂows are closely linked to foreign policy interests, as measured by China’s voting alignment with African coun- tries in the UN General Assembly and recipient country po- sitions vis-à-vis the One-China policy. Contrary to the popu- lar “rogue donor” narrative found in the media and the US policy community, we did not ﬁnd support for claims that China allocates its aid, in the strictest sense of the term (ODA), for the purpose of natural resource acquisition. Nor does Chinese ODA seem to take into account recipient- country institutions; at least on the African continent, Chi- nese ODA seems not to ﬂow disproportionately to corrupt or authoritarian regimes. We also show that Chinese ODA ﬂows are strongly oriented toward poorer countries, which suggests either that Beijing considers recipient need when allocating aid or that it sees governments of countries with limited means as easier to inﬂuence with aid.39 By contrast, less concessional and more commercially oriented forms of Chinese ofﬁcial ﬁnancing (OOF) appear to be driven by bi- lateral trade ties and natural resource endowments in recip- ient countries—a motivation that many incorrectly associate with Chinese “aid.” 
+Without more granular data and a broader commitment to categorizing Chinese state ﬁnancing in ways that enable “apples to apples” comparisons with Western donors, politi- cians, journalists, policy analysts, and scholars will continue to conﬂate Chinese aid with less concessional and more commercially oriented forms of Chinese state ﬁnancing. They will thus draw incorrect inferences about its allocation and effects. This problem is symptomatic of a broader chal- lenge: non-Western states provide a large and growing pro- portion of global development ﬁnance, yet many of these ﬁnanciers are either unwilling or unable to provide detailed information about their overseas development activities. As such, the international reporting regime for development ﬁ- nance faces a crisis of relevance and legitimacy. We urgently need new methods of collecting data and cross-walking ﬁ- nancial ﬂows from DAC and non-DAC sources to common conceptual categories. 
+This note, along with various other efforts to apply Aid- Data’s TUFF methodology, represents one way to address this problem (Strange et al. 2017); however, we need more efforts to track and assess the increasingly diverse and con- sequential activities of non-DAC suppliers of development ﬁnance. For example, in order to test the generalizability of the ﬁndings in this paper, scholars will need time-series, project-level data on Chinese development ﬁnance in other 
+regions of the world—as well as comparable data for other non-DAC donors and creditors.40 
+We designed this note to demonstrate the utility of a new data collection method and to answer a narrow, but impor- tant, question about the cross-national allocation of Chinese development ﬁnance in Africa. The types of data and meth- ods introduced in this paper will be useful in addressing at least three kinds of questions going forward. First, how can we explain the subnational allocation of aid from emerging donors? Since many emerging donors have chosen not to support OECD-DAC norms but have instead favored “non- interference” and “South-South cooperation” principles, re- cipients may enjoy more discretion over where development projects from such donors are sited and who beneﬁts from these projects within developing countries (Dreher, Fuchs, Hodler, Parks, Raschky, and Tierney 2016; Isaksson and Kot- sadam 2016; Brazys, Elkink, and Kelly 2017). Understanding these outcomes and political dynamics should be a priority for those who study political economy and comparative poli- tics, but it may also interest Western and non-Western policy- makers. 
+Second, how do the motivations and behaviors of non- Western donors and creditors affect the foreign policies of Western states and the operations of existing suppli- ers of international development ﬁnance? Competition may cause “traditional” donors and creditors to alter their spend- ing patterns (Kilama 2016), limit the conditionality provi- sions within their aid projects (Hernandez 2017), or change the way that the OECD measures and counts develop- ment ﬁnance ﬂows (Kharas and Rogerson 2016; OECD 2016). These phenomena suggest a complementary re- search agenda for international relations scholarship on China traditionally focused on the inverse question of how (if at all) foreign actors and institutions will shape China’s foreign policy behavior (Jacobson and Oksenberg 1990; Johnston 2008). 
+But China’s central role in the establishment of new mul- tilateral institutions, such as the Asian Infrastructure Invest- ment Bank (AIIB) and the New Development Bank, will soon ﬂip this question on its head. Therefore, scholars need to study how multilateral institutions created at Beijing’s be- hest inﬂuence the behavior of Western states, as well as how Beijing inﬂuences the hitherto Western-led international development regime. A potentially larger role for China in setting the international development agenda also raises potentially important questions about hierarchy in inter- national relations. Despite China’s longstanding rhetorical commitment to noninterference, hierarchy has long been an important principle in its outward relations—for exam- ple, through its (controversial) tributary system of trade and diplomacy (Kang 2010; Perdue 2015). Will changes in net- work ties between China, recipients of its largesse, and other donors and creditors introduce a new set of hierarchical re- lationships between states and international organizations (IOs) (Nexon and Wright 2007; Lake 2009)? What are the potential consequences of these relationships for the distri- bution of democratic and authoritarian norms in the devel- oping world (Cooley 2015)? 
+Third, what are the effects of emerging donors on polit- ical, social, economic, and environmental outcomes in de- veloping countries? These questions can be addressed in 
+39 Analyzing aid targeting at the subnational level, Dreher et al. (2016) ﬁnd that Chinese aid ﬂows disproportionately to the birth regions of African leaders and not necessarily to the areas of greatest need within countries. 
+40 In October 2017, AidData released a dataset of Chinese ofﬁcial ﬁnancing activities that extends the geographical and temporal scope of the dataset intro- duced in this paper (Dreher, Fuchs, Parks, Strange, and Tierney 2017). The new dataset cover 5 major regions of the world and a longer period of time (2000– 2014). 
+l 
+D o w n o a d e d 
+  f r o m h 
+  
+t t 
+p s : / / 
+i 
+a c a d e m c . o u p . c o m 
+l 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ i s q a r t i c e 6 2 1 1 8 2 4 8 4 1 6 3 5 b y   g u e s t   
+  
+  
+o n 0 7   J u n e 2 0 2 1 
+  
+  
+  
+PAGE 11
+192 
+Apples and Dragon Fruits 
+a cross-national setting (for example, Strange et al. 2017; Tseng and Krog 2017), or one can use subnationally geo- referenced project and outcome data to identify the more localized effects of these expenditures on economic de- velopment (Dreher et al. 2016), environmental degrada- tion (BenYishay, Parks, Runfola, and Trichler 2016), public health (Dolan 2017), local corruption (Isaksson and Kot- sadam 2016; Brazys et al. 2017), and the perceived legit- imacy of the state (Blair and Roessler 2016). These ques- tions about the subnational effects of non-Western ﬁnancial ﬂows are of particular interest to development practitioners and policy-makers, but studies that tackle these questions re- quire highly disaggregated data on the geographical scope and timing of international development project interven- tions as well as the ability to measure outcomes of interest and at similar spatial and temporal scales. 
+The fact that neither international institutions with for- mal monitoring responsibilities (for example, the OECD- DAC) nor scholars seem to be able to keep pace with the rapid changes in the global development ﬁnance regime has far-reaching implications for the amount, diversity, and util- ity of knowledge that social scientists will be able to gener- ate in the future. We have good reasons to believe that the structural changes in the international development ﬁnance market will substantially impact political, social, economic, and environmental outcomes in developing countries and perhaps even reshape the foundations of international or- der (Woods 2008; Kersting and Kilby 2014; Strange et al. 2017). However, many of the conceptual categories and much of the evidence that we have at our disposal to under- stand these changes and their consequences are no longer ﬁt for purpose. This note describes a data collection, catego- rization, and analysis effort that represents one step forward on this front. 
+Supplementary Information 
+Supplementary information is available at http://aiddata. org/replication-datasets and at the International Studies Quar- terly data archive. 
+References 
+ABBAS, S. ALI, NAZIM BELHOCINE, ASMAA ELGANAINY, AND MARK HORTON, 2010. “A Historical Public Debt Database.” IMF Working Paper No. 10/245. Wash- ington, DC: International Monetary Fund. 
+ALDEN, CHRIS. 2005. “Red Star, Black Gold.” Review of African Political Economy 
+32 (104/5): 415–19. 
+ALESINA, ALBERTO, AND DAVID DOLLAR. 2000. “Who Gives Foreign Aid to Whom 
+and Why?” Journal of Economic Growth 5 (1): 33–63. 
+BADER, JULIA. 2015a. “China, Autocratic Patron? An Empirical Investigation of China as a Factor in Autocratic Survival.” International Studies Quar- terly 59 (1): 23–33. 
+———. 2015b. “Propping up Dictators? Economic Cooperation from China and its Impact on Authoritarian Persistence in Party and Non-party Regimes.” European Journal of Political Research 54 (4): 655–72. 
+BBC. 
+2015. 
+“Full Transcript of BBC Interview with President July 24, 2015, accessed 2 January 2016, 
+Barack Obama,” BBC, http://www.bbc.com/news/world-us-canada-33646542. 
+BECK, THORSTEN, GEORGE CLARKE, ALBERTO GROFF, PHILIP KEEFER, AND PATRICK WALSH, 2001. “New Tools in Comparative Political Economy: The Database of Political Institutions.” World Bank Economic Review 15 (1): 165–76. 
+BENYISHAY, ARIEL, BRADLEY PARKS, DANIEL RUNFOLA, AND RACHEL TRICHLER, 2016. “Forest Cover Impacts of Chinese Development Projects in Ecologically Sensitive Areas.” AidData Working Paper #32, Williamsburg, VA: AidData. 
+BERMAN, ELIE, JACOB N. SHAPIRO, AND JOSEPH H. FELTER. 2011. “Can Hearts and Minds Be Bought? The Economics of Counterinsurgency in Iraq.” Jour- nal of Political Economy 119 (4): 766–819. 
+BERMEO, SARAH BLODGETT. 2011. “Foreign Aid and Regime Change: A Role 
+for Donor Intent.” World Development 39 (11): 2021–31. 
+BERTHÉLEMY, JEAN CLAUDE. 2011. “China’s Engagement and Aid Effectiveness in Africa.” African Development Bank Working Paper #129. Tunis, Tunisia: African Development Bank. 
+BLAIR, ROBERT, AND PHILIP ROESSLER. 2016. “China and the African State: Evi- dence from Surveys, Survey Experiments, and Behavioral Games in Liberia.” Research and Innovation Grants Working Papers Series. USAID, Wash- ington, DC. 
+BRÄUTIGAM, DEBORAH. 2009. The Dragon’s Gift: The Real Story of China in Africa. 
+Oxford: Oxford University Press. 
+———. 2011a. “Aid ‘With Chinese Characteristics’: Chinese Aid and Devel- opment Finance Meet the OECD-DAC Regime.” Journal of International Development 23 (5): 752–64. 
+———. 2011b. “Testimony on China’s Growing Role in Africa before the United States Senate Committee on Foreign Relations Sub- committee on African Affairs,” November 1, 2011, accessed at http://www.foreign.senate.gov/imo/media/doc/Deborah Brautigam Testimony.pdf. 
+BRAZYS, SAMUEL, JOHAN ELKINK, AND GINA KELLY. 2017. “Bad Neighbors? How Co-located Chinese and World Bank Development Projects Impact Lo- cal Corruption in Tanzania.” Review of International Organizations 12 (2): 227–53. 
+BRITISH GEOLOGICAL SURVEY. 2016. World Mineral Statistics Data. Keyworth, Nottingham: British Geological Survey. Accessed May 9, 2016, http://www.bgs.ac.uk/mineralsuk/statistics/. 
+BUENO DE MESQUITA, BRUCE, AND ALASTAIR SMITH. 2007. “Foreign Aid and Policy 
+Concessions.” Journal of Conﬂict Resolution 51 (2): 251–84. 
+CHEN, CHUAN, AND RYAN J. ORR. 2009. “Chinese Contractors in Africa: Home Government Support, Coordination Mechanisms, and Market Entry Strategies.” Journal of Construction Engineering and Management 135 (11): 1201–10. 
+CHEUNG, YIN-WONG, JAKOB DE HAAN, XINGWANG QIAN, AND SHU YU, 2014. “The Missing Link: China’s Contracted Engineering Projects in Africa.” Re- view of Development Economics 18 (3): 564–80. 
+COLLIER, PAUL. 2007. The Bottom Billion: Why the Poorest Countries are Failing and 
+What Can Be Done about It. Oxford: Oxford University Press. 
+COOLEY, ALEXANDER. 2015. “Countering Democratic Norms.” Journal of Democ- 
+racy 26 (3): 49–63. 
+CORKIN, LUCY. 2011. “Redeﬁning Foreign Policy Impulses toward Africa: The Roles of the MFA, the MOFCOM and China Exim Bank.” Journal of Current Chinese Affairs 40 (4): 61–90. 
+DAVIS, CHRISTINA, ANDREAS FUCHS, AND KRISTINA JOHNSON. Forthcoming. “State Control and the Effects of Foreign Relations on Bilateral Trade.” Jour- nal of Conﬂict Resolution. 
+DE SOYSA, INDRA, AND PAUL MIDFORD. 2012. “Enter The Dragon! An Empir- ical Analysis of Chinese versus US Arms Transfers to Autocrats and Violators of Human Rights, 1989–2006.” International Studies Quarterly 56 (4): 843–56. 
+DOLAN, CARRIE. 2017. “Pulling the Purse Stings: Political Preferences and Chinese 
+Aid to Africa.” Mimeo. 
+DOUCOULIAGOS, HRISTOS. Forthcoming. “The Politics of International Aid.” In Oxford Handbook of Public Choice, edited by R. Congleton, B. Grofman and S. Voigt. Oxford: Oxford University Press. 
+DREHER, AXEL, PETER NUNNENKAMP, HANNES ÖHLER, AND JOHANNES WEISSER, 2012. “Financial Dependence and Aid Allocation by Swiss NGOs: A Panel Tobit Analysis.” Economic Development and Cultural Change 60 (4): 829–67. 
+DREHER, AXEL, AND ANDREAS FUCHS. 2015. “Rogue Aid? An Empirical Analy- sis of China’s Aid Allocation.” Canadian Journal of Economics 48: 988– 1023. 
+DREHER, AXEL, AND SHU YU. 2016. “The Alma Mater Effect – Does Foreign Edu- cation of Political Leaders Inﬂuence Foreign Policy?” CEPR Discussion Paper No. 11450. 
+DREHER, AXEL, ANDREAS FUCHS, ROLAND HODLER, BRADLEY C. PARKS, PAUL A. RASCHKY, AND MICHAEL J. TIERNEY, 2016. “Aid on Demand: African Leaders and the Geography of China’s Foreign Assistance.” AidData Working Paper #3 (revised). Williamsburg, VA: AidData. 
+DREHER, AXEL, ANDREAS FUCHS, BRADLEY C. PARKS, AUSTIN STRANGE, AND MICHAEL J. TIERNEY. 2017. “Aid, China, and Growth: Evidence from a New Global De- velopment Finance Dataset.” AidData Working Paper #46. Williamsburg, VA: AidData. 
+DREHER, AXEL, JAN-EGBERT STURM, AND JAMES VREELAND. 2009. “Development Aid and International Politics: Does Membership on the UN Security 
+l 
+D o w n o a d e d 
+  f r o m h 
+  
+t t 
+p s : / / 
+i 
+a c a d e m c . o u p . c o m 
+l 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ i s q a r t i c e 6 2 1 1 8 2 4 8 4 1 6 3 5 b y   g u e s t   
+  
+  
+o n 0 7   J u n e 2 0 2 1 
+  
+PAGE 12
+A X E L D R E H E R E T A L. 
+193 
+Council Inﬂuence World Bank Decisions?” Journal of Development Eco- nomics 88 (1): 1–18. 
+DREHER, AXEL, PETER NUNNENKAMP, AND RAINER THIELE. 2008. “Does US Aid Buy UN General Assembly Votes? A Disaggregated Analysis.” Public Choice 136 (1): 139–64. 
+———. 2011. “Are ‘New’ Donors Different? Comparing the Allocation of Bilateral Aid between Non-DAC and DAC Donor Countries.” World De- velopment 39 (11): 1950–68. 
+DREZNER, DANIEL. 2009. “Bad Debts: Assessing China’s Financial Inﬂuence in 
+Great Power Politics.” International Security 34 (2): 7–45. 
+DUTT, PUSHAN, AND DANIEL TRACA. 2010. “Corruption and Bilateral Trade Flows: Extortion or Evasion?” Review of Economics and Statistics 92 (4): 843–60. 
+EASTERLY, WILLIAM, AND ROSS LEVINE. 2003. “Tropics, Germs, and Crops: the Role of Endowments in Economic Development.” Journal of Monetary Economics 50 (1): 3–39. 
+EDEN, MAYA, AART KRAAY, AND RONG QIAN. 2012. Sovereign Defaults and Expropria- tions: Empirical Regularities. World Bank Working Paper 6218. Washing- ton, DC: World Bank. 
+EICHENGREEN, BARRY. 1989. “The U.S. Capital Market and Foreign Lending, 1920–1955.” In Developing Country Debt and Economic Performance, edited by J. Sachs, 107–55. Chicago, IL: University of Chicago Press. 
+EM-DAT. 2014. EM-DAT: The OFDA/CRED International Disaster Database. Brussels, Belgium: Université Catholique de Louvain. Accessed September 2014, http://www.emdat.be. 
+EVRENSEL, AY¸SE Y. 2004. “Lending to Developing Countries Revisited: Chang- ing Nature of Lenders and Payment Problems.” Economic Systems 28: 235–56. 
+FARIA, ANDRÉ, AND PAOLO MAURO. 2009. “Institutions and the External Capital Structure of Countries.” Journal of International Money and Finance 28 (3): 367–91. 
+FLORES-MACÍAS, GUSTAVO A., AND SARAH KREPS. 2013. “The Foreign Pol- icy Consequences of Trade: China’s Commercial Relations with Africa and Latin America, 1992–2006.” Journal of Politics 75 (2): 357–71. 
+FOOT, ROSEMARY. 2014. “‘Doing Some Things’ in the Xi Jinping Era: The United Nations as China’s Venue of Choice.” International Affairs 90 (5): 1085–100. 
+FORDHAM, BENJAMIN O., AND KATJA B. KLEINBERG. 2011. “International Trade and US Relations with China.” Foreign Policy Analysis 7 (3): 217–36. 
+FOSTER, VIVIEN, WILLIAM BUTTERFIELD, CHUAN CHEN, AND NATALIYA PUSHAK, 2008. Building Bridges: China’s Growing Role as Infrastructure Financier for Sub- Saharan Africa. Washington, DC: World Bank/PPIAF. 
+FRENCH, HOWARD. 2014. “Into Africa: China’s Wild Rush.” New York Times, May 17, 2014, accessed 2 January 2016, http://www.nytimes.com/ 2014/05/17/opinion/into-africa-chinas-wild-rush.html?_r=0. 
+FUCHS, ANDREAS, AND KRISHNA CHAITANYA VADLAMANNATI. 2013. “The Needy Donor: An Empirical Analysis of India’s Aid Motives.” World Develop- ment 44: 110–28. 
+FUCHS, ANDREAS, AND NILS-HENDRIK KLANN. 2013. “Paying a Visit: The Dalai Lama Effect on International Trade.” Journal of International Economics 91 (1): 164–77. 
+GASSEBNER, MARTIN, ALEXANDER KECK, AND ROBERT TEH. 2010. “Shaken, Not Stirred: The Impact of Disasters on International Trade.” Review of In- ternational Economics 18 (2): 351–68. 
+HALPER, STEFAN. 2010. “Beijing’s Coalition of the Willing.” Foreign Policy, June 15, 2010, http://foreignpolicy.com/2010/06/15/beijings-coalition-of- the-willing/. 
+HENDRIX, CULLEN S., AND MARCUS NOLAND. 2014. Confronting the Curse: The Eco- nomics and Geopolitics of Natural Resource Governance. Washington, DC: Peterson Institute for International Economics. 
+HERNANDEZ, DIEGO. 2017. “Are “New” Donors Challenging World Bank Con- 
+ditionality?” World Development 96: 529–49. 
+HIRONO, MIWA, AND SHOGO SUZUKI. 2014. “Why Do We Need ‘Myth-Busting’ in the Study of Sino-African Relations?” Journal of Contemporary China 23 (87): 443–61. 
+HOEFFLER, ANKE, AND VERITY OUTRAM. 2011. “Need, Merit, or Self-Interest— What Determines the Allocation of Aid?” Review of Development Eco- nomics 15 (2): 237–50. 
+HUANG, MEIBO. 2015. “How Government Loans Promote FDI: Japanese Yen Loans and Chinese Government Preferential Loans.” Presentation at the Chinese Overseas Finance Conference, Johns Hopkins University, Washington, DC, April 2010. 
+HUDSON, JOHN. 2013. “Promises Kept, Promises Broken? The Relationship between Aid Commitments and Disbursements.” Review of Development Finance 3 (3): 109–20. 
+ISAKSSON, ANN-SOFIE, AND ANDREAS KOTSADAM. 2016. “Chinese Aid and Local Cor- 
+ruption.” AidData Working Paper #33. Williamsburg, VA: AidData. 
+JACOBSON, HAROLD K., AND MICHEL OKSENBERG. 1990. China’s Participation in the IMF, the World Bank, and GATT: Toward a Global Economic Order. Ann Arbor, MI: University of Michigan Press. 
+JANSSON, JOHANNA. 2013. “The Sicomines Agreement Revisited: Prudent Chi- nese Banks and Risk-taking Chinese Companies.” Review of African Po- litical Economy 40 (135): 152–62. 
+JOHNSTON, ALASTAIR IAIN. 2008. Social States: China in International Institutions, 
+1980–2000. Princeton, NJ: Princeton University Press. 
+JOHNSTON, LAUREN A., STEPHEN L. MORGAN, AND YUESHENG WANG. 2015. “The Gravity of China’s African Export Promise.” World Economy 8 (6): 913–34. 
+JENSEN, NATHAN M. 2003. “Democratic Governance and Multinational Corpo- rations: Political Regimes and Inﬂows of Foreign Direct Investment.” International Organization 57 (3): 587–616. 
+KANG, DAVID CHAN-OONG. 2010. East Asia before the West: Five Centuries of Trade 
+and Tribute. New York: Columbia University Press. 
+KASTNER, SCOTT A. 2016. “Buying Inﬂuence? Assessing the Political Effects of China’s International Trade.” Journal of Conﬂict Resolution 60 (6): 980– 1007. 
+KAUFMANN, DANIEL, AART KRAAY, AND MASSIMO MASTRUZZI. 2004. “Governance Matters III: Governance Indicators for 1996, 1998, 2000, and 2002.” World Bank Economic Review 18 (2): 253–87. 
+KAVAKLI, KERIM CAN. 2013. “Culture, Commerce and Turkish Foreign Aid.” In Three Essays on the Links between Domestic and International Politics. PhD Dissertation, Department of Political Science, University of Rochester, Rochester, NY. 
+KERSTING, ERASMUS, AND CHRISTOPHER KILBY. 2014. “Aid and Democracy Re- 
+dux.” European Economic Review 67: 125–43. 
+KHARAS, HOMI, AND ANDREW ROGERSON. 2016. “Why and How Might a New Mea- sure of Development Cooperation Be Helpful? A Positive Approach to International Development Contributions (IDC).” Brookings Global Views No. 3, Brookings, Washington, DC. 
+KILBY, CHRISTOPHER. 2009. “The Political Economy of Conditionality: An Em- pirical Analysis of World Bank Loan Disbursements.” Journal of Develop- ment Economics 89 (1): 51–61. 
+———. 2011. “Informal Inﬂuence in the Asian Development Bank.” Review 
+of International Organizations 6 (3–4): 223–57. 
+KILAMA, ERIC. 2016. “Evidences on Donors Competition in Africa: Tradi- tional Donors versus China.” Journal of International Development 28: 528–51. 
+KOBAYASHI, TAKAAKI. 2008. “Evolution of China’s Aid Policy.” JBICI Working Pa- per 27. Tokyo, Japan: Japan Bank for International Cooperation Insti- tute. 
+KOSACK, STEPHEN. 2003. “Effective Aid: How Democracy Allows Development 
+Aid to Improve the Quality of Life.” World Development 31 (1): 1–22. 
+KURLANTZICK, JOSHUA. 2007. Charm Offensive: How China’s Soft Power is Trans- 
+forming the World. New Haven, CT: Yale University Press. 
+KUZIEMKO, ILYANA, AND ERIC WERKER. 2006. “How Much Is a Seat on the Secu- rity Council Worth? Foreign Aid and Bribery at the United Nations.” Journal of Political Economy 114 (5): 905–30. 
+LAKE, DAVID A. 2009. Hierarchy in International Relations. Ithaca, NY: Cornell 
+University Press. 
+LIAO, STEVEN, AND DANIEL MCDOWELL. 2015. “Redback Rising: China’s Bilat- eral Swap Agreements and Renminbi Internationalization.” Interna- tional Studies Quarterly 59 (3): 401–22. 
+LUM, THOMAS, HANNAH FISCHER, JULISSA GOMEZ-GRANGER, AND ANNE LELAND, 2009. China’s Foreign Aid Activities in Africa, Latin America, and South- east Asia. CRS Report for Congress (February 25). Washington, DC: Congressional Research Service. 
+MARSHALL, MONTY G., TED ROBERT GURR, AND KEITH JAGGERS. 2013. Polity IV Project: Political Regime Characteristics and Transitions, 1800–2012. Vi- enna, VA: Center for Systemic Peace. 
+MAYER, THIERRY, AND SOLEDAD ZIGNAGO. 2011. “Notes on CEPII’s Distances Measures: the GeoDist Database.” CEPII Working Paper 2011–25, Cen- tre d’Etudes Prospectives et d’Informations Internationales, Paris, France. 
+MCKINLEY, ROBERT D., AND RICHARD LITTLE. 1979. “The US Aid Relationship: A Test of the Recipient Need and the Donor Interest Models.” Political Studies 27 (2): 236–50. 
+l 
+D o w n o a d e d 
+  f r o m h 
+  
+t t 
+p s : / / 
+i 
+a c a d e m c . o u p . c o m 
+l 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ i s q a r t i c e 6 2 1 1 8 2 4 8 4 1 6 3 5 b y   g u e s t   
+  
+  
+o n 0 7   J u n e 2 0 2 1 
+  
+PAGE 13
+194 
+Apples and Dragon Fruits 
+MOHAN, GILES, AND MARCUS POWER. 2008. “New African Choices? The Politics of Chinese Engagement.” Review of African Political Economy 35 (115): 23–42. 
+MONTINOLA, GABRIELLA R. 2010. “When Does Aid Conditionality Work?” Stud- 
+ies in Comparative International Development 45 (3): 358–82. 
+MORAVCSIK, ANDREW M. 1989. “Disciplining Trade Finance: the OECD Export 
+Credit Arrangement.” International Organization 43 (1): 173–205. 
+MOREIRA, SUSANA. 2013. “Learning from Failure: China’s Overseas Oil Invest- 
+ments.” Journal of Current Chinese Affairs 42 (1): 131–65. 
+gust 2011, http://www.gov.cn/english/ofﬁcial/2011-04/21/content_ 1849913.htm. 
+STRANGE, AUSTIN M., AXEL DREHER, ANDREAS FUCHS, BRADLEY PARKS, AND MICHAEL J. TIERNEY, 2017. “Tracking Under-Reported Financial Flows: China’s Development Finance and the Aid-Conﬂict Nexus Revisited.” Journal of Conﬂict Resolution 61 (4): 935–63. 
+STRANGE, AUSTIN M., BRADLEY PARKS, CHARLES PERLA, AND HARSH DESAI, 2015. AidData’s Methodology for Tracking Underreported Financial Flows, Version 1.2. Willamsburg, VA: AidData. 
+MORGENTHAU, HANS. 1962. “A Political Theory of Foreign Aid.” American Po- 
+STREZHNEV, ANTON, AND ERIK VOETEN. 2012. United Nations General Assembly Vot- 
+litical Science Review 56 (2): 301–09. 
+MUCHAPONDWA, EDWIN, DANIEL NIELSON, BRADLEY C. PARKS, AUSTIN M. STRANGE, AND MICHAEL J. TIERNEY, 2016. “Ground-Truthing Chinese Development Finance in Africa: Field Evidence from South Africa and Uganda.” Jour- nal of Development Studies 52 (6): 780–96. 
+NAÍM, MOISÉS. 2007. “Rogue Aid.” Foreign Policy 159: 95–96. NEUMAYER, ERIC. 2003a. “What Factors Determine the Allocation of Aid by Arab Countries and Multilateral Agencies?” Journal of Development Stud- ies 39 (4): 134–47. 
+———. 2003b. The Pattern of Aid Giving: The Impact of Good Governance on 
+Development Assistance. London: Routledge. 
+———. 2004. “Arab-related Bilateral and Multilateral Sources of Develop- ment Finance: Issues, Trends, and the Way Forward.” World Economy 27 (2): 281–300. 
+NEXON, DANIEL H., AND THOMAS WRIGHT. 2007. “What’s at Stake in the Ameri- can Empire Debate.” American Political Science Review 101 (02): 253–71. NORRIS, WILLIAM J. 2016. Chinese Economic Statecraft: Commercial Actors, Grand 
+Strategy and State Control. Ithaca, NY: Cornell University Press. 
+OECD. 2016. International Development Statistics Online Databases (IDS Online). Paris, France: Organisation for Economic Co-operation and Develop- ment. Accessed May and August 2016, http://stats.oecd.org/. 
+PERDUE, PETER C. 2015. “The Tenacious Tributary System.” Journal of Contem- 
+porary China 24 (96): 1002–14. 
+REINHART, CARMEN, AND KENNETH ROGOFF. 2004. “Serial Default and the ‘Para- dox’ of Rich to Poor Capital Flows.” American Economic Review Papers and Proceedings 94 (2): 52–58. 
+RHAMEY, PATRICK, KIRSSA CLINE, SVERRE BODUNG, ALEXIS HENSHAW, BEAU JAMES, CHANSUK KANG, ALICIA SEDZIAK, AAKRITI TANDON, AND THOMAS J. VOLGY, 2013. The Diplomatic Contacts Database (Version 3.0). Tucson, AZ: Uni- versity of Arizona. 
+RICH, TIMOTHY S. 2009. “Status for Sale: Taiwan and the Competition for 
+Diplomatic Recognition.” Issues and Studies 45 (4): 159–88. 
+SCHRAEDER, PETER J., STEVEN W. HOOK, AND BRUCE TAYLOR. 1998. “Clarifying the 
+Foreign Aid Puzzle.” World Politics 50 (2): 294–323. 
+STATE COUNCIL. 2011. White Paper Information Ofﬁce of 
+China: 
+on China’s Foreign Aid. Beijing, the State Council. Accessed Au- 
+ing Data. Harvard Dataverse. Cambridge, MA: Harvard University. 
+STRÜVER, GREGOR. 2016. “What Friends Are Made Of: Bilateral Linkages and Domestic Drivers of Foreign Policy Alignment with China.” Foreign Pol- icy Analysis 12 (2): 170–91. 
+SUN, YUN. 2014. Africa in China’s Foreign Policy. Washington, DC: Brookings 
+Institution. 
+SVENSSON, JAKOB. 1999. “Aid, Growth and Democracy.” Economics and Politics 
+11 (3): 275–97. 
+TSENG, HUAN-KAI, AND RYAN KROG. 2017. “No Strings Attached: Chinese For- eign Aid and Regime Stability in Resource-Rich Recipient Countries.” Paper presented at the 2017 Annual Meeting of the American Eco- nomic Association, Chicago, IL, January 6–8. 
+TULL, DENIS M. 2006. “China’s Engagement in Africa: Scope, Signiﬁcance 
+and Consequences.” Journal of Modern African Studies 44 (3): 459–79. 
+VOETEN, ERIK. 2000. “Clashes in the Assembly.” International Organization 54 
+(2): 185–215. 
+VREELAND, JAMES RAYMOND, AND AXEL DREHER. 2014. The Political Economy of the United Nations Security Council. Money and Inﬂuence. Cambridge: Cambridge University Press. 
+WOODS, NGAIRE. 2008. “Whose Aid? Whose Inﬂuence? China, Emerging Donors and the Silent Revolution in Development Assistance.” Inter- national Affairs 84 (6): 1205–21. 
+WORLD BANK. 2016. World Development Indicators. Washington, DC: The World 
+Bank. 
+WU, WEN-CHIN, RONAN TSE-MIN FU, AND HSIN-HSIN PAN. 2016. “China’s Eco- nomic Weight on the Scale of Sino-US Confrontation—Evidence from the United Nations General Assembly Voting Data.” Presented at the Political Economy of International Organizations Conference, Salt Lake City, Utah, 2016. 
+XU, JIAJUN, AND RICHARD CAREY. 2014. “China’s Development Finance: What Issues for Reporting and Monitoring Systems?” IDS Bulletin 45 (4): 102–13. 
+YARBROUGH, BETH, AND ROBERT YARBROUGH. 2014. Cooperation and Governance in 
+International Trade. Princeton, NJ: Princeton University Press. 
+YU, QIAO. 2013. Relocating China’s Foreign Reserves. Washington, DC: The 
+Brookings Institution. 
+l 
+D o w n o a d e d 
+  f r o m h 
+  
+t t 
+p s : / / 
+i 
+a c a d e m c . o u p . c o m 
+l 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ i s q a r t i c e 6 2 1 1 8 2 4 8 4 1 6 3 5 b y   g u e s t   
+  
+  
+o n 0 7   J u n e 2 0 2 1 
+  

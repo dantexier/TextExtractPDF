@@ -1,0 +1,138 @@
+1 xyz.pdf
+SCIBERT: A Pretrained Language Model for Scientiﬁc Text
+Iz Beltagy
+Kyle Lo
+Arman Cohan
+Allen Institute for Artiﬁcial Intelligence, Seattle, WA, USA
+{beltagy,kylel,armanc}@allenai.org
+9
+1
+0
+2
+ 
+p
+e
+S
+0
+1
+ 
+ 
+ 
+]
+L
+C
+.
+s
+c
+[
+ 
+ 
+3
+v
+6
+7
+6
+0
+1
+.
+3
+0
+9
+1
+:
+v
+i
+X
+r
+a
+Abstract
+Obtaining large-scale annotated data for NLP
+tasks in the scientiﬁc domain is challeng-
+ing and expensive. We release SCIBERT,
+a pretrained language model based on
+BERT (Devlin et al., 2019) to address the lack
+of high-quality, large-scale labeled scientiﬁc
+data.
+SCIBERT leverages unsupervised
+pretraining on a large multi-domain corpus
+of scientiﬁc publications to improve perfor-
+mance on downstream scientiﬁc NLP tasks.
+We evaluate on a suite of tasks including
+sequence tagging, sentence classiﬁcation and
+dependency parsing, with datasets from a
+variety of scientiﬁc domains. We demon-
+strate statistically signiﬁcant
+improvements
+over BERT and achieve new state-of-the-
+art results on several of these tasks. The
+code and pretrained models are available at
+https://github.com/allenai/scibert/.
+1 Introduction
+The exponential increase in the volume of scien-
+tiﬁc publications in the past decades has made
+NLP an essential tool for large-scale knowledge
+extraction and machine reading of these docu-
+ments. Recent progress in NLP has been driven
+by the adoption of deep neural models, but train-
+ing such models often requires large amounts of
+labeled data. In general domains, large-scale train-
+ing data is often possible to obtain through crowd-
+sourcing, but in scientiﬁc domains, annotated data
+is difﬁcult and expensive to collect due to the ex-
+pertise required for quality annotation.
+As
+shown
+GPT
+through ELMo
+(Radford et al.,
+(Peters et al.,
+2018),
+and
+2018)
+BERT (Devlin et al., 2019), unsupervised pre-
+training of language models on large corpora
+signiﬁcantly improves performance on many
+NLP tasks. These models return contextualized
+embeddings for each token which can be passed
+task-speciﬁc neural architectures.
+into minimal
+Leveraging the success of unsupervised pretrain-
+ing has become especially important especially
+when task-speciﬁc annotations are difﬁcult
+to
+obtain,
+like in scientiﬁc NLP. Yet while both
+BERT and ELMo have released pretrained models,
+they are still trained on general domain corpora
+such as news articles and Wikipedia.
+In this work, we make the following contribu-
+tions:
+(i) We release SCIBERT, a new resource demon-
+strated to improve performance on a range of NLP
+tasks in the scientiﬁc domain. SCIBERT is a pre-
+trained language model based on BERT but trained
+on a large corpus of scientiﬁc text.
+(ii) We perform extensive experimentation to
+investigate the performance of ﬁnetuning ver-
+sus task-speciﬁc architectures atop frozen embed-
+dings, and the effect of having an in-domain vo-
+cabulary.
+(iii) We evaluate SCIBERT on a suite of tasks
+in the scientiﬁc domain, and achieve new state-of-
+the-art (SOTA) results on many of these tasks.
+2 Methods
+Background The BERT model architecture
+(Devlin et al., 2019) is based on a multilayer bidi-
+rectional Transformer (Vaswani et al., 2017). In-
+stead of the traditional left-to-right language mod-
+eling objective, BERT is trained on two tasks: pre-
+dicting randomly masked tokens and predicting
+whether two sentences follow each other. SCIB-
+ERT follows the same architecture as BERT but is
+instead pretrained on scientiﬁc text.
+Vocabulary BERT uses WordPiece (Wu et al.,
+2016) for unsupervised tokenization of the input
+text. The vocabulary is built such that it contains
+the most frequently used words or subword units.
+We refer to the original vocabulary released with
+	 	 	

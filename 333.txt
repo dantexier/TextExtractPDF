@@ -1,0 +1,1002 @@
+PAGE 1
+Agricultural Systems 172 (2019) 28–46 
+Contents lists available at ScienceDirect 
+Agricultural Systems 
+journal homepage: www.elsevier.com/locate/agsy 
+Climate risk management and rural poverty reduction James Hansena,⁎, Jon Hellinb, Todd Rosenstockc, Eleanor Fisherd, Jill Cairnsb, Clare Stirlingb, Christine Lamannac, Jacob van Ettene, Alison Rosea, Bruce Campbellf a International Research Institute for Climate and Society, Columbia University, Lamont Campus, PO Box 1000, Palisades, NY 10964-8000, USA b International Maize and Wheat Improvement Center (CIMMYT), Apdo. Postal 6-641, 06600 México, D.F., Mexico c World Agroforestry Center, PO Box 30677, 00100 Nairobi, Kenya d School of Agriculture, Policy and Development, University of Reading, PO Box 237, Reading RG6 6AR, UK e Bioversity International, c/o CATIE, 7170 Turrialba, Costa Rica f Wageningen University and Research, Droevendaalsesteeg 3a, 6708 PB Wageningen, The Netherlands 
+T 
+A R T I C L E I N F O 
+A B S T R A C T 
+Keywords: Risk Poverty trap Resilience Production technology Insurancesocial protection 
+Climate variability is a major source of risk to smallholder farmers and pastoralists, particularly in dryland regions. A growing body of evidence links climate-related risk to the extent and the persistence of rural poverty in these environments. Stochastic shocks erode smallholder farmers' long-term livelihood potential through loss of productive assets. The resulting uncertainty impedes progress out of poverty by acting as a disincentive to investment in agriculture – by farmers, rural ﬁnancial services, value chain institutions and governments. We assess evidence published in the last ten years that a set of production technologies and institutional options for managing risk can stabilize production and incomes, protect assets in the face of shocks, enhance uptake of improved technologies and practices, improve farmer welfare, and contribute to poverty reduction in risk-prone smallholder agricultural systems. Production technologies and practices such as stress-adapted crop germplasm, conservation agriculture, and diversiﬁed production systems stabilize agricultural production and incomes and, hence, reduce the adverse impacts of climate-related risk under some circumstances. Institutional interventions such as index-based insurance and social protection through adaptive safety nets play a complementary role in enabling farmers to manage risk, overcome risk-related barriers to adoption of improved technologies and practices, and protect their assets against the impacts of extreme climatic events. While some research docu- ments improvements in household welfare indicators, there is limited evidence that the risk-reduction beneﬁts of the interventions reviewed have enabled signiﬁcant numbers of very poor farmers to escape poverty. We discuss the roles that climate-risk management interventions can play in eﬀorts to reduce rural poverty, and the need for further research on identifying and targeting environments and farming populations where improved climate risk management could accelerate eﬀorts to reduce rural poverty. 
+1. Introduction: climate risk and rural poverty 
+Signiﬁcant gains in food security and rural poverty reduction, as- sociated with the Green Revolution, resulted from a combination of investments that increased production, reduced risk and enhanced market access. Subsidized inputs, such as irrigation, reduced the production risk faced by farmers and in part account for their will- ingness to invest in increased on-farm production and productivity. Because agricultural development eﬀorts in the 1960s–1980s focused more on intensiﬁcation of favorable areas than on the constraints in more marginal and risk-prone environments, the Green Revolution's contribution to rural poverty reduction was less evident in marginal production environments (Pingali, 2012). Despite continued eﬀorts to 
+improve farmer's living standards, poverty and food insecurity are still prevalent across large portions of sub-Saharan Africa and South Asia. Prevalence is often high in the drylands (i.e., rain-fed areas in dry sub- humid to arid agro-ecological zones), where climate variability ex- poses smallholder farmers and pastoralists to major risk (Hyman et al., 2008; Dercon, 2002; Walker and Ryan, 1990; Zimmerman and Carter, 2003). Today, there are increasing calls for a second Green Revolution targeted at regions with precarious agricultural conditions such as Sub-Saharan Africa. A central challenge is to go beyond increased agricultural production per se, and mitigate risks posed by increasing variable climate and marginal production conditions to ensure that large numbers of farmers move out of poverty and increase rural prosperity. 
+⁎ Corresponding author. E-mail address: jhansen@iri.columbia.edu (J. Hansen). 
+https://doi.org/10.1016/j.agsy.2018.01.019 Received 31 July 2017; Received in revised form 16 December 2017; Accepted 21 January 2018 Available online 01 February 2018 0308-521X/ © 2018 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license  (http://creativecommons.org/licenses/BY-NC-ND/4.0/). 
+https://doi.org/10.1016/j.agsy.2018.01.019 Received 31 July 2017; Received in revised form 16 December 2017; Accepted 21 January 2018 Available online 01 February 2018 0308-521X/ © 2018 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license  (http://creativecommons.org/licenses/BY-NC-ND/4.0/). 
+PAGE 2
+J. Hansen et al. 
+Agricultural Systems 172 (2019) 28–46 
+Climate-related disasters impact poor countries, and the relatively poor within countries, disproportionately (Carter et al., 2007; Easterly, 2001; Gaiha and Thapa, 2006). In the face of a severe climate shock, such as a drought, ﬂood or heat wave, vulnerable households employ a range of ex-post strategies to cope with the resulting crisis, including: liquidating productive assets, defaulting on loans, withdrawing chil- dren from school to work on farm or tend livestock, reducing nutrient intake, and over-exploiting natural resources. Although these coping strategies enable households to endure a crisis in the short term, they often reduce the household's capacity to build a better life in the future by eroding productive assets (Barrett and Carter, 2001; Carter and Barrett, 2006; Carter et al., 2007; Dercon, 2004; Dercon and Hoddinott, 2005; Hoddinott, 2006; McPeak and Barrett, 2001; Wood, 2003) and human capital (Alderman, et al., 2004; Dercon et al., 2005; Victora et al., 2008). 
+Risk aversion leads to under-investment and under-adoption of improved agricultural production technology. Farmers tend to use precautionary strategies to protect against the possibility of cata- strophic loss in the event of a climatic shock and thus do not optimize management for average conditions, but for adverse conditions. These ex-ante, precautionary strategies include selection of less risky but less proﬁtable crops and cultivars, shifting household labor to oﬀ-farm ac- tivities, and avoiding borrowing and investment in productive assets (including soil fertility) and improved production technology (Barrett et al., 2004; Dercon, 1996; Fafchamps, 2003; Kebede, 1992; Marra et al., 2003; Rose, 2001; Rosenzweig and Stark, 1989; Dercon and Christiaensen, 2011; Simtowe, 2006; Morris et al., 2007). Evidence from ICRISAT village studies in India and Burkina Faso shows that the resulting cost is much greater for those who are relatively poor within a poor farming community (Rosenzweig and Binswanger, 1993; Zimmerman and Carter, 2003). Risk aversion extends beyond farmers to institutions, impeding investment in rural areas and the development of agricultural value chains. Losses from covariant climatic or other shocks can exceed the reserves of an insurer or lender, and lead to ﬁ- nancial market failures in many low-income countries (Besley, 1995; Miranda and Glauber, 1997; Poulton et al., 2006). 
+Climate-related risk contributes to rural poverty in three ways. First, ex-ante risk management strategies reduce the productivity and proﬁt- ability of existing assets, and discourage accumulation of productive assets. Second, ex-post coping responses to severe or repeated climate shocks can force non-poor but vulnerable households to divest their productive assets. For some households this status will be transitory, others will fall or remain at a point below the poverty trap threshold. Third, the tendency for risk tolerance to decrease with decreasing re- source endowment contributes to the higher opportunity cost of climate risk for the relatively poor (Carter and Barrett, 2006). Furthermore, with institutions or governments operating at an aggregate scale, cli- mate risk can constrain economic opportunities and hence reinforce poverty and the potential for poverty traps at the household level (Barrett and Swallow, 2006; Carter and Barrett, 2006). 
+The agricultural research-for-development (AR4D) community has developed a number of agricultural production technologies and prac- tices, such as stress-adapted crop germplasm, conservation agriculture and agroforestry systems, that aim to mitigate risk and foster resilience in the face of climate variability. Institutional interventions, such as index-based agricultural insurance and forms of social protection such as cash transfers, which have their origins largely outside of AR4D, seek to mitigate risk and build resilience through other mechanisms, and hence may play a complementary role to agricultural production technologies and practices. Understanding the mechanisms by which climate-related risk contributes to the extent and persistence of poverty provides a basis for assessing the potential for these risk management interventions to overcome the adverse impacts of risk, targeting inter- ventions appropriately, hence, contributing to pathways out of rural poverty in high-risk environments. 
+The degree of impact from shocks will vary according to farmers' 
+socio-economic status, given that the extent of asset and labor endow- ments aﬀects capacity to smooth consumption in the face of shocks (Baulch and Hoddinott, 2000). Designing and targeting risk manage- ment interventions for eﬀective poverty reduction therefore requires disaggregated understanding of ‘the poor’, facilitating understanding of poverty causes and dynamics (Hulme, 2003). A key distinction is be- tween transitory and chronic poverty (Barrett, 2005). If people's assets - or related measure - fall below a poverty line but subsequently recover, then their poverty status is transitory. In contrast, when people have little or no mobility and experience poverty for extended periods, perhaps throughout their lives or between generations, poverty is chronic (Barrett, 2005). For people living in chronic poverty, risk and its impacts on farmer and institutional decision-making, contributes to conditions associated with poverty traps. A poverty trap occurs when households fall below a critical threshold of assets, below which in- dividuals are unable to accumulate the necessary resources to escape poverty (Barrett, 2005; Carter and Barrett, 2006). People's poverty status, and whether this poverty is transitory or chronic, will aﬀect their ability to take up agricultural production technologies and practices, and the extent to which institutional interventions for climate risk management will enhance this uptake. This raises the need for appro- priate targeting to ensure that production technologies and practices, and complimentary institutional interventions, target the types of farmers best placed to pursue agricultural pathways out of poverty. 
+The literature that links climate-related risk to the extent and the persistence of rural poverty in these environments suggests a poverty reduction impact pathway that includes intermediary impacts of risk management interventions. The most direct impacts of these interven- tions are smoothed production, income and/or consumption across the range of climate variability; and protection of productive assets, in- cluding the health of household members, in the face of extreme cli- mate events. Both of these impacts may alleviate risk-related barriers to adopting improved agricultural production technologies and practices, and accessing credit and market opportunities. Stabilized production, income and consumption; protection of human capital and productive assets during shocks; and the adoption of improved agricultural tech- nologies and practices can all contribute to improved household food security and wealth. In time, the resulting cumulative improvement in household welfare, and investment of accumulated wealth in further farm and non-farm income generating activities, may move the household out of poverty. Consistent with this understanding of climate risk management impact pathways, this paper assesses evidence, pub- lished in the last ten years, that a set of risk-mitigating production technologies and institutional interventions contribute to poverty re- duction through: (a) stabilizing production, income or consumption; (b) protecting productive assets in the face of shocks; (c) fostering uptake of credit and improved technologies; and (d) improving household welfare measures (income, food security, wealth). We discuss the state of the evidence from available impact studies, adoption and scaling issues, and the prospects for further exploiting the complementarities between the technological and the institutional risk management interventions included in this review. Finally, we discuss the roles that climate-risk management interventions can play in eﬀorts to reduce rural poverty, and the need for further work to identify and target environments and farming populations where improved climate risk management could accelerate eﬀorts to reduce rural poverty. 
+While past reviews have summarized the evidence for individual climate risk management interventions, this paper seeks to contribute to available knowledge by exploring the complementarities among technological and institutional climate risk management interventions through the lens of the identiﬁed poverty reduction impact pathway, and by incorporating a number of very recent evaluation studies. It is a contribution to a special issue, “Agricultural research for rural pros- perity: Rethinking the pathways,” that reviews the contribution of agricultural research-for-development to a set of pathways out of rural poverty. 
+29 
+PAGE 3
+J. Hansen et al. 
+2. Approach 
+We reviewed recent published evidence about a set of risk-reducing agricultural production technologies and practices and institutional interventions: (a) stress-adapted crop germplasm, (b) conservation agriculture and related agronomic practices, (c) diversiﬁcation strate- gies including agroforestry, (d) index-based agricultural insurance, and (e) social protection (cash or in-kind transfers). These interventions were selected because they aim to reduce risk and foster resilience in smallholder agricultural systems in risk-prone marginal environments; and because they are targets of ongoing interest, investment and eva- luation by the international agricultural research-for-development (AR4D) community. Our analysis of the evidence considered only stu- dies published in English during the most recent decade (2007–2017), that: (a) address risk reduction impact pathways, (b) provide quanti- tative evidence based on primary analyses, and (c) are relevant to poverty in the developing world. Candidate publications were identi- ﬁed through a combination of authors' familiarity with evaluation lit- erature in their areas of expertise, keyword searches with Google Scholar, and forward searches of publications that cited relevant eva- luation studies. From the > 400 candidate publications that we re- viewed, only 62 met our inclusion criteria. They are listed and sum- marized in Appendix 1. 
+Based on our understanding of the mechanisms by which climate- related risk contributes to rural poverty, we mapped the evidence from each of the studies that met inclusion criteria, onto ﬁve types of impact: (a) stabilized production or income; (b) protected assets in the face of shocks; (c) increased uptake of capital, production technologies and market opportunities; (d) improved livelihood and welfare measures (linked explicitly to risk reduction); and (e) reduced poverty. We identiﬁed the agricultural commodities involved, and the farming system(s) covered based on maps and criteria in Dixon et al. (2001). We summarize the numbers of studies reporting evidence on each of these types of impact, and made a subjective assessment of the strength of the evidence, for each risk management intervention (Table 1). We did not attempt to rate strength of evidence from individual studies. While all of the studies included in the review present empirical evidence, the quality of evidence presented is quite variable, ranging from stylized ex-ante modeling and analysis of statistical association, to rigorous randomized control trials (RCTs). 
+3. Risk-reducing production technologies 
+3.1. Stress-adapted germplasm 
+Following early major gains in productivity and poverty reduction from crop breeding in high-potential environments associated with the Green Revolution, research and breeding programs have increased at- tention to tolerance to climate-related stresses (Waddington et al., 
+Agricultural Systems 172 (2019) 28–46 
+2010), including major investment in drought-tolerant maize in sub- Saharan Africa (Cairns et al., 2013; Masuka et al., 2017a, b), and in breeding rice for tolerance to drought, ﬂooding and salinity across re- gions (Collard et al., 2013; Ismail et al., 2013). Of the 12 studies on stress-tolerant germplasm included in our analysis (Appendix 1), six were multi-season experiment station or farm trials that documented stabilized and generally increased yields under varying climatic stress conditions, relative to control varieties (Birthal et al., 2012; Dar et al., 2013; Sarangi et al., 2016; Setimela et al., 2017a, b; Singh et al., 2009). Newer drought-tolerant maize cultivars consistently outperform com- mercial varieties under drought conditions in ﬁeld trials (Masuka et al., 2017a, b; Setimela et al., 2017a, b). Greater documentation of yield gains is required, in stress and non-stress years, particularly under on- farm conditions. One on-farm study found that drought-tolerant maize did not outperform other improved maize varieties used in Malawi during the 2011/12 drought (Holden and Fisher, 2015a), although Setimela et al. (2017a, 2017b) characterized half of the drought-tol- erant varieties cited in this study as old and non-drought tolerant. Evidence about the relative performance of drought-tolerant and stan- dard commercial varieties under non-stressed conditions is mixed. On- farm trials reported by Setimela et al. (2017a) showed no yield penalty in climatically good years, but Holden and Fisher (2015b) found on- farm yields of stress tolerant maize to be lower than current modern varieties in climatically good years in Malawi (although these varieties were not classiﬁed as new nor drought tolerant by Setimela et al. (2017a, b). Drought and ﬂood tolerant rice, which was developed using marker assisted selection to improve current mega-varieties, reportedly experienced no signiﬁcant yield penalty under non-stress conditions (Ismail et al., 2013; Dar et al., 2013, 2017). 
+investment 
+A few studies have estimated the actual or potential impacts of the in breeding for climate-related stresses on substantial livelihoods. For example, Birthal et al. (2012) attributed farmers' 33–46% of an income beneﬁt from adopting drought-tolerant groundnut, to reduced yield variance. In a study in India, Emerick et al. (2016) attributed much (43%) of an observed income beneﬁt from re- ceiving randomly distributed stress-tolerant rice seed packets, to their positive inﬂuence on adoption of improved management practices and credit. Several ex-post assessments of livelihood beneﬁts were excluded because they considered only a single year of data and hence provided no evidence of the role of risk reduction. Ex-ante estimates of the po- tential economic beneﬁts to producers and consumers from existing or anticipated advances in stress-tolerant germplasm, based on economic equilibrium modeling, are quite high. For stress-tolerant maize, esti- mates ranged from US$362 to US$1535 million in targeted African countries over a 10-year period (2007–2016) (Kostandini et al., 2013; La Rovere et al., 2014). Mottaleb et al. (2012) estimated a US$2018 million beneﬁt, over a 40-year period (2011–2050), for a stylized new drought-tolerant rice cultivar adopted across South Asia. 
+Table 1 Summary of published evidence of risk-related impacts of selected interventions, including numbers presenting evidence and subjective aggregate assessment of strength and consistency of evidence. 
+Risk management intervention 
+N 
+Stabilize production, consumption 
+Protect productive assets 
+Increase uptake of capital and technology 
+Improve livelihoods, welfare 
+Reduce poverty rate 
+Stress-adapted germplasm Conservation agriculture Diversiﬁed farming systemsa Index-based agricultural 
+12 14 12 24 
+N 
+9 14 6 0 
+insurance 
+Social protection Total 
+5 3 62b 31 
+Evidence 
+Strong Mixed Moderate None 
+Moderate 
+Evidence 
+None None Weak Moderate 
+Weak 
+N 
+0 0 2 6 
+0 8 
+N 
+1 0 0 19 
+1 21 
+Evidence 
+Weak None None Strong 
+Moderate 
+N 
+3 2 5 14 
+5 27 
+Evidence 
+Moderate Weak Moderate Moderate 
+Strong 
+Evidence 
+None None None Weak 
+None 
+N 
+0 0 0 2 
+0 2 
+a Diversiﬁed farming systems include agroforestry. b The number of publications (60) is less than the number of cases (67) due to publications that evaluated more than one of the interventions. 
+30 
+30 
+30 
+30 
+30 
+30 
+30 
+30 
+30 
+PAGE 4
+J. Hansen et al. 
+3.2. Conservation agriculture practices 
+Conservation agriculture (CA) aims to sustainably improve and stabilize production, through a combination of reducing soil dis- turbance from tillage, maintaining soil cover with organic material, and crop diversiﬁcation through intercropping or rotations. The practices that comprise CA vary (Andersson and D'Souza, 2014), and sometimes include additional soil fertility, water or weed management practices. Our review includes studies that evaluate all three components of CA, and a few studies that evaluate component practices and meet our in- clusion criteria. The majority of CA publications reviewed did not assess risk-related impacts, and were therefore excluded from our analysis. All 14 of those included in our analyses include cases in which CA practices stabilized yields in the face of climate ﬂuctuations. Yield and risk re- duction beneﬁts of CA have been attributed to improved water in- ﬁltration and retention, accumulation of soil C (Thierfelder and Wall, 2009, 2010; Palm et al., 2014; Powlson et al., 2016), and avoidance of heat stress through modiﬁcation of the microclimate due to the pre- sence of organic residues (Sapkota et al., 2015). These beneﬁts gen- erally increase over time, and may not be realized in the ﬁrst few years (Jat et al., 2014; Thierfelder et al., 2015). 
+Only three of the 14 studies included in our analysis went beyond biological response to assess livelihood impacts, employing enterprise budget analysis to characterize farm-level cost and income (Magnan et al., 2011; Michler et al., 2016; Mupangwa et al., 2017). We did not ﬁnd assessments, published during the most recent decade, of how the risk reduction beneﬁts of CA impact poverty rates or other measures of farm household wellbeing. Econometric analysis of a survey of 1623 farm households showed that adoption of CA signiﬁcantly improved food security status in Mozambique, but not in Malawi or Mozambique (Mango et al., 2017). However, the study did not consider the role of risk reduction. 
+Some studies (Gatere et al., 2013; Branca et al., 2013), including a recent meta-regression across many sites and publications (Steward et al., 2018), indicate that CA shows greater risk management and productivity beneﬁts in more drought-prone environments. But several studies based on networks of ﬁeld (farm or experiment station) trials across environmental gradients, and meta-analyses across studies, paint a more complex picture. For example, in a 3-season networks of farm trials across Zimbabwe, direct seeding was the most eﬀective land preparation system for stabilizing and increasing maize yields in medium-rainfall agroecological zones, but basins were more eﬀective in low-rainfall zones (Mupangwa et al., 2017). CA improved wheat yields more in an extreme rainfall year than in a normal season (16% yield advantage vs. 8% in a normal year) in NW India (Aryal et al., 2016), but increased yield loss from waterlogging under excessive rainfall condi- tions in southern Africa (Rusinamhodzi et al., 2011; Gatere et al., 2013; Thierfelder and Wall, 2012). This context dependency of the beneﬁts of CA is consistent with reviews (Thierfelder et al., 2017; Baudron et al., 2015), and is not surprising given the range of agro-ecologies studied and the heterogeneity of practices comprising CA. Highly variable adoption rates and signiﬁcant dis-adoption of conservation agriculture in sub-Saharan Africa (Knowler and Bradshaw, 2007; Baudron et al., 2012; Andersson and D'Souza, 2014) are attributed to competing de- mands for resources (e.g. using residues as soil cover or livestock feed, Valbuena et al., 2015), the time lag between practice adoption and realization of beneﬁts (Thierfelder et al., 2017), and complexity of the practice (Gatere et al., 2013; Thierfelder et al., 2015). 
+3.3. Diversiﬁed farming systems 
+Diversiﬁcation of varieties, crops, farm activities or income streams is a widely recognized risk management strategy. The potential to stabilize farm income through diversiﬁcation is a function of the pro- portion of mean income contributed by each activity, and the variance- 
+Agricultural Systems 172 (2019) 28–46 
+covariance matrix of income the set of activities; the less positive the co-variability among the diﬀerent activities, the greater the scope for reducing overall risk through diversiﬁcation. On-farm diversiﬁcation may be achieved through crop diversiﬁcation, integration of crops and livestock, or integration of trees into crop and/or livestock systems (i.e., agroforestry). Our analysis considered 12 studies of risk management beneﬁts of diversiﬁed farming systems: 5 on crop or cultivar diversiﬁ- cation, 1 on livestock, and 6 on agroforestry systems. Our analysis ex- cluded the signiﬁcant body of literature that deals with diversiﬁcation between farm and non-farm income sources. 
+While increasing the number of crop species does little to mitigate climate risk if the crops respond similarly to climate stresses (Barrett et al., 2001), diversifying crops of diﬀerent functional types, or with diﬀering phenology, may substantially reduce risk (Gilbert and Holbrook, 2011). Matsuda (2013) found the local crop diversiﬁcation strategy in an upland farming system in central Myanmar to be eﬀective at stabilizing production and income in the face of high interannual rainfall variability, because yields of the main crops (pigeon peas, cotton, and sesame) are weakly correlated. Nalley and Barkley (2010) show that growing portfolios of diﬀerent wheat varieties in the Yaqui Valley of Mexico, with diﬀering phenology and stress response, could reduce production variance by up to 33% while holding yields constant, or increase mean yields by 1–2% holding variance constant. Extra- polating to similar wheat environments globally, they suggested op- timal cultivar diversiﬁcation could increase total wheat production revenue by US$ 32–73 million without increasing risk. 
+Synergistic interactions between system components often provide additional productivity or risk reduction beneﬁts. For example, cultivar blends can reduce disease incidence (Barot et al., 2017). Crop diversi- ﬁcation is one of the pillars of CA (Section 3.2), and two of the studies documented cereal yield stabilization from crop diversiﬁcation in the context of CA (Kassie et al., 2015; Arslan et al., 2015). 
+In the one study we found that presents relevant evidence on risk- related beneﬁts of livestock diversiﬁcation, Megersa et al. (2014) showed that Borana pastoralist households in southern Ethiopia, who practiced herd diversiﬁcation, had fewer months of food deﬁcit and lower household food insecurity. 
+Agroforestry further diversiﬁes crop, livestock, and mixed crop/li- vestock systems by integrating trees into the production system. By varying the tree species (e.g. fertilizer trees, fruit trees, fodder shrubs, native species) and the spatial arrangement of trees (e.g. rows and al- leys, shelterbelts, natural regeneration), hundreds of permutations of agroforestry have been developed to achieve diverse outcomes (e.g. diversiﬁed production, improved soil health, reduced erosion) (Kim et al., 2016; Reed et al., 2017). The beneﬁts of agroforestry vary con- siderably across locations, in response to biophysical and socio- economic factors such as farmers' landholdings (Quinion et al., 2010), how the system is managed (Steﬀan-Dewenter et al., 2007), and eco- nomic (dis-)incentives to manage common resources sustainably (Faße and Grote, 2013). 
+The six included studies on diversiﬁcation through agroforestry showed a range of beneﬁts. Agroforestry stabilized cereal yields in the face of climate variability in two studies (Sileshi et al., 2011, 2012), although Sileshi et al. (2011) found this impact in a Nigeria site but not in a Zambia site. Agroforestry also reduced the negative impact of cli- mate shocks by reducing the use of negative coping strategies during drought in Kenya (Thorlakson and Neufeldt, 2012), and by reducing recovery time from drought, ﬂooding and storms in Vietnam (Simelton et al., 2015). Three studies provide evidence of a positive relationship between agroforestry adoption and household food security (Bostedt et al., 2016; Ickowitz et al., 2014; Thorlakson and Neufeldt, 2012). It is unknown whether the risk reduction beneﬁts of agroforestry, demon- strated in a few contexts, is a transmutable feature across all agrofor- estry systems due to the limited number and diversity of long-term agroforestry trials. 
+31 
+PAGE 5
+J. Hansen et al. 
+4. Risk-mitigating institutional interventions 
+While the AR4D community has responded to the shifting emphasis on marginal environments, and growing awareness of the connection between poverty and risk in these environments, much of the recent emphasis has been on technology solutions. However, the limitations of these technologies suggest that further measures are needed to facilitate greater use of productivity-enhancing agricultural technologies and practices, while mitigating the risks that cannot be managed through farm production technologies alone. Several institutional interventions that have their origins largely outside of agricultural research, aim to mitigate climate-related risk and build resilience through mechanisms other than aﬀecting on-farm productivity, and may therefore play a complementary role. We review the body of available recent evidence for index-based agricultural insurance, and then also brieﬂy discuss the contribution of particular forms of social protection to eﬀorts foster climate resilience and reduce rural poverty. 
+4.1. Index-based agricultural insurance 
+Index-based insurance is a recent innovation (since the mid-1990s) that triggers payouts based on an index (e.g., rainfall, vegetation remote sensing, area-average yield) that is correlated with agricultural losses, rather than actual losses. Index insurance has largely overcome the obstacles of moral hazard, adverse selection, high transaction costs and payout delays that made traditional loss-based crop insurance infeasible for smallholders. However, it introduces basis risk – resulting from the imperfect relationship between farmers' losses, and the index that triggers payouts – as a new challenge. It has contributed to a resurgence of interest in agricultural insurance in the developing world, especially in the context of climate change adaptation, and contributions to sev- eral of the Sustainable Development Goals (GIZ, 2017). Index insurance programs aim to achieve both livelihood protection (preserving pro- ductive assets and hastening recovery after shocks) and/or livelihood promotion (supporting access to credit, and adoption of improved farm technologies and practices) goals. 
+Index-based livestock insurance programs are designed primarily to protect herders' main productive asset in the event of major shocks. Payouts following a major winter weather disaster in Mongolia im- proved herd recovery by reducing distress sales and slaughtering of animals, and reducing credit constraints (Bertram-Huemmer and Kraehnert, 2015). In northern Kenya, payouts following a severe drought reduced distress livestock sales among relatively well-oﬀ pas- toralists. For poorer households with assets below an empirically de- termined poverty trap threshold, insurance protected the human capital of the next generation by reducing coping through rationing food intake – following the payout (by 43%), and even before the payout (by 30%) (Janzen and Carter, 2013). 
+The most commonly reported beneﬁts of index insurance (19 of the 24 studies analyzed) involved increased adoption of more proﬁtable production technologies and practices (Table 1). This was demonstrated in evaluations of operational programs in Ethiopia (Madajewicz et al., 2013), Burkina Faso (Stoeﬄer et al., 2016) and Mexico (Fuchs and Wolﬀ, 2016; De Janvry et al., 2016); and in experimental studies in a range of settings (Hill et al., 2017; Karlan et al., 2014; Cole et al., 2017; Miura and Sakurai, 2015; Delavallade et al., 2015; Ward et al., 2015). In several cases, adoption of improved technologies was enabled by enhanced access to credit. The positive relationship between index in- surance and adoption of improved production technology is however not expected to be universal. Carter et al. (2016) argued that index- based insurance can be expected to signiﬁcantly stimulate adoption of technology only in environments where risk is high and farmers lack collateral to secure loans. In an experimental setting in Cambodia, in- surance stimulated technology adoption only for the relatively wealthy farmers, and only when the probability of a shock was known (Falco et al., 2016). 
+Agricultural Systems 172 (2019) 28–46 
+A subset of the studies that demonstrate positive impacts of in- surance on uptake of improved technologies and practices also found evidence of positive impacts on crop production (Fuchs and Wolﬀ, 2016; Delavallade et al., 2015), wealth accumulation (Madajewicz et al., 2013) and household food security (De Nicola, 2015; Janzen and Carter, 2013; Isaboke et al., 2016). In a pastoral system in northern Kenya, where prior research (Janzen and Carter, 2013) established the existence of nonlinear herd dynamics associated with a poverty trap, Cissé and Ikegami (2016) assessed the impact of index-based livestock insurance on household resilience expressed as the future probability of two well-being indicators (herd size and child health). Holding an in- surance contract increased the probability of next-season herd size re- maining above a 16 TLU1 estimated poverty trap threshold, in both drought and non-drought years; and signiﬁcantly decreased the prob- ability that children would be severely malnourished during a drought year. 
+Concerns about weak demand in many index-based insurance in- itiatives and randomized trials (Giné et al., 2008; Cole et al., 2017; Binswanger-Mkhize, 2012; Tadesse et al., 2015) are balanced by re- cognition that several initiatives that target smallholder farmers have scaled up rapidly in recent years (Greatrex et al., 2015). Consistent with evidence that farmer demand is inﬂuenced by design-related factors such as the degree of basis risk and farmers' level of understanding and trust (Hill and Viceisza, 2012; Karlan et al., 2014; Cai et al., 2011; Elabed and Carter, 2015), Greatrex et al. argue that the prospects for scaling up index insurance for smallholder farmers may be determined largely by evolving capacity to overcome the challenges and provide eﬀective services. Likewise, Carter et al. (2017) expands on options for overcoming constraints to farmer uptake. Developing the capacity of private insurers to address farmers' insurance needs at scale may con- tinue to depend on public support including: creating an enabling regulatory environment, investing in meteorological and agricultural data systems, educating farmers about the value of insurance, and fa- cilitating international reinsurance. Time-bound smart subsidies may be needed to overcome initial setup, ﬁrst mover, or other market failure problems that can arise when an insurance market is ﬁrst emerging may be justiﬁed. 
+4.2. Social protection 
+Social protection programs aim to protect chronically poor house- holds through social assistance (cash or in-kind transfers), social in- surance (cover against designated contingencies), or labor market programs (e.g. unemployment beneﬁts) (FAO, 2015). Evidence is emerging that by alleviating credit, savings and liquidity constraints, such transfers can stimulate agricultural production through investment in technology and productive assets (farm, livestock, non-farm), and increased own-farm household labor allocation (Asfaw et al., 2014; Davis et al., 2016; Fisher et al., 2017a, 2017b; Gertler et al., 2012; Tirivayi et al., 2016; Todd et al., 2010; Kabeer et al., 2012; Hagen- Zanker et al., 2011). Positive impact on savings and reduction of pressure on informal insurance mechanisms is also noted (Bastagli et al., 2016; Davis et al., 2016). The literature stresses generally weak existing linkages between social protection and agricultural interven- tions, or tensions where linkages are present (Arnall et al., 2010; Davies et al., 2008, 2009; Devereux and Guenther, 2009). The role con- ditionality (i.e. requiring households to meet conditions for transfers) plays in delivering impact is debated (Pellerano and Barca, 2014). 
+Systematic evidence on the nexus between climate risk, social pro- tection, poverty and agriculture is only recently emerging, in response to a conceptual shift toward consideration of how social protection can foster resilience. Only a small subset (5) of the available evaluation studies on social protection attribute livelihood beneﬁts to climate risk 
+1 One Tropical Livestock Unity (TLU) = 1 cow, 0.7 camel, 10 sheep or 10 goats. 
+32 
+32 
+PAGE 6
+J. Hansen et al. 
+Agricultural Systems 172 (2019) 28–46 
+reduction (Appendix 1). Through their mitigating eﬀect on climate shocks, well-designed social protection programs that enable household to cope with agricultural and price shocks reduce the need for costly risk avoidance strategies, as Asfaw et al. (2017) and Lawlor et al. (2017) demonstrate for the Zambia Child Grant Program. Jensen et al. (2014) found that social protection contributed resilience to climate shocks among Kenyan pastoralists, but found index-based insurance to have similar eﬀect at lower cost. In Nicaragua, Macours et al. (2012) found that integrating vocational training or productive investment grants improved the eﬀectiveness of cash transfers at mitigating the impacts of drought. Recent cross-country synthesis from Sub-Saharan Africa found that cash transfers reduce the impact of weather shocks, especially for the poorest households (Asfaw and Davis, 2018). 
+Motivated in part by climate change, adaptive social protection emphasizes livelihood promotion in addition to protection, and me- chanisms to scale up (through increased beneﬁts per participant) and out (to an expanded set of beneﬁciaries) in the face of emerging shocks (Arnall et al., 2010; Davies et al., 2008, 2009, 2013). Innovations in risk ﬁnance aim to increase the eﬀectiveness and timeliness of adaptive social protection programs in the face of climatic risks. For example, Ethiopia's Livelihoods Early Assessment and Protection (LEAP) program adds a layer of contingent ﬁnance to the government's Productive Safety Net Program (PSNP), using climate-informed water balance in- formation and parametric triggers to trigger release of funds to quickly scale up PSNP interventions in the face of drought (Drechsler and Soer, 2016; Soares et al., 2016; Kuriakose et al., 2012). Forecast-based ﬁ- nance programs, being developed and piloted by Red Cross and by WFP's FoodSECuRE (Food Security Climate Resilience Facility) in- itiative, aim to exploit climate prediction and early warning systems to increase the lead-time of funds available to countries and communities facing anticipated climate shocks (Coughlan de Perez et al., 2015, 2016; Coﬀey et al., 2015). Innovative delivery mechanisms for social pro- tection beneﬁts, such as conditional Early Recovery Vouchers, reduce some of the moral hazard and perverse incentives associated with ex- isting adaptive social protection beneﬁts (Hess and Hazell, 2016). 
+5. Discussion 
+5.1. How eﬀective are climate risk management options at reducing poverty? 
+Our analysis of recent evidence about the eﬀectiveness of techno- logical options for managing climate risk in smallholder agriculture suggests several generalizations. First, most of the evaluations we re- viewed reported cases where production variability was reduced. Reduced variability was generally treated as a secondary beneﬁt to increases in mean productivity. Second, evidence about how reductions in production risk impact farmer livelihoods or poverty rates is scarce. Third, multi-site studies show that the risk beneﬁts of the natural re- source management technologies (conservation agriculture and related practices, diversiﬁed production systems including agroforestry) are context-speciﬁc; they do not show beneﬁts in all agroecological en- vironments, or for all farmers in a given environment. 
+The nature and amount of published evidence that our review considered varied between the two types of institutional risk manage- ment interventions that we considered. In the case of index insurance, the impacts that have been reported have been consistent with the objectives of the insurance initiatives. The few available studies of the livelihood protection role of insurance payouts, in the face of major climate shocks, focused on livestock insurance initiatives that were designed to protect against herd loss. A growing body of recent evi- dence, focused on index insurance for livelihood promotion, demon- strates its eﬀectiveness at overcoming risk-related barriers to adoption of more proﬁtable production technologies and practices across con- texts, but evidence of how this impacts production, income and poverty rates is sparse. 
+We found substantial evidence that the climate risk management interventions that we reviewed are eﬀective at stabilizing farm pro- duction and income, mitigating the impacts of extreme events on farm households and their assets, and enabling more productive farming practices by removing risk-related adoption barriers; and modest evi- dence of resulting improvements in measures of farm household well- being. However, we found little empirical evidence that these beneﬁts have led to signiﬁcant numbers of farmers exiting either transitory or chronic poverty. 
+The gaps in evidence reﬂect the limitations of the evaluation studies that have been conducted, and not just the eﬀectiveness of the inter- ventions. Time lags between development of new innovations and de- monstrable impacts on poverty rates aﬀect the available evidence for index-based agricultural insurance and innovations in adaptive social protection supported by contingent ﬁnance mechanisms. Economic equilibrium modeling studies are useful for ex-ante estimation of the aggregate impacts of innovations on producer and consumer well-being and poverty rates, yet they usually consider only average response (i.e., average shifts in supply curves). A few such studies recommended ex- tending analyses to include risk mitigation beneﬁts (Alene et al., 2009; Kassie et al., 2017). Even for production technologies that explicitly aim to mitigate climate-related risk, most ex-post studies do not use data from enough seasons to capture interactions between management and climate variability, and hence assess risk mitigation beneﬁts. In part, this is due to short project cycles, and to donor reluctance to support continued monitoring and evaluation after the end of a project. While multi-site studies can sample weather variability in space, attri- buting response to weather ﬂuctuations it is diﬃcult because of con- founding factors such as soil properties and the socioeconomic en- vironment. 
+Disappointing farmer adoption of the technologies and practices reviewed here appears to be one factor that has limited their con- tribution to food security, climate resilience and poverty reduction goals (Adesina and Chianu, 2002; Conteh et al., 2016; Deressa et al., 2009; Marenya and Barrett, 2007). Complex interacting factors con- tribute to adoption and scaling challenges. For example, natural re- source management practices such as conservation agriculture and agroforestry are knowledge-intensive (Kassam et al., 2009), but deep cuts to publicly funded extension services in the developing world have reduced farmers' access to training and expert guidance on these technologies (Hellin, 2012). Rural labor shortages at key times in the agricultural calendar, sometimes driven by competing on-farm and oﬀ- farm income generating activities, can constrain adoption of labor-in- tensive technologies such as conservation agriculture particularly for farmers who cannot aﬀord labor-saving inputs such as herbicides (Giller et al., 2009). Stress-tolerant seed is less knowledge- and labor-intensive than the natural resource management practices reviewed, which seems to make it easier to scale (Senyolo et al., 2017). A signiﬁcant body of research (introduced brieﬂy in Section 1) points to climate-related risk and its impacts on farmer and institutional behavior as a key obstacle to the adoption of improved production technologies, including the risk- reducing technologies included in our review, in risk-prone marginal regions. 
+5.2. Complementarity of technological and institutional risk management options 
+Institutional risk management options complement risk-reducing production technologies in at least two ways. First, they intervene in diﬀerent aspects of the risk-poverty connection. The most-reported beneﬁts of the technologies reviewed involve reducing production or income losses when weather-related stresses occur; whereas the most frequently reported beneﬁts of index insurance involve increased access to capital and uptake of improved production technologies and prac- tices, reducing the opportunity cost associated with risk-averse farmers' precautionary ex-ante strategies (Table 1). For risk-prone environments 
+33 
+PAGE 7
+J. Hansen et al. 
+Agricultural Systems 172 (2019) 28–46 
+livelihood pathways 
+for 
+smallholder 
+Fig. 1. Potential farmers. 
+where rural poverty is pervasive, this suggests that insurance can be used eﬀectively to increasingly overcome risk-related barriers to adoption of production technologies and practices that mitigate downside risk. For those living in chronic poverty in rural areas, for whom a poverty trap can be most pernicious, adaptive social protection can provide a complementary safety net to reduce climate-risk. 
+the technologies 
+The second form of complementarity involves “risk layering.” When appropriately targeted, reviewed (stress-tolerant germplasm, conservation agriculture practices, diversiﬁed farming systems) stabilize production in the face of moderate climate ﬂuctua- tions, and help guard against transitory poverty, but are not able to buﬀer the impacts of extreme events such as severe drought (Carter et al., 2017). Index insurance can be designed to trigger payouts for any level of climatic stress. But to be aﬀordable, it should target severe shocks that occur relatively infrequently. This form of complementarity between insurance and drought-tolerant seed is supported by a stylized analysis informed by data from Ecuador (Lybbert and Carter, 2015), and by evidence of demand for bundled drought-tolerant seed and in- surance in India and Bangladesh (Ward and Makhija, 2016; Ward et al., 2015). 
+5.3. Targeting climate risk management to farm livelihood pathways 
+It is important to ensure that climate risk management approaches and agricultural production technologies are targeted appropriately, based on an understanding of farming households' socio-economic and relevant poverty status, linked to the diversity of livelihood strategies and potential pathways out of poverty. The livelihood strategies available to a given household will depend on household asset and labor endowment (Carter and Barrett, 2006). From an asset-based poverty perspective, the interaction between available assets (land, ﬁ- nancial, social, human, etc.), and the physical, policy, economic and institutional environment that frames opportunities for household risk management and vulnerability reduction will determine diﬀerent live- lihood strategies. 
+A simple typology of farmer livelihood pathways (Dorward, 2009; Dorward et al., 2009; DFID, 2015; Dixon et al., 2001) can focus thinking about what roles particular CRM interventions can play, for particular types of households, in rural poverty reduction. First, “stepping up” 
+describes the process of escaping poverty through changes to their current farming activities. The main pathways for stepping up are ex- tensiﬁcation (i.e., cultivating more land or increasing herd size), in- tensiﬁcation (i.e., producing more of existing commodities per unit of land, e.g., through the use of production enhancing agricultural tech- nologies), diversiﬁcation, or commercialization2 (i.e., shifting to higher-value market-oriented production) of farm-based livelihoods (Dixon et al., 2001). Second, “stepping out” describes the process of escaping poverty by increasing income and assets through non-farm livelihood sources. For “stepping out” farm households, assets that are accumulated through farming or through social protection asset trans- fers are invested to increase oﬀ-farm income opportunities or an exit from agriculture, although globally most smallholder farm households already derive part of their income from non-farm activities. Third, “hanging in” describes the situation for farmers who are trapped in poverty, who seek to preserve their current meager levels of welfare and assets in the face of stresses and shocks. A key challenge for agri- cultural research and development is to intervene through technology, policy or services in ways that enable farmers to move from hanging in, to stepping up or stepping out. We add two more pathways, recognizing that, in the face of climatic and other risks, shocks can reverse the pathways out of poverty, compounding otherwise transitory poverty. Thus, farmers who are “stepping up” may “fall down” into increasing poverty, and farmers who are “hanging in” may “drop out” of farming into a deeper and more intractable state of destitution (Mushongah and Scoones, 2012; Barrett and Constas, 2014). For those both “hanging in” and “dropping out”, poverty is endemic and is associated with a poverty trap. In these cases, agricultural production per se, even when com- plemented by institutional interventions, may not be a realistic path out of poverty. Instead, a more appropriate intervention may be social protection until the extreme poor are either able to build up suﬃcient assets and eventually move out of poverty via agricultural livelihood pathways (i.e. stepping up) or until growth in non-agricultural sectors create suﬃcient accessible job opportunities (i.e. stepping out). 
+2 Although Dixon et al. (2001) did not list commercialization as a pathway out of poverty, their treatment of diversiﬁcation includes shifting to higher-value, market-or- iented production. 
+34 
+34 
+34 
+PAGE 8
+J. Hansen et al. 
+Agricultural Systems 172 (2019) 28–46 
+Fig. 2. Conditional wealth expectation function for a sty- lized farm household, in the presence of poverty traps. Adapted from Barrett et al. (2007). 
+Fig. 1 illustrates these potential livelihood pathways, along axes of 
+wealth and dependence on farm vs. non-farm livelihood sources. 
+While transitory movements between poor and non-poor states can cause stress without necessarily aﬀecting a household's long-term li- velihood trajectory, the thresholds and bifurcations associated with poverty traps, where present, can make the process of stepping up much more challenging, and the risk of falling down or dropping out much more costly to farmer livelihoods and poverty reduction eﬀorts. This impacts on where agricultural development eﬀorts are best targeted. In line with Dorward's (2009) livelihood pathways, Barrett et al. (2007) proposed a typology for targeting resilience-building rural development interventions in the context of risk and poverty traps. For a stylized household facing nonlinear wealth dynamics and poverty traps, Fig. 2 (adapted from Barrett et al., 2007; and Barrett and Constas, 2014) shows expected wealth in a future period (Wt + 1) conditioned on current wealth (Wt). The household has the opportunity to accumulate wealth where this conditional expectation function falls above the 1:1 line, but will lose wealth with time where it falls below the 1:1 line. 
+The conditional wealth expectation function depicted in Fig. 2 bi- furcates around two non-stable equilibria, or “tipping points:” T1 and T2. The space to the left of T2 represents a poverty trap, since it falls below a standard poverty threshold (P). The lower threshold, T1, re- cognizes that the some of the extreme poor (i.e., some of those hanging in) are vulnerable to falling irreversibly below a second threshold (T1) into destitution, physical impairment or ultimately death i.e. dropping out. Building on Barrett and Constas (2014) we refer to the stable equilibria between these thresholds as “non-poor,” “poor” and “desti- tute” zones. This conditional wealth expectation function is stochastic, as climate and other stochastic drivers inﬂuence future wealth in re- sponse to farmers' decisions current resource endowment. 
+Building on Barrett et al. (2007), we highlight four intervention points for improving farmers' wellbeing in the face of climatic risk. First, “productive safety net” interventions that aim to ﬁrstly protect the vulnerable non-poor from falling down into the poverty zone in the face of a shock. Second, production technologies complemented by im- proved climate risk management, or “cargo nets” (Barrett, 2005) aim to enable some types of farmers in the poor zone to escape poverty and 
+move to the right of T2 (i.e., stepping up). The third category is layered safety net interventions designed to protect the poor (or “hanging in” farmers) from dropping out into destitution by moving to the left of T1. For these farmers, production technologies are unlikely to be adequate; social protection is needed until they are either able to build up suﬃ- cient assets to step up out of poverty (as per the transitory poor), or until growth in non-agricultural sectors create suﬃcient accessible job op- portunities to allow stepping out. Finally, those who have moved to the left of T1 (i.e. dropping out) will require emergency humanitarian relief that goes well beyond agricultural interventions or social protection. 
+Climate risk management plays a key role for overcoming risk-re- lated barriers (e.g., farmers' risk aversion, risk aversion of lenders, or risk aversion impeding market/value chain development) to more proﬁtable agriculture, for those in the poor zone but with the potential to transition to the right of T2. There is a growing body of evidence that index-based insurance catalyzes intensiﬁcation, and sometimes com- mercialization, by reducing risk-related barriers to credit access and uptake of more proﬁtable production practices. Although risk-reducing production technologies should, in principle, also prompt increased uptake of production inputs and more intensive production, we found evidence of this eﬀect in only one study of the impacts of stress-tolerant germplasm (Emerick et al., 2016). 
+Improved climate risk management should in principle contribute to commercialization by encouraging investment in agricultural markets and value chains, by improving the reliability of smallholder farmers as suppliers, and by improving their access to the capital and technology needed that high-value commodities require. However, evidence is still lacking about the scope for improved risk management to fostering commercialization. Because rural livelihoods are embedded in a wider socio-economic context, opportunities to escape poverty by ‘stepping out’ into prosperous non-farm livelihoods must be linked to expansion of the non-farm economy and connectivity to markets (DfID, 2015). 
+Where those populations who are hanging in are highly vulnerable to the impacts of climate shocks, social protection (Section 4.2) play an important role in protecting them from dropping out into a state of destitution that would jeopardize the feasibility of future poverty re- duction eﬀorts. In addition to preventing dropping out, there is evidence 
+35 
+35 
+PAGE 9
+J. Hansen et al. 
+Agricultural Systems 172 (2019) 28–46 
+Table 2 Range of net returns (US$ ha− 1 season− 1) for categories of production-enhancing tech- nologies, summarized from Harris and Orr (2014). 
+Technology 
+Conventional 
+Improved 
+N 
+Tillage (including conservation agriculture and residue retention) 
+Rotations, fallows, intercropping Fertilizers and soil 
+amendments 
+Pest and disease control Improved varieties 
+Min 
+Median Max Min Median Max 
+0 
+118 
+587 
+121 
+289 
+4115 
+13 
+−127 
+270 
+657 
+132 
+598 
+2134 
+16 
+−55 
+282 
+1084 
+178 
+760 
+1796 
+25 
+−147 −14 −110 403 
+590 590 
+205 50 
+487 803 
+1129 1021 
+6 5 
+that suggests that well targeted cash transfers, particularly in combi- nation with agricultural interventions or vocational training, contribute to stepping up through their positive impact on farm productivity and to stepping out by overcoming barriers to proﬁtable non-farm livelihood opportunities (Macours et al., 2012; Soares et al., 2016; Tirivayi et al., 2016; Fisher et al., 2017a, 2017b). 
+In risk-prone environments, stepping up can be a precarious process. In the presence of a poverty trap, ground lost from a shock cannot be regained quickly without costly intervention. For vulnerable non-poor and transitory poor, index-based insurance can play a productive safety net role, protecting productive assets and preventing falling down into a poverty trap in the face of an extreme climate event or other adverse shock. This role has been studied particularly in the case of index-based livestock insurance (Chantarat et al., 2017; Cissé and Ikegami, 2016). From the perspective of targeting climate risk management for rural poverty reduction, a crucial question is, under what circumstances can risk-reducing technologies and institutional interventions enable farmers who are hanging in to step up into secure non-poor agricultural or step out into secure non-agricultural livelihoods (i.e. move to the right of T2 in Fig. 2)? Climatic and other risks (Section 1) can interact with other constraints to trap smallholder farm households in chronic poverty (poverty i.e. the zone between T1 and T2). From a review of farm survey data across 9 countries in SSA plus India, and published comparisons of net returns from 64 cases of improved vs. baseline farm production technologies, Harris and Orr (2014) argue that crop pro- duction could be a pathway out of poverty where smallholders are able to increase farm size, or where markets stimulate crop diversiﬁcation, commercialization and increased farm proﬁtability; but that for many, land and market access are too constraining for crop production alone to provide a feasible pathway out of poverty. The technologies that Harris and Orr based considered (summarized in Table 2) focus on in- tensiﬁcation primarily of staple cereal crops, and excluded shifts to higher-value production (i.e., commercialization). 
+As their implementation continues to improve and scale up, the technological and institutional climate risk management innovations reviewed can be expected to contribute signiﬁcantly to rural poverty reduction where two conditions are met: (a) household land and labor endowments, available technologies, supply chains and markets are suﬃcient to allow for stepping up through intensiﬁcation and/or commercialization; but (2) climate-related risk currently excludes poor farmers from accessing available technologies, credit and market op- portunities. As a step toward identifying where these conditions might hold at a very aggregate level, prior work identiﬁed major farming systems that are constrained by risk (Dixon et al., 2001). However, more research is needed to predict the contexts under which climate risk management can enable exit from poverty, in order to eﬀectively target investment in these interventions. 
+6. Conclusions 
+A body of evidence links climate-related risk to the extent and the persistence of rural poverty in marginal environments. The AR4D community has responded to the shifting emphasis on marginal en- vironments, and growing awareness of the connection between poverty and risk in these environments, but much of the emphasis is on the development and promotion of agricultural production technologies and practices. The production technologies and practices reviewed here demonstrate risk-reduction beneﬁts primarily in the form of stabilizing stabilizing production and incomes. Evidence about how risk beneﬁts translate to improved farmer livelihoods is scarce. Risk reduction and resilience beneﬁts that these technologies are intended to provide are not universal, but depend on context-speciﬁc bio-physical (e.g., soil, climate) and socio-economic (e.g., access to markets, land and labor endowment) factors. 
+Several institutional interventions play a complementary role to the agricultural production technologies and practices in two ways. First, insurance and some social protection programs can be used to in- creasingly overcome risk-related barriers to adoption of more proﬁtable production technologies and practices. Second, bundling risk-reducing technologies with insurance allows insurance to cover residual risks from severe shocks that technologies alone are unable to handle, while the technologies reduce the amount of risk that insurance must cover, thereby reducing its cost. 
+Given the heterogeneity of smallholder agriculture, and evidence of the eﬀectiveness of the technological and institutional interventions reviewed, it is paramount to target these interventions where they are expected to be most eﬀective. It is useful to think of three distinct roles that climate risk management plays in eﬀorts to reduce rural poverty: (a) enabling ‘stepping up’ where climate-related risk is an entry barrier; (b) preventing the vulnerable non-poor from ‘falling down’ in the face of a climate shock; and (c) protecting those who are ‘hanging in’ from ‘dropping out’ into deeper poverty or destitution, in a way that reduces future options to enable them to step up to secure and prosperous farming or to step out of agriculture. 
+A few rapid changes in the world are likely to change the extent of rural poverty, and the opportunities available for smallholder farmers to escape poverty in risk-prone marginal environments. On the positive side, we note rapid expansion in investment in climate risk manage- ment through climate adaptation funding, a major global push on index-based insurance, and in some contexts, rapid development of agricultural value chains and expansion of market access. On the ne- gative side, population growth in many rural areas is reducing average farm size, and climate change is intensifying risk from extreme events. This review highlights signiﬁcant gaps in evidence about the ef- fectiveness of interventions that aim to build the resilience of small- holder farmers to climate-related risks. Eﬀective targeting of these in- terventions also requires further research to identify the contexts under which particular climate risk management innovations, alone or in combination, can feasibly contribute to pathways out of poverty for smallholder farmers. 
+Acknowledgements 
+We are grateful to Peter Carberry and Thoms Tomich for helpful comments on the scope and structure of the paper. This work was im- plemented as part of the CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS), which is carried out with support from CGIAR Fund Donors and through bilateral funding agreements. For details please visit https://ccafs.cgiar.org/donors. The views expressed in this paper cannot be taken to reﬂect the oﬃcial opinions of these organizations. 
+36 
+36 
+36 
+36 
+36 
+36 
+PAGE 10
+J. Hansen et al. 
+Agricultural Systems 172 (2019) 28–46 
+Appendix 1. Selected evaluation studies of climate risk management interventions 
+Location 
+Farming system 
+Commodity 
+Inter- ventiona 
+Impactb 
+S 
+P 
+U 
+Kenya 
+Africa (21 
+countries) 
+Maize mixed, Pastoral Various 
+Livestock 
+N/A 
+AF 
+AF 
+E 
+L 
++ 
++ 
+Zambia, Nigeria Maize mixed 
+Maize 
+AF 
+± 
+(Zambia); Cereal-root crop mixed (Nigeria) 
+Zambia, Malawi Cereal root crop mixed; maize mixed 
+Vietnam 
+Lowland rice; upland intensive mixed 
+Maize 
+AF 
++ 
+Various 
+AF 
+± 
+Kenya 
+Maize mixed Maize 
+AF 
++ 
++ 
+India (Haryana) Rice-Wheat Wheat 
+CA 
+Brazil (Paraná) 
+CA 
+Soybean, maize, wheat, 
++ 
++ 
+Kenya 
+Maize mixed Maize 
+CA 
++ 
+Morocco 
+Zimbabwe 
+Highland mixed; rainfed mixed; dryland mixed; pastoral Maize mixed; agro-pastoral millet- sorghum 
+Wheat 
+CA 
++ 
+CA 
++ 
+Maize, sorghum, millet, groundnut, cowpea 
+37 
+Key ﬁnding 
+Reference 
+Method 
+Improved household nutrition. Positive relationship between nutrition diversity and quality, and tree cover up to 45%. 
+Improved maize yield stability in Nigeria site, but not Zambia sites. In Nigeria, fertilizer + AF further stabilized yields. Increased stability of maize yields relative to fertilized maize monoculture. Reduced recovery time after drought, ﬂooding, storms; but increased recovery time after cold spells. Increased average income and livestock holding. Reduced coping through borrowing, seed consumption, hiring out in ﬂood and drought years. Mixed inﬂuence on meal rationing and distress livestock sales. Yield beneﬁt from adoption was greater in an excess rainfall than a “normal” year. No-till and conservation tillage stabilized and increased soybean yields, increased mean wheat and maize yield. CA impacts increased with time. Tied ridges (most eﬀective at semi-arid site) and mulching (most eﬀective at sub-humid site) stabilized and increased mean yields. By delaying expenditures, no-till allowed cost savings when emerging drought was apparent, increasing and stabilizing net income. 
+Increased yields in low and high rainfall years. Average returns can increase or decrease depending on crop. 
+Bostedt et al., 2016 Ickowitz et al., 2014 
+Sileshi et al., 2011 
+Tree cover - diet quality correlation Regression of tree cover and Demographic Health Survey data Long-term (11–12- year) ﬁeld trials 
+Sileshi et al., 2012 
+Long-term (13- year) ﬁeld trials 
+Simelton et al., 2015 
+Thorlakson and Neufeldt, 2012 
+Adopter - non- adopter comparison based on survey, focus groups Matched samples from survey data; interviews, focus groups, ﬁeld observations 
+Aryal et al., 2016 
+Franchini et al., 2012 
+2-year farm data, comparing adaptors and non- adaptors Long-term (23- year) ﬁeld trial 
+Kiboi et al., 2017 
+Farm trials (4 seasons), interviews 
+Magnan et al., 2011 
+Ex-ante, calibrated optimization model simulated with historic rainfall 
+Michler et al., 2016 
+Econometric, plot- level panel data (4-year) 
+Econometric, plot- level panel data (4-year) 
+Econometric, plot- level panel data (4-year) 
+Econometric, plot- level panel data (4-year) 
+PAGE 11
+J. Hansen et al. 
+Zimbabwe 
+Agro-Pastoral millet/ sorghum 
+Maize, cowpea, sorghum 
+CA 
+± 
+Zimbabwe 
+Maize mixed; agro-pastoral millet/ sorghum 
+Maize, cowpea, soybean 
+CA 
+± 
+Malawi 
+Maize mixed Maize 
+S Africa 
+Various 
+Maize 
+CA 
+CA 
++ 
++ 
+(Malawi, Mozambiqu- e, Zimbabwe, Zambia) 
+Mexico 
+Maize-beans Maize 
+CA 
++ 
+India (Haryana) 
+Wheat 
+CA 
++ 
+Various 
+Various 
+Various 
+CA 
++ 
+Malawi 
+Zambia 
+Maize mixed; cereal-root crop mixed 
+Maize, pulses 
+CA, DIV + 
+Maize 
+Root crop; cereal-root crop mixed; maize mixed 
++ 
+CA, DIV, improved seed, fertilizer 
+Agricultural Systems 172 (2019) 28–46 
+Mupangwa et al., 2012 
+Field trial (4 seasons) 
+Mupangwa et al., 2017 
+Network of farm trials (3 seasons), enterprise budget analysis 
+Ngwira et al., 2013 
+Long-term (6- year) farm trials 
+Thierfelder et al., 2015 
+Statistical analysis of multiple ﬁeld trials 
+Verhulst et al., 2011 
+Long-term (12- year) ﬁeld trial 
+Sapkota et al., 2014 
+Farm trials (2 years) 
+Steward et al., 2018 
+Meta-regression of 1042 yield from 85 sites in 42 publications. 
+Kassie et al., 2015 
+Arslan et al., 2015 
+Econometric, nationally- representative farm and plot survey 
+Analysis of geo- referenced nationally representative panel data and historic climate data 
+Mulching increased maize yield in low rainfall seasons. Factors confounded positive cowpea response to ripper in low rainfall season. Direct seeding provided most stable maize yields in medium rainfall AEZ, and basins in low rainfall AEZ. Gross margin of CA treatments showed stochastic dominance, in medium and low rainfall AEZ, but conventional tillage showed stochastic dominance in high rainfall AEZ. Reduced CV of yield under low (< 750 mm) rainfall. Reduced sensitivity of yields to seasonal rainfall total. Yield advantages in 80% of cases across environments. 
+Zero tillage reduced CV of maize yield, with or without residue retention. Residue and zero tillage increased average yield. No-till increased grain yield in a year with terminal heat stress, but not a normal year; net return increase in both years was greater in stress year. Relative yield performance of CA improves with increasing drought and temperature stress, suggesting yield stabilization under climate variability. Minimum tillage and crop diversiﬁcation reduce downside production risk, with much greater beneﬁt from joint adoption. Legume intercropping stabilizes and increases maize yield. Fertilizer and improved seed increase yield under drought stress, but ineﬀective under false onset (fertilizer) or heat stress (improved seed). 
+38 
+PAGE 12
+J. Hansen et al. 
+Zimbabwe 
+Maize mixed; cereal-root crop mixed 
+Maize, pulses 
+DIV 
++ 
+Myanmar 
+Upland intensive farming 
+DIV 
++ 
+Various (pigeonpea, cotton, sesame, other pulses) 
+Ethiopia 
+Pastoral 
+DIV 
++ 
+Mexico 
+Irrigated 
+Wheat 
+DIV 
++ 
+Mongolia 
+Pastoral 
+Livestock 
+IBAI 
++ + + 
+Crop diversiﬁcation increased mean cereal yield, income, and food security status. Stabilized yields were assumed, not demonstrated. Local crop diversiﬁcation strategy combines crops with weakly correlated yields to eﬀectively stabilize production and income. Herd diversiﬁcation reduced months of food deﬁcit and household food insecurity Diversifying cultivars reduced yield variance up to 33% without decreasing mean yield. Improved herd recovery 2–4 years after winter weather disaster, through reduced distress selling, improved credit access to replenishing herds. 
+Kenya 
+Pastoral 
+Livestock 
+IBAI 
+± 
+± + IBAI increases future herd 
+size when initial size > 15 TLU poverty trap threshold; either improves or impedes accumulation when initial herd size = threshold; has no eﬀect when initial herd size < threshold; Optimal scheme reduces 15-year projected poverty rate from 55% to 42%. Increased probability of next season herd size > 16 TLU, in drought and non-drought years; decreased probability of severe child malnutrition during drought years. Increased fertilizer use, area cultivated. Payouts led to increased area cultivated the following year, increased per capita expenditure and income. 
+Improved perceived food security status and diversity of diet. Increased area and earlier sowing of maize, fertilizer, resulting in modest crop yield increase. IBAI more eﬀective than savings at stimulating investment in production inputs. 
+Kenya 
+Pastoral 
+Livestock 
+IBAI 
++ ± + 
+IBAI 
+IBAI 
+IBAI 
+IBAI 
+India 
+Mexico 
+Dry rainfed; rainfed mixed Various 
+Rice 
+N/A 
+Malawi 
+Maize mixed N/A 
+Senegal, 
+Burkina Faso 
+Groundnut (Senegal), maize (Burkina Faso) 
+Agro-pastoral millet- sorghum (Senegal); Cereal-root crop mixed (Burkina Faso) 
++ 
++ + + 
++ 
++ + + 
+39 
+Agricultural Systems 172 (2019) 28–46 
+Makate et al., 2016 
+Econometric analysis of cross- sectional household data 
+Matsuda, 2013 
+Megersa et al., 2014 
+Statistical analysis of production stability, long- term (7-year) farm data; no control 
+Econometric analysis of household surveys 
+Nalley and Barkley, 2010 
+Portfolio analysis of yield time series (1990–2002) 
+Bertram- Huemmer and Kraehnert, 2015 
+Chantarat et al., 2017 
+Econometric analysis of panel household data 
+Ex ante, simulated herd growth with stochastic model parameterized with household panel and experimental data 
+Cissé and Ikegami, 2016 
+Ex-ante, dynamic stochastic optimization model 
+Cole et al., 2017 De Janvry et al., 2016 
+De Nicola, 2015 
+Delavallade et al., 2015 
+RCT 
+Regression discontinuity analysis of municipalities with and without payout. Cross-sectional household survey data analysis RCT 
+PAGE 13
+J. Hansen et al. 
+Cambodia 
+N/A 
+IBAI 
+± 
+Lowland rice; tree crop mixed 
+Mexico 
+Bangladesh 
+Irrigated; maize-beans; dryland mixed Rice-wheat 
+Maize 
+IBAI 
++ + 
+Rice 
+IBAI 
++ 
+Kenya 
+Maize mixed Maize 
+IBAI 
+Kenya 
+Pastoral 
+Livestock 
+IBAI 
++ 
++ 
++ 
+Ghana 
+Ethiopia 
+Cereal root crop mixed 
+Highland temperate mixed 
+Maize 
+IBAI 
++ 
+IBAI 
++ + 
+Various (teﬀ, maize, sorghum, wheat and barley) 
+Ghana 
+Cereal-root crop mixed 
+Maize, various 
+IBAI 
+Zambia 
+Maize mixed Maize 
+IBAI 
++ 
++ 
+Rwanda 
+Highland perennial 
+Maize, bean IBAI 
++ 
+India (Tamil 
+Rice 
+Rice 
+IBAI 
++ + 
+Nadu) 
+Kenya 
+Maize mixed Maize 
+IBAI 
++ + 
+Burkina Faso 
+Cereal root crop mixed 
+Cotton, sesame, livestock 
+IBAI 
++ 
+Agricultural Systems 172 (2019) 28–46 
+Falco et al., 2016 
+Experimental game 
+Fuchs and Wolﬀ, 2016 
+Comparison of counties with and without IBAI 
+Hill et al., 2017 
+RCT 
+Isaboke et al., 2016 
+Janzen and Carter, 2013 
+Econometric, cross-sectional survey, propensity matching Econometric, randomized annual household panel data 
+Karlan et al., 2014 
+Madajewicz et al., 2013 
+Mishra et al., 2016 
+Miura and Sakurai, 2015 Ashimwe, 2016 
+Mobarak and Rosenzweig, 2012 
+Randomized experimental study Diﬀerence-in- diﬀerence, participant vs. control villages; qualitative interviews and focus groups. Econometric, diﬀerence-in- diﬀerence 
+RCT 
+Econometric, propensity matching Model-based analysis of RCT, panel data 
+Sibiko and Qaim, 2017 
+Analysis of farm household survey data 
+Stoeﬄer et al., 2016 
+Randomized impact evaluation 
+Increased adoption of improved technology only for relatively wealthy, when probability of a shock was known. 8% of maize area shifted into more proﬁtable crops. Increased maize yield average of 6%. Increased investment in quality seed, fertilizer, irrigation, pesticides. Improved diet diversity and perceived food security status. 
+Payouts reduced distressed livestock sales (by 64%) for better-oﬀ households; reduced food rationing by poorer households. Increased uptake of quality seed, fertilizer, irrigation, pesticides Draught animals, credit, fertilizers, improved seeds. Insured farmers tripled savings, increased oxen ownership 25%. 
+Meso-insurance held by lenders increases credit access by smallholder farmers. Increased area and earlier sowing of maize, fertilizer use. Increased average annual household income by ~US$100. IBAI prompted adoption of higher-yielding, less drought-resistant cultivar mix. IBAI improved welfare average income where basis risk was low or informal risk sharing was high. Increased use of fertilizer (50%), improved seed (65%) and maize yield (60%). Reduced manure use. Cotton area-yield insurance increased investment in non-target farm enterprises (sesame, livestock) 
+40 
+PAGE 14
+J. Hansen et al. 
+Bangladesh 
+Rice-wheat 
+Rice 
+IBAI 
+N/A 
+India 
+N/A 
+Rice 
+Rice 
+Rice 
+IBAI, SAG 
+IBAI, SAG 
+India (Andhra 
+Pradesh) 
+Rainfed mixed or Dry Rainfed 
+Groundnut 
+SAG 
++ 
+India 
+Rice 
+Rice 
+SAG 
++ 
++ 
+± 
++ 
+India 
+Rice 
+Rice 
+SAG 
++ 
++ 
+Africa (13 
+countries) 
+Various 
+Maize 
+SAG 
++ 
+IBAI availability increased demand for drought-tolerant rice seed, and bundling with this seed increased demand for insurance. IBAI and drought-tolerant rice each stimulated demand for the other. Access to insurance and access to drought-tolerant rice seed each increase demand for the other. Increased mean yield 23%, reduced variable production cost 17%. Yield variance reduction accounted for 33–46% of income beneﬁt. Yield advantage increases with number of days (up to 12) of ﬂooding, with insigniﬁcant yield penalty in non-stressed conditions. 43% of projected gains from SAG attributed to crowding in of labor intensive planting, fertilizer, and uptake of credit. 
++ + US$ 907–1565 million 
+potential cumulative beneﬁts to producers and consumers. Risk reduction projected to reduce poverty 0.01–4.29% by 2016. US$ 362–590 million potential cumulative beneﬁts to producers and consumers. Producer + consumer beneﬁt NPV (2011–2050) from uptake of hypothetical new drought-tolerant rice in S Asia estimated at US$2.0 billion. Flood-tolerant rice and improved management, alone and combined, stabilized and increased yield in years with contrasting ﬂood depth. Yield advantage over commercial varieties in all years, greater under stress conditions. Yield advantage of 1.4 t ha− 1 over commercial varieties during severe 2015/2016 El Niño event. 
+Africa (13 
+countries) 
+S Asia (5 
+countries) 
+Various 
+Maize 
+SAG 
+N/A 
+Rice 
+SAG 
++ 
++ 
+India (West Bengal) 
+Rice 
+Rice 
+SAG 
++ 
+E and S Africa 
+Various 
+Maize 
+SAG 
+(8 countries) 
+E and S Africa 
+Various 
+Maize 
+SAG 
+(6 countries) 
++ 
++ 
+41 
+Agricultural Systems 172 (2019) 28–46 
+Ward et al., 2015 
+Choice experiments 
+Carter et al., 2016 
+Choice experiments 
+Ward and Makhija, 2016 
+Choice experiments 
+Birthal et al., 2012 
+Econometric 
+Dar et al., 2013 
+Large-scale (128 villages) randomized farm trial 
+Emerick et al., 2016 
+RCT, randomly distributed stress- tolerant seed packets 
+Kostandini et al., 2013 
+Ex-ante, economic surplus model, experimental and on-farm data 
+La Rovere et al., 2014 
+Ex-ante estimate of impact of large- scale adoption 
+Mottaleb et al., 2012 
+Sarangi et al., 2016 
+Ex-ante, partial equilibrium model, crop simulation, breeder expert opinion, historic climate data Farm trials (2- year) 
+Setimela et al., 2017a 
+Farm trials 
+Setimela et al., 2017b 
+Farm trials 
+PAGE 15
+J. Hansen et al. 
+Philippines 
+Rice 
+Rice 
+SAG 
+Zambia 
+N/A 
+SP 
+Root Crop; cereal-root crop mixed; maize mixed 
++ 
++ 
++ 
+Ethiopia 
+Various 
+N/A 
+SP 
+− − 
+± 
+Kenya 
+Pastoral 
+Livestock 
+SP, IBAI 
+− + + 
+Zambia 
+Root crop; cereal-root crop mixed 
+N/A 
+SP 
++ 
++ 
+Nicaragua 
+Maize - beans N/A 
+SP 
++ 
++ 
+Agricultural Systems 172 (2019) 28–46 
+Singh et al., 2009 
+3-season ﬁeld trials 
+Asfaw et al., 2017 
+RCT, analysis of panel data and interaction with rainfall data 
+Béné et al., 2012 
+Panel survey data from Productive Safety Net Program (2006, 2008) 
+Jensen et al., 2014 
+Econometric analysis of panel data (2009–2012), randomized IBAI discounts. 
+Lawlor et al., 2017 
+Multi-site clustered RCT; Econometric analysis of panel data (2010, 2012) 
+Macours et al., 2012 
+RCT; analysis of panel data (2005, 2006, 2008), climate data. 
+Flood-tolerant rice improved yield in ﬂood year with no yield penalty in non-ﬂood year. Cash transfers mitigate negative eﬀect of weather shocks on household caloric intake and dietary diversity, with greater beneﬁt for poorer households. SP participation showed modest and comparable improvement in food security and well being in drought and non-drought years, no signiﬁcant inﬂuence on coping strategies, hence only marginal protection from drought. IBAI and SP contribute to resilience to climate shocks, improved child health. SP increased pastoralist mobility. IBAI increased investment in production, strategic livestock sales. IBAI much more cost-eﬀective than SP. Cash transfers smoothed and increased food consumption for households facing shocks. Covariate shocks, and early cash transfers before shocks, increased eﬀectiveness. Cash transfer, combined with vocational training or productive investment grant, protected consumption and income from drought, and diversiﬁed livelihoods. Beneﬁts persisted two years after intervention. 
+a CA = conservation agriculture; IBAI = index-based agricultural insurance; AF = agroforestry; SAG = stress-tolerant seed; DIV = diversiﬁcation; SP = social protection. b S = Stabilize production, livelihood; P = Protect productive assets; U = Increase uptake of capital & technology; L = Improve livelihood or welfare measures; E = Escape poverty. 
+References 
+Adesina, A.A., Chianu, J., 2002. Determinants of farmers' adoption and adaptation of 
+alley farming technology in Nigeria. Agrofor. Syst. 55 (2), 99–112. http://dx.doi.org/ 10.1023/A:1020556132073. 
+Alderman, H., Hoddinott, J., Kinsey, B., 2006. Long term consequences of early childhood 
+malnutrition. Oxf. Econ. Pap. 58 (3), 450–474. http://dx.doi.org/10.1093/oep/ gpl008. 
+Alene, A.D., Menkir, A., Ajala, S.O., Badu-Apraku, B., Olanrewaju, A.S., Manyong, V.M., Ndiaye, A., 2009. The economic and poverty impacts of maize research in West and Central Africa. Agric. Econ. 40 (5), 535–550. 
+Andersson, J.A., D'Souza, S., 2014. From adoption claims to understanding farmers and 
+contexts: a literature review of Conservation Agriculture (CA) adoption among smallholder farmers in southern Africa. Agric. Ecosyst. Environ. 187, 116–132. http://dx.doi.org/10.1016/j.agee.2013.08.008. 
+Arnall, A., Oswald, K., Davies, M., Mitchell, T., Coirolo, C., 2010. Adaptive social 
+protection: mapping the evidence and policy context in the agriculture sector in South Asia. IDS Work. Pap. 2010 (345), 01–92. http://dx.doi.org/10.1111/j.2040- 0209.2010.00345_2.x. 
+Arslan, A., McCarthy, N., Lipper, L., Asfaw, S., Cattaneo, A., Kokwe, M., 2015. Climate smart agriculture? Assessing the adaptation implications in Zambia. J. Agric. Econ. 66 (3), 753–780. http://dx.doi.org/10.1111/1477-9552.12107. 
+Aryal, J.P., Sapkota, T.B., Stirling, C.M., Jat, M.L., Jat, H.S., Rai, M., Mittal, S., Sutaliya, J.M., 2016. Conservation agriculture-based wheat production better copes with ex- treme climate events than conventional tillage-based systems: a case of untimely excess rainfall in Haryana, India. Agric. Ecosyst. Environ. 233, 325–335. http://dx. doi.org/10.1016/j.agee.2016.09.013. 
+Asfaw, S., Davis, B., Dewbre, J., Handa, S., Winters, P., 2014. Cash transfer programme, productive activities and labour supply: evidence from a randomised experiment in Kenya. J. Dev. Stud. 50 (8), 1172–1196. http://dx.doi.org/10.1080/00220388.2014. 919383. 
+Asfaw, S., Carraro, A., Davis, B., Handa, S., Seidenfeld, D., 2017. Cash Transfer 
+Programmes for Managing Climate Risk: Evidence from a Randomized Experiment in 
+42 
+42 
+PAGE 16
+J. Hansen et al. 
+Agricultural Systems 172 (2019) 28–46 
+Zambia. Rome, FAO. http://www.fao.org/3/a-i7049e.pdf. 
+Asfaw, S., Davis, B., 2018. Can cash transfer programmes promote household resilience? Cross-country evidence from Sub-Saharan Africa. In: Lipper, L. (Ed.), Climate Smart Agriculture. Springer, Cham, pp. 227–250. http://dx.doi.org/10.1007/978-3-319- 61194-5_11. 
+Ashimwe, O., 2016. An economic analysis of impact of weather index-based crop 
+Insurance on household income in Huye District of Rwanda. In: A Thesis Submitted in Partial Fulﬁlment of the Requirements for the Award of a Master of Science degree in Agricultural and Applied Economics. University of Nairobi. http://erepository.uonbi. ac.ke:8080/handle/11295/97935. 
+Barot, S., Allard, V., Cantarel, A., Enjalbert, J., Gauﬀreteau, A., Goldringer, I., Lata, J.C., 
+Le Roux, X., Niboyet, A., Porcher, E., 2017. Designing mixtures of varieties for multifunctional agriculture with the help of ecology. A review. Agron. Sustain. Dev. 37 (2), 13. 
+Barrett, C.B., 2005. Rural poverty dynamics: development policy implications. Agric. 
+Econ. 32 (s1), 45–60. http://dx.doi.org/10.1111/j.0169-5150.2004.00013.x. 
+Barrett, C.B., Carter, M.R., 2001. Can't get ahead for falling behind: development policy, poverty, and relief traps. Choices 35–38. Winter 2001–2002. http://farmdoc.illinois. edu/policy/choices/20024/2002-4-06.pdf. 
+Barrett, C.B., Constas, M.A., 2014. Toward a theory of resilience for international de- 
+velopment applications. Proc. Natl. Acad. Sci. 111 (40), 14625–14630. http://dx.doi. org/10.1073/pnas.1320880111. 
+Barrett, C.B., Swallow, B.M., 2006. Fractal poverty traps. World Dev. 34 (1), 1–15. http:// 
+dx.doi.org/10.1016/j.worlddev.2005.06.008. 
+Barrett, C.B., Reardon, T., Webb, P., 2001. Nonfarm income diversiﬁcation and household 
+livelihood strategies in rural Africa: concepts, dynamics, and policy implications. Food Policy 26 (4), 315–331. http://dx.doi.org/10.1016/S0306-9192(01)00014-8. Barrett, C.B., Moser, C.M., McHugh, O.V., Barison, J., 2004. Better technology, better 
+plots, or better farmers? Identifying changes in productivity and risk among Malagasy rice farmers. Am. J. Agric. Econ. 86 (4), 869–888. 
+Barrett, C.B., Barnett, B.J., Carter, M.R., Chantarat, S., Hansen, J.W., Mude, A.G., Osgood, 
+D., Skees, J.R., Turvey, C.G., Ward, M.N., 2007. Poverty traps and climate risk: limitations and opportunities of index-based risk ﬁnancing. In: IRI Tech. Rep. No. 07- 03. International Research Institute for Climate and Society, Palisades, New York, USA. http://barrett.dyson.cornell.edu/Papers/WP_Poverty_IRItr0702.pdf. 
+Bastagli, F., Hagen-Zanker, J., Harman, L., Barca, V., Sturge, G., Schmidt, T., Pellerano, L., 
+2016. Cash transfers: what does the evidence say? In: A Rigorous Review of Programme Impact and of the Role of Design and Implementation Features. Overseas Development Institute, London. https://www.odi.org/publications/10505-cash- transfers-what-does-evidence-say-rigorous-review-impacts-and-role-design-and- implementation. 
+Baudron, F., Andersson, J.A., Corbeels, M., Giller, K.E., 2012. Failing to yield? Ploughs, conservation agriculture and the problem of agricultural intensiﬁcation: an example from the Zambezi Valley, Zimbabwe. J. Dev. Stud. 48 (3), 393–412. 
+Baudron, F., Thierfelder, C., Nyagumbo, I., Gérard, B., 2015. Where to target conservation agriculture for African smallholders? How to overcome challenges associated with its implementation? Experience from eastern and southern Africa. Environments 2 (3), 338–357. 
+Baulch, B., Hoddinott, J., 2000. Economic mobility and poverty dynamics in developing 
+countries. J. Dev. Stud. 36 (6), 1–24. http://dx.doi.org/10.1080/ 00220380008422652. 
+Béné, C., Devereux, S., Sabates-Wheeler, R., 2012. Shocks and social protection in the horn of Africa: analysis from the productive safety net Programme in Ethiopia. IDS Work. Pap. 2012 (395), 1–120. http://dx.doi.org/10.1111/j.2040-0209.2012. 00395.x. 
+Bertram-Huemmer, V., Kraehnert, K., 2015. Does index insurance help households re- cover from disaster? In: Evidence from IBLI Mongolia. DIW Discussion Papers, No. 1515, . http://hdl.handle.net/10419/122303. 
+Besley, T., 1995. Property rights and investment incentives: theory and evidence from 
+Ghana. J. Polit. Econ. 103 (5), 903–937. http://dx.doi.org/10.1086/262008. 
+Binswanger-Mkhize, H.P., 2012. Is there too much hype about index-based agricultural 
+insurance? J. Dev. Stud. 48 (2), 187–200. http://dx.doi.org/10.1080/00220388. 2011.625411. 
+Birthal, P.S., Nigam, S.N., Narayanan, A.V., Kareem, K.A., 2012. Potential economic 
+beneﬁts from adoption of improved drought-tolerant groundnut in India. Agric. Econ. Res. Rev. 25 (1), 1–14. 
+Bostedt, G., Hörnell, A., Nyberg, G., 2016. Agroforestry extension and dietary di- 
+versity–an analysis of the importance of fruit and vegetable consumption in West Pokot, Kenya. Food Secur. 8 (1), 271–284. http://dx.doi.org/10.1007/s12571-015- 0542-x. 
+Branca, G., Lipper, L., McCarthy, N., Jolejole, M.C., 2013. Food security, climate change, and sustainable land management. A review. Agron. Sustain. Dev. 33 (4), 635–650. http://dx.doi.org/10.1007/s13593-013-0133-1. 
+Cai, J., de Janvry, A., Sadoulet, E., 2011. Social Networks and Insurance Take-up: 
+Evidence from a Randomized Experiment in China. ILO Micro Insurance Innovation Facility, Research Paper 8. International Labour Organization, Geneva, Switzerland. http://www.ilo.org/public/english/employment/mifacility/download/repaper8. pdf. 
+Cairns, J.E., Crossa, J., Zaidi, P.H., Grudloyma, P., Sanchez, C., Araus, J.L., Thaitad, S., 
+Makumbi, D., Magorokosho, C., Bänziger, M., Menkir, A., Hearne, S., Atlin, G.N., 2013. Identiﬁcation of drought, heat, and combined drought and heat tolerant donors in maize. Crop Sci. 53 (4), 1335–1346. http://dx.doi.org/10.2135/cropsci2012.09. 0545. 
+Carter, M.R., Barrett, C.B., 2006. The economics of poverty traps and persistent poverty: an asset-based approach. J. Dev. Stud. 42 (2), 178–199. http://dx.doi.org/10.1080/ 00220380500405261. 
+Carter, M.R., Little, P.D., Mogues, T., Negatu, W., 2007. Poverty traps and natural dis- asters in Ethiopia and Honduras. World Dev. 35 (5), 835–856. http://dx.doi.org/10. 1016/j.worlddev.2006.09.010. 
+Carter, M.R., Cheng, L., Sarris, A., 2016. Where and how index insurance can boost the adoption of improved agricultural technologies. J. Dev. Econ. 118, 59–71. http://dx. doi.org/10.1016/j.jdeveco.2015.08.008. 
+Carter, M., de Janvry, A., Sadoulet, E., Sarris, A., 2017. Index insurance for developing 
+country agriculture: a reassessment. Ann. Rev. Resour. Econ. 9, 421–438. 
+Chantarat, S., Mude, A.G., Barrett, C.B., Turvey, C.G., 2017. Welfare impacts of index 
+insurance in the presence of a poverty trap. World Dev. 94, 119–138. http://dx.doi. org/10.1016/j.worlddev.2016.12.044. 
+Cissé, Ikegami, 2016. Does Insurance Improve Resilience? Measuring the Impact of Index- 
+based Livestock Insurance on Development Resilience in Northern Kenya. www. economics.cornell.edu/seminars/development-workshop-jennifer-cisse. 
+Coﬀey, K., Haile, M., Halperin, M., Wamukoya, G., Hansen, J., Kinyangi, J., Tesfaye 
+Fantaye, K., 2015. Expanding the contribution of early warning to climate-resilient agricultural development in Africa. In: CCAFS Working Paper no. 115. CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS), Copenhagen, Denmark. http://hdl.handle.net/10568/66596. 
+Cole, S., Giné, X., Vickery, J., 2017. How does risk management inﬂuence production 
+decisions? Evidence from a ﬁeld experiment. Rev. Financ. Stud. 30 (6), 1935–1970. http://dx.doi.org/10.1093/rfs/hhw080. 
+Collard, B.C.Y., Ismail, A.M., Hardy, B., 2013. Twenty Years of Achievements in Rice Breeding. International Rice Research Institute, Los Banos, Philippines (145 pp.). 
+Conteh, A.M., Moiwo, J.P., Yan, X., 2016. Using a logistic regression model to analyze alley farming adoption factors in Sierra Leone. Small Scale For. 15 (1), 109–125. http://dx.doi.org/10.1007/s11842-015-9311-0. 
+Coughlan de Perez, E., van den Hurk, B., van Aalst, M.K., Jongman, B., Klose, T., Suarez, P., 2015. Forecast-based ﬁnancing: an approach for catalyzing humanitarian action based on extreme weather and climate forecasts. Nat. Hazards Earth Syst. Sci. 15 (4), 895–904. http://dx.doi.org/10.5194/nhess-15-895-2015. 
+Coughlan de Perez, E., van den Hurk, B., van Aalst, M.K., Amuron, I., Bamanya, D., 
+Hauser, T., Jongma, B., Lopez, A., Mason, S., Mendler de Suarez, J., Pappenberger, F., Rueth, A., Stephens, E., Suarez, P., Wagemaker, J., Zsoter, E., 2016. Action-based ﬂood forecasting for triggering humanitarian action. Hydrol. Earth Syst. Sci. 20, 3549–3560. http://dx.doi.org/10.5194/hess-20-3549-2016. (2016). 
+Dar, M.H., De Janvry, A., Emerick, K., Raitzer, D., Sadoulet, E., 2013. Flood-tolerant rice reduces yield variability and raises expected yield, diﬀerentially beneﬁtting socially disadvantaged groups. Sci. Rep. 3. http://dx.doi.org/10.1038/srep03315. 
+Dar, M.H., Chakravorty, R., Waza, S.A., Sharma, M., Zaidi, N.W., Singh, A.N., Singh, U.S., 
+Ismail, A.M., 2017. Transforming rice cultivation in ﬂood prone coastal Odisha to ensure food and economic security. Food Secur. (4), 711–722. 
+Davies, M., Guenther, B., Leavy, J., Mitchell, T., Tanner, T., 2008. ‘Adaptive social pro- 
+tection’: synergies for poverty reduction. IDS Bull. 39 (4), 105–112. 
+Davies, M., Guenther, B., Leavy, J., 2009. Climate change adaptation, disaster risk re- 
+duction and social protection: complementary roles in agriculture and rural growth? IDS Work. Pap. 320, 39. http://dx.doi.org/10.1111/j.2040-0209.2009.00320_2.x. 
+Davies, M., Béné, C., Arnall, A., Tanner, T., Newsham, A., Coirolo, C., 2013. Promoting 
+resilient livelihoods through adaptive social protection: lessons from 124 pro- grammes in South Asia. Dev. Policy Rev. 31 (1), 27–58. http://dx.doi.org/10.1111/j. 1467-7679.2013.00600.x. 
+Davis, B., Handa, S., Hypher, N., Rossi, N.W., Winters, P., Yablonski, J. (Eds.), 2016. From 
+Evidence to Action: The Story of Cash Transfers and Impact Evaluation in Sub Saharan Africa. Oxford University Press. http://dx.doi.org/10.1080/00220388.2016. 1222679. 
+De Janvry, A., Ramirez Ritchie, E., Sadoulet, E., 2016. Weather index insurance and shock 
+coping: evidence from Mexico's CADENA Program. In: Policy Research Working Paper 7715. World Bank. https://papers.ssrn.com/sol3/papers.cfm?abstract_id= 2811363. 
+De Nicola, F., 2015. The impact of weather insurance on consumption, investment, and 
+welfare. Quant. Econ. 6 (3), 637–661. http://dx.doi.org/10.3982/QE300. 
+Delavallade, C., Dizon, F., Hill, R.V., Petraud, J.P., 2015. Managing risk with insurance 
+and savings: Experimental evidence for male and female farm managers in West Africa. In: IFPRI Discussion Paper 01426. A DfID for International Development. 2015. “DFID's Conceptual Framework on Agriculture”, . https://www.gov.uk/ government/publications/dﬁds-conceptual-framework-on-agriculture. 
+Department for International Development, 2015. DFID ’ s Conceptual Framework on 
+Agriculture 33. DFID, London. https://www.gov.uk/government/publications/dﬁds- conceptual-framework-on-agriculture. 
+Dercon, S., 1996. Risk, crop choice, and savings: evidence from Tanzania. Econ. Dev. Cult. 
+Chang. 44 (3), 485–513. 
+Dercon, S., 2002. Income risk, coping strategies, and safety nets. In: The World Bank 
+Research Observer. vol. 17(2). World Bank, Washington, D.C., pp. 141–166. http:// documents.worldbank.org/curated/en/239371468331188526/Income-risk-coping- strategies-and-safety-nets. 
+Dercon, S., 2004. Growth and shocks: evidence from rural Ethiopia. J. Dev. Econ. 74 (2), 
+309–329. http://dx.doi.org/10.1016/j.jdeveco.2004.01.001. 
+Dercon, S., Christiaensen, L., 2011. Consumption risk, technology adoption and poverty traps: evidence from Ethiopia. J. Dev. Econ. 96 (2), 159–173. http://dx.doi.org/10. 1016/j.jdeveco.2010.08.003. 
+Dercon, S., Hoddinott, J., 2005. Health, shocks and poverty persistence. In: Dercon, S. 
+(Ed.), Insurance Against Poverty. Oxford University Press, Oxford, UK. 
+Dercon, S., Hoddinott, J., Woldehanna, T., 2005. Shocks and consumption in 15 Ethiopian 
+villages, 1999–2004. J. Afr. Econ. 14 (4), 559. 
+Deressa, T.T., Hassan, R.M., Ringler, C., Alemu, T., Yesuf, M., 2009. Determinants of 
+farmers' choice of adaptation methods to climate change in the Nile Basin of Ethiopia. 
+43 
+PAGE 17
+J. Hansen et al. 
+Agricultural Systems 172 (2019) 28–46 
+Glob. Environ. Chang. 19 (2), 248–255. http://dx.doi.org/10.1016/j.gloenvcha. 2009.01.002. 
+Devereux, S., Guenthe, B., 2009. Agriculture and social protection in Ethiopia. In: FAC Working Paper 08. Future Agricultures Consortium, Brighton. https://opendocs.ids. ac.uk/opendocs/handle/123456789/2347. 
+Dixon, J.A., Gibbon, D.P., Gulliver, A., 2001. Farming Systems and Poverty: Improving 
+farmers' Livelihoods in a Changing World. Food and Agriculture Org, Rome. 
+Dorward, A., 2009. Integrating contested aspirations, processes and policy: development as hanging in, stepping up and stepping out. Dev. Policy Rev. 27 (2), 131–146. http:// dx.doi.org/10.1111/j.1467-7679.2009.00439.x. 
+Dorward, A., Anderson, S., Bernal, Y.N., Vera, E.S., Rushton, J., Pattison, J., Paz, R., 2009. Hanging in, stepping up and stepping out: livelihood aspirations and strategies of the poor. Dev. Pract. 19 (2), 240–247. http://dx.doi.org/10.1080/09614520802689535. Drechsler, M.B.S., Soer, W., 2016. Early warning, early action: the use of predictive tools in drought response through Ethiopia's productive safety net programme. In: Policy Research Working Paper 7716. World Bank. http://documents.worldbank.org/ curated/en/346411468188663201/pdf/WPS7716.pdf. 
+Easterly, W., 2001. The Elusive Quest for Growth. MIT Press, Cambridge, Mass, USA. Elabed, G., Carter, M.R., 2015. Compound-risk aversion, ambiguity and the willingness to pay for microinsurance. J. Econ. Behav. Organ. 118, 150–166. http://dx.doi.org/10. 1016/j.jebo.2015.03.002. 
+Emerick, K., de Janvry, A., Sadoulet, E., Dar, M.H., 2016. Technological innovations, 
+downside risk, and the modernization of agriculture. Am. Econ. Rev. 106 (6), 1537–1561. http://dx.doi.org/10.1257/aer.20150474. 
+Fafchamps, M., 2003. Rural Poverty, Risk and Development. Edward Elgar Publishing, 
+Glos, UK. 
+Falco, C., Kong, D., Rotondi, V., Spelta, V., 2016. Investment, Insurance and Weather Shocks: Evidence from a Lab Experiment in Cambodia. Università degli Studi di Milano Departmental Working Paper (No. 2016-10). http://wp.demm.unimi.it/ﬁles/ wp/2016/DEMM-2016_10wp.pdf. 
+FAO, 2015. The State of Food and Agriculture. Social Protection and Agriculture: 
+Breaking and the Cycle of Rural Poverty. http://www.fao.org/publications/sofa/ 2015/en/. 
+Faße, A., Grote, U., 2013. The economic relevance of sustainable agroforestry practi- 
+ces—an empirical analysis from Tanzania. Ecol. Econ. 94, 86–96. http://dx.doi.org/ 10.1016/j.ecolecon.2013.07.008. 
+Fisher, E., Attah, R., Barca, V., O'Brien, C., Brook, S., Holland, J., Kardan, A., Pozarny, P., 
+2017a. The livelihood impacts of cash transfers in sub-Saharan Africa: beneﬁciary perspectives from six countries. World Dev. http://dx.doi.org/10.1016/j.worlddev. 2017.05.020. 
+Fisher, E., Estruch, E., Pozarny, P., 2017b. Social Protection and Decent Rural 
+Employment: Malawi Case Study. FAO, Rome. http://www.fao.org/economic/ptop/ publications/reports/en/. 
+Franchini, J.C., Debiasi, H., Junior, A.A.B., Tonon, B.C., Farias, J.R.B., de Oliveira, 
+M.C.N., Torres, E., 2012. Evolution of crop yields in diﬀerent tillage and cropping systems over two decades in southern Brazil. Field Crop Res. 137, 178–185. http:// dx.doi.org/10.1016/j.fcr.2012.09.003. 
+Fuchs, A., Wolﬀ, H., 2016. Drought and retribution: evidence from a large-scale rainfall- 
+indexed insurance program in Mexico. In: World Bank Policy Research Working Paper No. 7565. World Bank, Washington DC. http://hdl.handle.net/10986/23902. 
+Gaiha, R., Thapa, G., 2006. Natural Disasters, Vulnerability and Mortalities – A Cross- 
+Country Analysis. International Fund for Agricultural Development, Rome. 
+Gatere, L., Lehmann, J., DeGloria, S., Hobbs, P., Delve, R., Travis, A., 2013. One size does not ﬁt all: conservation farming success in Africa more dependent on management than on location. Agric. Ecosyst. Environ. 179, 200–207. http://dx.doi.org/10.1016/ j.agee.2013.08.006. 
+Gertler, P.J., Martinez, S.W., Rubio-Codina, M., 2012. Investing cash transfers to raise 
+long-term living standards. Am. Econ. J. 4 (1), 164–192. http://dx.doi.org/10.1596/ 1813-9450-3994. 
+Gilbert, M.E., Holbrook, N.M., 2011. Limitations to crop diversiﬁcation for enhancing the resilience of rain-fed subsistence agriculture to drought. In: CID Working Paper No. 228. Center for International Development at Harvard University. https://www.hks. harvard.edu/centers/cid/publications/faculty-working-papers/cid-working-paper- no.-228. 
+Giller, K.E., Witter, E., Corbeels, M., Tittonell, P., 2009. Conservation agriculture and smallholder farming in Africa: the heretics' view. Field Crop Res. 114 (1), 23–34. http://dx.doi.org/10.1016/j.fcr.2009.06.017. 
+Giné, X., Townsend, R., Vickery, J., 2008. Patterns of rainfall insurance participation in 
+rural India. World Bank Econ. Rev. 22 (3), 539–566. http://dx.doi.org/10.1093/ wber/lhn015. 
+GIZ, 2017. Inclusive Insurance and the Sustainable Development Goals: How Insurance Contributes to the 2030 Agenda for Sustainable Development. Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), Bonn. http://www. microinsurancenetwork.org/sites/default/ﬁles/Inclusive%20Insurance%20and %20the%20Sustainable%20Development%20Goals%20.pdf. 
+Greatrex, H., Hansen, J., Garvin, S., Diro, R., Le Guen, M., Blakeley, S., Rao, K., Osgood, 
+D., 2015. Scaling up index insurance for smallholder farmers: recent evidence and insights. In: CCAFS Report No. 14. CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS). Copenhagen, Denmark, . http://hdl.handle. net/10568/53101. 
+Hagen-Zanker, J., McCord, A., Holmes, R., Booker, F., Molinari, E., 2011. Systematic 
+Review of the Impact of Employment Guarantee Schemes and Cash Transfers on the Poor. Overseas Development Institute, London. http://www.3ieimpact.org/en/ evidence/systematic-reviews/details/88/. 
+Harris, D., Orr, A., 2014. Is rainfed agriculture really a pathway from poverty? Agric. Syst. 
+123, 84–96. http://dx.doi.org/10.1016/j.agsy.2013.09.005. 
+Hellin, J., 2012. Agricultural extension, collective action and innovation systems: lessons on network brokering from Peru and Mexico. J. Agric. Educ. Ext. 18 (2), 141–159. http://dx.doi.org/10.1080/1389224X.2012.655967. 
+Hess, U., Hazell, P., 2016. Innovations and Emerging Trends in Agricultural Insurance. 
+Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. 
+Hill, R.V., Viceisza, A., 2012. A ﬁeld experiment on the impact of weather shocks and insurance on risky investment. Exp. Econ. 15 (2), 341–371. http://dx.doi.org/10. 1007/s10683-011-9303-7. 
+Hill, R.V., Kumar, N., Magnan, N., Makhija, S., De Nicola, F., Spielman, D.J., Ward, P., 2017. Insuring against droughts: evidence on agricultural intensiﬁcation and index insurance demand from a randomized evaluation in rural Bangladesh. In: IFPRI Discussion Paper 1630. International Food Policy Research Institute (IFPRI), Washington, D.C.. http://ebrary.ifpri.org/cdm/ref/collection/p15738coll2/id/ 131129. 
+Hoddinott, J., 2006. Shocks and their consequences across and within households in rural 
+Zimbabwe. J. Dev. Stud. 42 (2), 301–321. http://dx.doi.org/10.1080/ 00220380500405501. 
+Holden, S.T., Fisher, M., 2015a. Can adoption of improved maize varieties help small- holder farmers adapt to drought? In: Evidence from Malawi (No. 1/15). Centre for Land Tenure Studies, Norwegian University of Life Sciences. https://www.nmbu.no/ sites/default/ﬁles/pdfattachments/clts_wp_01_15.pdf. 
+Holden, S.T., Fisher, M., 2015b. Subsidies promote use of drought tolerant maize varieties despite variable yield performance under smallholder environments in Malawi. Food Secur. 7 (6), 1225–1238. http://dx.doi.org/10.1080/00220380500405501. 
+Hulme, D., 2003. Chronic poverty and development policy: an introduction. World Dev. 
+31 (3), 399–402. http://dx.doi.org/10.1016/S0305-750X(02)00214-0. 
+Hyman, G., Fujisaka, S., Jones, P., Wood, S., De Vicente, M.C., Dixon, J., 2008. Strategic approaches to targeting technology generation: assessing the coincidence of poverty and drought-prone crop production. Agric. Syst. 98 (1), 50–61. http://dx.doi.org/10. 1016/j.agsy.2008.04.001. 
+Ickowitz, A., Powell, B., Salim, M.A., Sunderland, T.C., 2014. Dietary quality and tree cover in Africa. Glob. Environ. Chang. 24, 287–294. http://dx.doi.org/10.1016/ S0305-750X(02)00222-X. 
+Isaboke, H.N., Zhang, Q., Nyarindo, W.N., 2016. The eﬀect of weather index based micro- 
+insurance on food security status of smallholders. Agric. Res. Econ. 2 (3), 5–21. https://are-journal.com/are/article/view/40/52. 
+Ismail, A.M., Singh, U.S., Singh, S., Dar, M.H., Mackill, D.J., 2013. The contribution of submergence-tolerant (Sub1) rice varieties to food security in ﬂood-prone rainfed lowland areas in Asia. Field Crop Res. 152, 83–93. http://dx.doi.org/10.1016/j.fcr. 2013.01.007. 
+Janzen, S.A., Carter, M.R., 2013. The impact of microinsurance on consumption 
+smoothing and asset protection: evidence from a drought in Kenya. In: University of California at Davis. Presented at Agricultural and Applied Economics Association's 2013 AAEA and CAES Joint Annual Meeting, Washington, DC, . http://www.ferdi.fr/ sites/www.ferdi.fr/ﬁles/evenements/presentations/carter_jansen_the_impact_of_ microinsurance_on_consumption.pdf. 
+Jat, R.K., Sapkota, T.B., Singh, R.G., Jat, M.L., Kumar, M., Gupta, R.K., 2014. Seven years 
+of conservation agriculture in a rice–wheat rotation of Eastern Gangetic Plains of South Asia: yield trends and economic proﬁtability. Field Crop Res. 164, 199–210. Jensen, N.D., Barrett, C.B., Mude, A., 2014. Index insurance and cash transfers: a com- parative analysis from northern Kenya. SSRN Electron. J. 0–65. http://dx.doi.org/10. 2139/ssrn.2547660. 
+Kabeer, N., Piza, C., Taylor, L., 2012. What Are the Economic Impacts of Conditional Cash Transfer Programmes? A Systematic Review of the Evidence. Technical Report. EPPI- Centre, Social Science Research Unit, Institute of Education, University of London, London. http://www.3ieimpact.org/en/evidence/systematic-reviews/details/237/. Karlan, D., Osei, R., Osei-Akoto, I., Udry, C., 2014. Agricultural decisions after relaxing credit and risk constraints. Q. J. Econ. 129 (2), 597–652. http://dx.doi.org/10.1093/ qje/qju002. 
+Kassam, A., Friedrich, T., Shaxson, F., Pretty, J., 2009. The spread of conservation agri- culture: justiﬁcation, sustainability and uptake. Int. J. Agric. Sustain. 7 (4), 292–320. Kassie, M., Teklewold, H., Marenya, P., Jaleta, M., Erenstein, O., 2015. Production risks and food security under alternative technology choices in Malawi: application of a multinomial endogenous switching regression. J. Agric. Econ. 66 (3), 640–659. 
+Kassie, M., Marenya, P., Tessema, Y., Jaleta, M., Zeng, D., Erenstein, O., Rabut, D., 2017. Measuring farm and market level economic impacts of improved maize production technologies in Ethiopia: evidence from panel data. J. Agric. Econ. http://dx.doi.org/ 10.1111/1477-9552.12221. 
+Kebede, Y., 1992. Risk taking behaviour and new technologies: the case of producers in the central highlands of Ethiopia. Q. J. Int. Agric. 31, 292–320. http://www.taa.org. uk/assets/pubs/Paper4%20IJAS477_2009%5B1%5D.pdf. 
+Kiboi, M.N., Ngetich, K.F., Diels, J., Mucheru-Muna, M., Mugwe, J., Mugendi, D.N., 2017. Minimum tillage, tied ridging and mulching for better maize yield and yield stability in the Central Highlands of Kenya. Soil Tillage Res. 170, 157–166. http://dx.doi.org/ 10.1016/j.still.2017.04.001. 
+Kim, D.G., Kirschbaum, M.U., Beedy, T.L., 2016. Carbon sequestration and net emissions of CH 4 and N 2 O under agroforestry: synthesizing available data and suggestions for future studies. Agric. Ecosyst. Environ. 226, 65–78. http://dx.doi.org/10.1016/j. agee.2016.04.011. 
+Knowler, D., Bradshaw, B., 2007. Farmers' adoption of conservation agriculture: a review 
+and synthesis of recent research. Food Policy 32 (1), 25–48. http://dx.doi.org/10. 1016/j.foodpol.2006.01.003. 
+Kostandini, G., La Rovere, R., Abdoulaye, T., 2013. Potential impacts of increasing average yields and reducing maize yield variability in Africa. Food Policy 43, 213–226. http://dx.doi.org/10.1016/j.foodpol.2013.09.007. 
+Kuriakose, A.T., Heltberg, R., Wiseman, W., Costella, C., Cipryk, R., Cornelius, S., 2012. 
+44 
+PAGE 18
+J. Hansen et al. 
+Agricultural Systems 172 (2019) 28–46 
+Climate-responsive social protection. In: Social Protection and Labor Discussion Paper, No. 1210. Background Paper for the World Bank 2012–2022 Social Protection and Labor Strategy, . http://hdl.handle.net/10986/13555. 
+La Rovere, R., Abdoulaye, T., Kostandini, G., Guo, Z., Mwangi, W., MacRobert, J., Dixon, J., 2014. Economic, production, and poverty impacts of investing in maize tolerant to drought in Africa: an ex-ante assessment. J. Dev. Areas 48 (1), 199–225. http://dx. doi.org/10.1353/jda.2014.0016. 
+Lawlor, K., Handa, S., Seidenfeld, D., Zambia Cash Transfer Evaluation TeaM, 2017. Cash transfers enable households to cope with agricultural production and price shocks: evidence from Zambia. J. Dev. Stud. 1–18. http://dx.doi.org/10.1080/00220388. 2017.1393519. 
+Lybbert, T., Carter, M.R., 2015. Bundling Drought Tolerance and Index Insurance to 
+Reduce Rural Household Vulnerability to Drought. Sustainable Economic Development: Resources, Environment, and Institutions, Elsevier Academic Press, USA. 
+Macours, K., Premand, P., Vakis, R., 2012. Transfers, diversiﬁcation and household risk 
+strategies: experimental evidence with lessons for climate change adaptation. In: World Bank Policy Research Working Paper 6053. The World Bank, Washington, DC. http://dx.doi.org/10.1007/s13398-014-0173-7.2. 
+Madajewicz, M., Tsegay, A.H., Norton, M., 2013. Managing Risks to Agricultural Livelihoods: Impact Evaluation of the HARITA Program in Tigray, Ethiopia, 2009–2012. Oxfam America, Boston. https://www.oxfamamerica.org/static/media/ ﬁles/Oxfam_America_Impact_Evaluation_of_HARITA_2009-2012_English.pdf. 
+Magnan, N., Lybbert, T.J., Mrabet, R., Fadlaoui, A., 2011. The quasi-option value of de- layed input use under catastrophic drought risk: the case of no-till in Morocco. Am. J. Agric. Econ. 93 (2), 498–504. http://dx.doi.org/10.1093/ajae/aaq136. 
+Makate, C., Wang, R., Makate, M., Mango, N., 2016. Crop diversiﬁcation and livelihoods 
+of smallholder farmers in Zimbabwe: adaptive management for environmental change. SpringerPlus 5 (1), 1–18. 
+Mango, N., Siziba, S., Makate, C., 2017. The impact of adoption of conservation agri- 
+culture on smallholder farmers' food security in semi-arid zones of southern Africa. Agric. Food Secur. 6 (1), 32. 
+Marenya, P.P., Barrett, C.B., 2007. Household-level determinants of adoption of improved 
+natural resources management practices among smallholder farmers in western Kenya. Food Policy 32 (4), 515–536. http://dx.doi.org/10.1016/j.foodpol.2006.10. 002. 
+Marra, M., Pannell, D.J., Ghadim, A.A., 2003. The economics of risk, uncertainty and 
+learning in the adoption of new agricultural technologies: where are we on the learning curve? Agric. Syst. 75 (2), 215–234. http://dx.doi.org/10.1016/S0308-521X (02)00066-5. 
+Masuka, B., Atlin, G.N., Olsen, M., Magorokosho, C., Labuschagne, M., Crossa, J., Bänziger, M., Pixley, K., Vivek, B., van Biljon, A., Macrobert, J., Alvarado, G., Prasanna, B.M., Makumbi, D., Tarekegne, T., Das, B., Zaman-Allah, M., Cairns, J.E., 2017a. Gains in maize genetic improvement in Eastern and Southern Africa (i) CIMMYT hybrid breeding pipeline. Crop Sci. 57, 168–179. 
+Masuka, B., Magorokosho, C., Olsen, M., Atlin, G.N., Bänziger, M., Pixley, K., Vivek, B., Labuschagne, M., Matemba-Mutasa, R., Burguenõ, J., Macrobert, J., Prasanna, B.M., Makumbi, D., Tarekegne, A., Crossa, J., Zaman-Allah, M., van Biljon, A., Cairns, J.E., 2017b. Gains in maize genetic improvement in Eastern and Southern Africa (ii) CIMMYT open pollinated varieties (OPVs) breeding pipeline. Crop Sci. 57, 180–191. Matsuda, M., 2013. Upland farming systems coping with uncertain rainfall in the central dry zone of Myanmar: how stable is indigenous multiple cropping under semi-arid conditions? Hum. Ecol. 41 (6), 927–936. http://dx.doi.org/10.1007/s10745-013- 9604-x. 
+McPeak, J.G., Barrett, C.B., 2001. Diﬀerential risk exposure and stochastic poverty traps among East African pastoralists. Am. J. Agric. Econ. 83 (3), 674–679. http://dx.doi. org/10.1111/0002-9092.00189. 
+Megersa, B., Markemann, A., Angassa, A., Zárate, A.V., 2014. The role of livestock di- 
+versiﬁcation in ensuring household food security under a changing climate in Borana, Ethiopia. Food Secur. 6 (1), 15–28. http://dx.doi.org/10.1007/s12571-013-0314-4. 
+Michler, J., Baylis, K., Arends-Kuenning, M., Mazvimavi, K., 2016. Conservation 
+Agriculture and Climate Resilience. http://works.bepress.com/kathy_baylis/77. 
+Miranda, M.J., Glauber, J.W., 1997. Systemic risk, reinsurance, and the failure of crop insurance markets. Am. J. Agric. Econ. 79 (1), 206–215. http://dx.doi.org/10.2307/ 1243954. 
+Mishra, K., Gallenstein, R., Miranda, M.J., Sam, A.G., Toledo, P.T., 2016. Can index in- surance improve credit access among smallhodler Farmers in Ghana? Does it diﬀer over male and female farmers? In: In 2016 Annual Meeting, July 31–August 2, 2016, Boston, Massachusetts (No. 239853). Agricultural and Applied Economics Association. http://ageconsearch.umn.edu/record/239853. 
+Miura, Sakurai, 2015. The Impact of Formal Insurance Provision on Farmer Behavior: 
+Evidence from Rural Zambia. In: PRIMCED Discussion Paper Series, No. 67. Hitotsubashi University. http://www.ier.hit-u.ac.jp/primced/documents/No67_dp_ up_Pdf_2014_000.pdf. 
+Mobarak, A.M., Rosenzweig, M.R., 2012. Selling formal insurance to the informally in- sured. In: Discussion Paper, Economic Growth Center, No. 1007, . http://hdl.handle. net/10419/59144. 
+Morris, M., Kelly, V.A., Kopicki, R., Byerlee, D., 2007. Fertilizer Use in African 
+Agriculture: Lessons Learned and Good Practice Guidelines. World Bank, Washington, DC. http://documents.worldbank.org/curated/en/ 498591468204546593/Fertilizer-use-in-African-agriculture-lessons-learned-and- good-practice-guidelines. 
+Mottaleb, K.A., Rejesus, R.M., Mohanty, S., Murty, M.V.R., Li, T., Valera, H.G., Gumma, M.K., 2012, August. Ex ante impact assessment of a drought tolerant rice variety in the presence of climate change. In: Agricultural and Applied Economics Association Annual Meeting, Seattle, Washington, USA, . http://purl.umn.edu/124745. 
+Mupangwa, W., Twomlow, S., Walker, S., 2012. Reduced tillage, mulching and rotational eﬀects on maize (Zea mays L.), cowpea (Vigna unguiculata (Walp) L.) and sorghum (Sorghum bicolor L.(Moench)) yields under semi-arid conditions. Field Crop Res. 132, 139–148. http://dx.doi.org/10.1016/j.fcr.2012.02.020. 
+Mupangwa, W., Mutenje, M., Thierfelder, C., Nyagumbo, I., 2017. Are conservation 
+agriculture (CA) systems productive and proﬁtable options for smallholder farmers in diﬀerent agro-ecoregions of Zimbabwe? Renew. Agric. Food Syst. 32 (1), 87–103. http://dx.doi.org/10.1017/S1742170516000041. 
+Mushongah, J., Scoones, I., 2012. Livelihood change in rural Zimbabwe over 20 years. J. Dev. Stud. 48 (9), 1241–1257. http://dx.doi.org/10.1080/00220388.2012.671474. Nalley, L.L., Barkley, A.P., 2010. Using portfolio theory to enhance wheat yield stability in low-income nations: an application in the Yaqui Valley of northwestern Mexico. J. Agric. Resour. Econ. 334–347. 
+Ngwira, A.R., Thierfelder, C., Eash, N., Lambert, D.M., 2013. Risk and maize-based cropping systems for smallholder Malawi farmers using conservation agriculture technologies. Exp. Agric. 49 (4), 483–503. http://dx.doi.org/10.1017/ S0014479713000306. 
+Palm, C., Blanco-Canqui, H., DeClerck, F., Gatere, L., Grace, P., 2014. Conservation agriculture and ecosystem services: an overview. Agric. Ecosyst. Environ. 187, 87–105. 
+Pellerano, L., Barca, V., 2014. Does one Size Fit all? The Conditions for Conditionality in 
+Cash Transfers. Oxford Policy Management Working Paper. OPM, Oxford. 
+Pingali, P.L., 2012. Green revolution: impacts, limits, and the path ahead. Proc. Natl. Acad. Sci. 109 (31), 12302–12308. http://dx.doi.org/10.1073/pnas.0912953109. Poulton, C., Kydd, J., Dorward, A., 2006. Overcoming market constraints on pro-poor 
+agricultural growth in sub-Saharan Africa. Dev. Policy Rev. 24 (3), 243–277. http:// dx.doi.org/10.1111/j.1467-7679.2006.00324.x. 
+Powlson, D.S., Stirling, C.M., Thierfelder, C., White, R.P., Jat, M.L., 2016. Does con- 
+servation agriculture deliver climate change mitigation through soil carbon seques- tration in tropical agro-ecosystems? Agric. Ecosyst. Environ. 220, 164–174. 
+Quinion, A., Chirwa, P.W., Akinnifesi, F.K., Ajayi, O.C., 2010. Do agroforestry technol- ogies improve the livelihoods of the resource poor farmers? Evidence from Kasungu and Machinga districts of Malawi. Agrofor. Syst. 80 (3), 457–465. http://dx.doi.org/ 10.1007/s10457-010-9318-7. 
+Reed, J., van Vianen, J., Foli, S., Clendenning, J., Yang, K., MacDonald, M., Petrokofsky, G., Padoch, C., Sunderland, T., 2017. Trees for life: the ecosystem service contribu- tion of trees to food production and livelihoods in the tropics. Forest Policy Econ. http://dx.doi.org/10.1016/j.forpol.2017.01.012. 
+Rose, E., 2001. Ex ante and ex post labor supply response to risk in a low-income area. J. 
+Dev. Econ. 64 (2), 371–388. http://dx.doi.org/10.1016/S0304-3878(00)00142-5. 
+Rosenzweig, M.R., Binswanger, H.P., 1993. Wealth, weather risk and the composition and 
+proﬁtability of agricultural investments. Econ. J. 103 (416), 56–78. http://dx.doi. org/10.2307/2234337. 
+Rosenzweig, M.R., Stark, O., 1989. Consumption smoothing, migration, and marriage: evidence from rural India. J. Polit. Econ. 97 (4), 905–926. http://dx.doi.org/10. 1086/261633. 
+Rusinamhodzi, L., Corbeels, M., Van Wijk, M.T., Ruﬁno, M.C., Nyamangara, J., Giller, 
+K.E., 2011. A meta-analysis of long-term eﬀects of conservation agriculture on maize grain yield under rain-fed conditions. Agron. Sustain. Dev. 31 (4), 657. http://dx.doi. org/10.1007/s13593-011-0040-2. 
+Sapkota, T.B., Majumdar, K., Jat, M.L., Kumar, A., Bishnoi, D.K., McDonald, A.J., 
+Pampolino, M., 2014. Precision nutrient management in conservation agriculture based wheat production of Northwest India: proﬁtability, nutrient use eﬃciency and environmental footprint. Field Crop Res. 155, 233–244. http://dx.doi.org/10.1016/j. fcr.2013.09.001. 
+Sapkota, T.B., Jat, M.L., Aryal, J.P., Jat, R.K., Khatri-Chhetri, A., 2015. Climate change 
+adaptation, greenhouse gas mitigation and economic proﬁtability of conservation agriculture: some examples from cereal systems of indo-Gangetic Plains. J. Integr. Agric. 14 (8), 1524–1533. 
+Sarangi, S.K., Maji, B., Singh, S., Sharma, D.K., Burman, D., Mandal, S., Singh, U.S., 
+Ismail, A.M., Haefele, S.M., 2016. Using improved variety and management enhances rice productivity in stagnant ﬂood-aﬀected tropical coastal zones. Field Crop Res. 190, 70–81. http://dx.doi.org/10.1016/j.fcr.2015.10.024. 
+Senyolo, M.P., Long, T.B., Blok, V., Omta, O., 2017. How the characteristics of innova- tions impact their adoption: an exploration of climate-smart agricultural innovations in South Africa. J. Clean. Prod. http://dx.doi.org/10.1016/j.jclepro.2017.06.019. 
+Setimela, P.S., Magorokosho, C., Lunduka, R., Gasura, E., Makumbi, D., Tarekegne, A., Cairns, J.E., Ndhlela, T., Erenstein, O., Mwangi, W., 2017a. On-farm yield gains with stress-tolerant maize in eastern and southern Africa. Agron. J. 109 (2), 406–417. http://dx.doi.org/10.2134/agronj2015.0540. 
+Setimela, P.S., Lunduka, R., Zaman-Allah, M., Ndoro, O., Cairns, J.E., 2017b. Performance 
+of Elite Drought Tolerant Maize Varieties Eastern and Southern Africa, Season 2015–16. CIMMYT, Zimbabwe. 
+Sibiko, K.W., Qaim, M., 2017. Weather Index Insurance, Agricultural Input Use, and Crop Productivity in Kenya. GlobalFood Discussion Paper No. 94. University of Göttingen. http://www.uni-goettingen.de/de/213486.html. 
+Sileshi, G.W., Akinnifesi, F.K., Ajayi, O.C., Muys, B., 2011. Integration of legume trees in maize-based cropping systems improves rain use eﬃciency and yield stability under rain-fed agriculture. Agric. Water Manag. 98 (9), 1364–1372. http://dx.doi.org/10. 1016/j.agwat.2011.04.002. 
+Sileshi, G.W., Debusho, L.K., Akinnifesi, F.K., 2012. Can integration of legume trees in- crease yield stability in rainfed maize cropping systems in Southern Africa? Agron. J. 104 (5), 1392–1398. http://dx.doi.org/10.2134/agronj2012.0063. 
+Simelton, E., Dam, B.V., Catacutan, D., 2015. Trees and agroforestry for coping with 
+extreme weather events: experiences from northern and central Viet Nam. Agrofor. Syst. 89 (6), 1065–1082. http://dx.doi.org/10.1007/s10457-015-9835-5. 
+45 
+PAGE 19
+J. Hansen et al. 
+Agricultural Systems 172 (2019) 28–46 
+Simtowe, F.P., 2006. Can risk-aversion towards fertilizer explain part of the non-adoption 
+puzzle for hybrid maize? Empirical evidence from Malawi. J. Appl. Sci. 6 (7), 1490–1498. https://ssrn.com/abstract=939398. 
+Singh, S., Mackill, D.J., Ismail, A.M., 2009. Responses of SUB1 rice introgression lines to 
+submergence in the ﬁeld: yield and grain quality. Field Crop Res. 113 (1), 12–23. http://dx.doi.org/10.1016/j.fcr.2009.04.003. 
+Soares, F.V., Knowles, M., Daidone, S., Tirivayi, N., 2016. Combined Eﬀects and Synergies Between Agricultural and Social Protection Interventions: What is the Evidence So Far. FAO, Rome. http://dx.doi.org/10.1016/j.gfs.2016.08.004. 
+Steﬀan-Dewenter, I., Kessler, M., Barkmann, J., Bos, M.M., Buchori, D., Erasmi, S., Faust, 
+H., Gerold, G., Glenk, K., Gradstein, S.R., Guhardja, E., Harteveld, M., Hertel, D., Höhn, P., Kappas, M., Köhler, S., Leuschner, C., Maertens, M., Marggraf, R., Migge- Kleian, S., Mogea, J., Pitopang, R., Schaefer, M., Schwarze, S., Sporn, S.G., Steingrebe, A., Tjitrosoedirdjo, S.S., Tjitrosoemito, S., Twele, A., Weber, R., Woltmann, L., Zeller, M., Tscharntke, T., 2007. Tradeoﬀs between income, biodi- versity, and ecosystem functioning during tropical rainforest conversion and agro- forestry intensiﬁcation. Proc. Natl. Acad. Sci. 104 (12), 4973–4978. http://dx.doi. org/10.1073/pnas.0608409104. 
+Steward, P.R., Dougill, A.J., Thierfelder, C., Pittelkow, C.M., Stringer, L.C., Kudzala, M., 
+Shackelford, G.E., 2018. The adaptive capacity of maize-based conservation agri- culture systems to climate stress in tropical and subtropical environments: a meta- regression of yields. Agric. Ecosyst. Environ. 251, 194–202. 
+Stoeﬄer, Q., Gelade, W., Guirkinger, C., Carter, M., 2016. Indirect protection: the impact of cotton insurance on farmers income portfolio in Burkina Faso. In: In 2016 Annual Meeting, July 31-August 2, 2016, Boston, Massachusetts (No. 235980). Agricultural and Applied Economics Association. http://ageconsearch.umn.edu/record/235980. Tadesse, M.A., Shiferaw, B.A., Erenstein, O., 2015. Weather index insurance for managing 
+drought risk in smallholder agriculture: lessons and policy implications for sub- Saharan Africa. Agric. Food Econ. 3 (1), 26. http://dx.doi.org/10.1186/s40100-015- 0044-3. 
+Thierfelder, C., Wall, P.C., 2009. Eﬀects of conservation agriculture techniques on in- 
+ﬁltration and soil water content in Zambia and Zimbabwe. Soil Tillage Res. 105 (2), 217–227. http://dx.doi.org/10.1016/j.still.2009.07.007. 
+Thierfelder, C., Wall, P.C., 2010. Investigating conservation agriculture (CA) systems in Zambia and Zimbabwe to mitigate future eﬀects of climate change. J. Crop Improv. 24 (2), 113–121. http://dx.doi.org/10.1080/15427520903558484. 
+Thierfelder, C., Wall, P.C., 2012. Eﬀects of conservation agriculture on soil quality and 
+productivity in contrasting agro-ecological environments of Zimbabwe. Soil Use Manag. 28 (2), 209–220. 
+Thierfelder, C., Matemba-Mutasa, R., Rusinamhodzi, L., 2015. Yield response of maize (Zea mays L.) to conservation agriculture cropping system in Southern Africa. Soil Tillage Res. 146, 230–242. http://dx.doi.org/10.1016/j.still.2014.10.015. 
+Thierfelder, C., Chivenge, P., Mupangwa, W., Rosenstock, T.S., Lamanna, C., Eyre, J.X., 2017. How climate-smart is conservation agriculture (CA)?–its potential to deliver on 
+adaptation, mitigation and productivity on smallholder farms in southern Africa. Food Secur. 1–24. http://dx.doi.org/10.1007/s12571-017-0665-3. 
+Thorlakson, T., Neufeldt, H., 2012. Reducing subsistence farmers' vulnerability to climate 
+change: evaluating the potential contributions of agroforestry in western Kenya. Agric. Food Secur. 1 (1), 15. http://dx.doi.org/10.1186/2048-7010-1-15. 
+Tirivayi, N., Knowles, M., Davis, B., 2016. The interaction between social protection and agriculture: a review of evidence. Global Food Secur. 10, 52–62. http://dx.doi.org/ 10.1016/j.gfs.2016.08.004. 
+Todd, J.E., Winters, P.C., Hertz, T., 2010. Conditional cash transfers and agricultural 
+production: lessons from the Oportunidades experience in Mexico. J. Dev. Stud. 46 (1), 39–67. http://dx.doi.org/10.1080/00220380903197945. 
+Valbuena, D., Groot, J.C., Mukalama, J., Gérard, B., Tittonell, P., 2015. Improving rural livelihoods as a “moving target”: trajectories of change in smallholder farming sys- tems of Western Kenya. Reg. Environ. Chang. 15 (7), 1395–1407. http://dx.doi.org/ 10.1007/s10113-014-0702-0. 
+Verhulst, N., Nelissen, V., Jespers, N., Haven, H., Sayre, K.D., Raes, D., Deckers, J., 
+Govaerts, B., 2011. Soil water content, maize yield and its stability as aﬀected by tillage and crop residue management in rainfed semi-arid highlands. Plant Soil 344 (1–2), 73–85. http://dx.doi.org/10.1007/s11104-011-0728-8. 
+Victora, C.G., Adair, L., Fall, C., Hallal, P.C., Martorell, R., Richter, L., Sachdev, H.S., Maternal and Child Undernutrition Study Group, 2008. Maternal and child under- nutrition: consequences for adult health and human capital. Lancet 371 (9609), 340–357. http://dx.doi.org/10.1016/S0140-6736(07)61692-4. 
+Waddington, S.R., Li, X., Dixon, J., Hyman, G., De Vicente, M.C., 2010. Getting the focus right: production constraints for six major food crops in Asian and African farming systems. Food Secur. 2 (1), 27–48. http://dx.doi.org/10.1007/s12571-010-0053-8. 
+Walker, T.S., Ryan, J.G., 1990. Village and Household Economies in India's Semiarid 
+Tropics. Johns Hopkins University Press, Baltimore. 
+Ward, P.S., Makhija, S., 2016. New modalities for managing drought risk in rainfed 
+agriculture: evidence from a discrete choice experiment in Odisha, India. In: IFPRI Discussion Paper 1563. International Food Policy Research Institute (IFPRI), Washington, D.C.. http://ebrary.ifpri.org/cdm/ref/collection/p15738coll2/id/ 130733. 
+Ward, P.S., Spielman, D.J., Ortega, D.L., Kumar, N., Minocha, S., 2015. Demand for 
+complementary ﬁnancial and technological tools for managing drought risk. In: IFPRI Discussion Paper 1430. International Food Policy Research Institute (IFPRI), Washington, D.C.. http://ebrary.ifpri.org/cdm/ref/collection/p15738coll2/id/ 129092. 
+Wood, G., 2003. Staying secure, staying poor: the “Faustian Bargain”. World Dev. 31 (3), 
+455–471. http://dx.doi.org/10.1016/S0305-750X(02)00213-9. 
+Zimmerman, F.J., Carter, M.R., 2003. Asset smoothing, consumption smoothing and the reproduction of inequality under risk and subsistence constraints. J. Dev. Econ. 71 (2), 233–260. http://dx.doi.org/10.1016/S0304-3878(03)00028-2. 
+46 
