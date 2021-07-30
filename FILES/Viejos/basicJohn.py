@@ -4,7 +4,7 @@ from pdfminer.pdfinterp import PDFPageInterpreter, PDFResourceManager
 from pdfminer.pdfpage import PDFPage
 from pdfminer.layout import LTTextBoxHorizontal
 
-document = open('xyz.pdf', 'rb')
+document = open('../../xyz.pdf', 'rb')
 #Create resource manager
 rsrcmgr = PDFResourceManager()
 # Set parameters for analysis.

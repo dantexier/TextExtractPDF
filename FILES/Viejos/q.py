@@ -69,7 +69,7 @@ def myExtractText(self, distance=None):
         
 # --- main ---
         
-pdfFileObj = open('2.pdf', 'rb')
+pdfFileObj = open('../../2.pdf', 'rb')
 pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
 
 text = ''

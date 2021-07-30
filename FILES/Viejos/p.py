@@ -1,6 +1,6 @@
 import PyPDF2
 
-pdfFileObj = open('xyz.pdf','rb')
+pdfFileObj = open('../../xyz.pdf', 'rb')
 pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
 pageCount = pdfReader.numPages
 count = 0
